@@ -2,7 +2,7 @@
 
 This is a quick and simple board designed to break out most of the pins on the [Teensy 2.0](https://www.pjrc.com/store/teensy.html) board to screw terminals.
 
-I used 0.1" (2.54 mm) pitch screw terminals because it's the same pitch as the pins on the Teensy. I used three 4-pin terminal blocks along the long sides of the teensy (rather than a single 12-pin terminal block) because they're more common and flexible ... and I already had several on hand.
+I used 0.1" (2.54 mm) pitch screw terminals because it's the same pitch as the pins on the Teensy. I used three 4-pin terminal blocks along the long sides of the Teensy (rather than a single 12-pin terminal block) because they're more common and flexible ... and I already had several on hand.
 
 ## Design files
 

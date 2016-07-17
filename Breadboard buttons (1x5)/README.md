@@ -1,12 +1,16 @@
 # Breadboard buttons (1x5)
 
-................
+Buttons and resistors on a breadboard compatible PCB.
+
+While the button is not being pressed, the input signal (numbered 1 through 5) is connected through a resistor to the inactive (I) pin. When the button is pressed, the input signal is connected to the active (A) pin. This enabled you to select whether the buttons are active high or active low (or anything else really) simply by connecting a different voltage to the active (A) and inactive (I) pins.
+
+If you want the input to go high when a button is pressed (active high), connect VCC to the active (A) pin and ground to the inactive (I) pin. If you want the input to go low when a button is pressed (active low) connect ground to the active (A) pin and VCC to the inactive (I) pin.
 
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/f769853e2825a702/Teensy-screws/). Exports from Upverter are available in a subdirectory.
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/3e25da6e03fb6ce9/Breadboard-buttons-1x5/). Exports from Upverter are available in a subdirectory.
 
 ## Licence
 

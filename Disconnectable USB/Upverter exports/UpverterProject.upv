@@ -1,0 +1,3846 @@
+{
+    "component_instances": [
+        {
+            "attributes": {
+                "refdes": "SW1"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": null, 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 0.5, 
+                "side": "top", 
+                "x": 15650000, 
+                "y": 10000000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "508000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "900000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "square", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -3810000, 
+                    "y": 3750000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "900000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -3810000, 
+                    "y": 1250000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "900000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -3810000, 
+                    "y": -1250000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "900000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -3810000, 
+                    "y": -3750000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "900000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 3810000, 
+                    "y": -3750000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "900000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 3810000, 
+                    "y": -1250000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "900000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 3810000, 
+                    "y": 1250000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "900000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 3810000, 
+                    "y": 3750000
+                }
+            ], 
+            "instance_id": "f178ae9f3eb66128", 
+            "library_id": "9c52dfc5d91648b6", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "{{refdes}}A", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "{{refdes}}A", 
+                            "visible": "true", 
+                            "x": 0, 
+                            "y": 10
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": 800, 
+                    "y": -660
+                }, 
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "{{refdes}}B", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "{{refdes}}B", 
+                            "visible": "true", 
+                            "x": 0, 
+                            "y": 10
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": 800, 
+                    "y": -700
+                }, 
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "{{refdes}}C", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "{{refdes}}C", 
+                            "visible": "true", 
+                            "x": 0, 
+                            "y": 10
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": 800, 
+                    "y": -740
+                }, 
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "{{refdes}}D", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "{{refdes}}D", 
+                            "visible": "true", 
+                            "x": 0, 
+                            "y": 10
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": 800, 
+                    "y": -780
+                }
+            ], 
+            "symbol_index": 0
+        }, 
+        {
+            "attributes": {
+                "refdes": "J2"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": null, 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 0.5, 
+                "side": "top", 
+                "x": 30475000, 
+                "y": 10000000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "end_layer": "bottom copper", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "2300000", 
+                        "non_plated": "0", 
+                        "plated": "1", 
+                        "plating_diameter": "2900000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "start_layer": "top copper", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 6470000, 
+                    "y": -3070000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "end_layer": "bottom copper", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "2300000", 
+                        "non_plated": "0", 
+                        "plated": "1", 
+                        "plating_diameter": "2900000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "start_layer": "top copper", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -6670000, 
+                    "y": -3070000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "end_layer": "bottom copper", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "950000", 
+                        "non_plated": "0", 
+                        "plated": "1", 
+                        "plating_diameter": "1550000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "square", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "start_layer": "top copper", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 3400000, 
+                    "y": -5780000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "end_layer": "bottom copper", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "950000", 
+                        "non_plated": "0", 
+                        "plated": "1", 
+                        "plating_diameter": "1550000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "start_layer": "top copper", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 900000, 
+                    "y": -5780000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "end_layer": "bottom copper", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "950000", 
+                        "non_plated": "0", 
+                        "plated": "1", 
+                        "plating_diameter": "1550000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "start_layer": "top copper", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -1100000, 
+                    "y": -5780000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "end_layer": "bottom copper", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "950000", 
+                        "non_plated": "0", 
+                        "plated": "1", 
+                        "plating_diameter": "1550000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "start_layer": "top copper", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -3600000, 
+                    "y": -5780000
+                }
+            ], 
+            "instance_id": "c42a6a9a39d68f58", 
+            "library_id": "45426d3ceedf292c", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "J2", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "J2", 
+                            "visible": "true", 
+                            "x": -30, 
+                            "y": 60
+                        }, 
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "67643-0910", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "67643-0910", 
+                            "visible": "true", 
+                            "x": -24, 
+                            "y": 3
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": 960, 
+                    "y": -740
+                }
+            ], 
+            "symbol_index": 0
+        }, 
+        {
+            "attributes": {
+                "refdes": "J1"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "bottom courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 1.5, 
+                "side": "top", 
+                "x": 5000000, 
+                "y": 10000000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "10000000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "attached_layers": "top solder mask,top copper", 
+                        "height": "7600000", 
+                        "radius": "0", 
+                        "shape": "rectangle", 
+                        "spoke_width": "-1", 
+                        "type": "padstack", 
+                        "width": "1600000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -4300000, 
+                    "y": 3800000
+                }, 
+                {
+                    "attributes": {
+                        "attached_layers": "top solder mask,top copper", 
+                        "height": "6600000", 
+                        "radius": "0", 
+                        "shape": "rectangle", 
+                        "spoke_width": "-1", 
+                        "type": "padstack", 
+                        "width": "1100000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -1550000, 
+                    "y": 2800000
+                }, 
+                {
+                    "attributes": {
+                        "attached_layers": "top solder mask,top copper", 
+                        "height": "6600000", 
+                        "radius": "0", 
+                        "shape": "rectangle", 
+                        "spoke_width": "-1", 
+                        "type": "padstack", 
+                        "width": "1100000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 450000, 
+                    "y": 2800000
+                }, 
+                {
+                    "attributes": {
+                        "attached_layers": "top solder mask,top copper", 
+                        "height": "7600000", 
+                        "radius": "0", 
+                        "shape": "rectangle", 
+                        "spoke_width": "-1", 
+                        "type": "padstack", 
+                        "width": "1600000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 2700000, 
+                    "y": 3800000
+                }
+            ], 
+            "instance_id": "a10719251b11ad89", 
+            "library_id": "a2a0a919dd56def0", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "J1", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "J1", 
+                            "visible": "true", 
+                            "x": -27, 
+                            "y": 58
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": 700, 
+                    "y": -730
+                }
+            ], 
+            "symbol_index": 0
+        }
+    ], 
+    "components": {
+        "45426d3ceedf292c": {
+            "attributes": {
+                "3D_model": "http://www.molex.com/pdm_docs/stp/67643-0910_stp.zip", 
+                "Application": "Wire-to-Board", 
+                "Boot_Color": "N/A", 
+                "Category": "I/O Connectors", 
+                "Circuits_Loaded": "4", 
+                "Circuits_maximum": "4", 
+                "Comments": "Without Upper Flange,  Not for IR Reflow Process", 
+                "Component_Type": "Receptacle", 
+                "Current___Maximum_per_Contact": "1.5A", 
+                "Duration_at_Max_Process_Temperature_seconds": "003", 
+                "Gender": "Receptacle", 
+                "Keying_to_Mating_Part": "Yes", 
+                "Lead_freeProcess_Capability": "REFLOW", 
+                "Lock_to_Mating_Part": "Yes", 
+                "Material___Plating_Mating": "Gold", 
+                "Material___Plating_Termination": "Tin", 
+                "Max_Cycles_at_Max_Process_Temperature": "001", 
+                "Net_Weight": "1.860/g", 
+                "Number_of_Rows": "1", 
+                "Orientation": "Right Angle", 
+                "Overview": "Consumer USB Products", 
+                "PCB_Locator": "Yes", 
+                "PCB_Retention": "Yes", 
+                "PCB_Thickness___Recommended": "1.60mm", 
+                "PC_Tail_Length": "2.60mm", 
+                "Packaging_Type": "Tray", 
+                "Panel_Mount": "Yes", 
+                "Pitch___Mating_Interface": "2.00mm, 2.50mm", 
+                "Pitch___Termination_Interface": "2.00mm, 2.50mm", 
+                "Polarized_to_Mating_Part": "Yes", 
+                "Polarized_to_PCB": "Yes", 
+                "Ports": "1", 
+                "Process_Temperature_max_C": "245", 
+                "Product_Name": "USB", 
+                "Product_Specification": "PS-67643-003", 
+                "Sales_Drawing": "SD-67643-003", 
+                "Series": "67643", 
+                "Shield_Type": "Full Shield", 
+                "Shielded": "Yes", 
+                "Status": "Active", 
+                "Surface_Mount_Compatible_SMC": "No", 
+                "Temperature_Range___Operating": "-40\u00b0C to +85\u00b0C", 
+                "Termination_Interface_Style": "Through Hole", 
+                "Test_Summary": "TS-67643-003", 
+                "Type": "A", 
+                "UPC": "822350071598", 
+                "Voltage___Maximum": "30V DC", 
+                "Waterproof__Dustproof": "No", 
+                "_category": "Conn", 
+                "_category_0836c53c3d42d3f1": "Connectors", 
+                "_category_3e6ef3640b2fe5a9": "Card Edge", 
+                "_category_75fab8f04590ae3d": "Connectors and Adapters", 
+                "_category_a3c16ecb93907806": "Uncategorized", 
+                "_category_bda670ac885e6661": "Uncategorized", 
+                "_datasheet": "http://www.molex.com/pdm_docs/sd/676430910_sd.pdf", 
+                "_digikey_description": "", 
+                "_digikey_part_number": "", 
+                "_imported_from_octopart": "yes", 
+                "_lead_free": "yes", 
+                "_manufacturer": "Molex", 
+                "_mouser_part_number": "", 
+                "_num_pins": "6", 
+                "_octopart_part_number": "618ba8858f99be4c", 
+                "_package": "CONN", 
+                "_part_number": "67643-0910", 
+                "_prefix": "J", 
+                "_rohs": "yes", 
+                "_temperature_range_high": "", 
+                "_temperature_range_low": "", 
+                "_type": "connector", 
+                "_verified_attributes": "false", 
+                "_verified_geometry": "false", 
+                "_verified_pad_assignment": "false", 
+                "_verified_pin_names": "false", 
+                "contact_material": "Phosphor Bronze", 
+                "contact_plating": "Gold", 
+                "current_rating": "500 mA", 
+                "flammability_rating": "UL 94 V-0", 
+                "gender": "Female", 
+                "halogen_free_status": "Not Low Halogen", 
+                "housing_color": "Black", 
+                "housing_material": "Plastic", 
+                "imported": "yes", 
+                "imported_from": "3D Model", 
+                "lifecycle_status": "Active", 
+                "mounting_type": "through hole", 
+                "number_of_circuits": "4 ", 
+                "number_of_contacts": "4 ", 
+                "number_of_positions": "4 ", 
+                "orientation": "Right Angle", 
+                "part_page": "http://www.molex.com/molex/products/datasheet.jsp?part=active/0676430910_IO_CONNECTORS.xml", 
+                "pin_pitch": "2.5 mm", 
+                "size_height": "6.97 mm", 
+                "size_length": "15.26 mm", 
+                "size_width": "14.4 mm"
+            }, 
+            "footprints": [
+                {
+                    "bodies": [
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top package outline", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": -15297076, 
+                                    "is_centered": false, 
+                                    "line_width": 152400, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 16131828, 
+                                    "x": -100000, 
+                                    "y": -401463
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top courtyard", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 15699476, 
+                                    "is_centered": false, 
+                                    "line_width": 0, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 16534228, 
+                                    "x": -100000, 
+                                    "y": -401462
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 15699476, 
+                                    "is_centered": false, 
+                                    "line_width": 150000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 16534228, 
+                                    "x": -100000, 
+                                    "y": -401462
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": true, 
+                            "pin_num": null, 
+                            "removeable": true, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 1000000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{refdes}}", 
+                                    "type": "label", 
+                                    "x": -8367114, 
+                                    "y": 7698276
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 250000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 3457886, 
+                                    "y": -9255000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "assembly", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -8367114, 
+                                        "y": -8251200
+                                    }, 
+                                    "p2": {
+                                        "x": -8367114, 
+                                        "y": 7448276
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -8367114, 
+                                        "y": 7448276
+                                    }, 
+                                    "p2": {
+                                        "x": 8167114, 
+                                        "y": 7448276
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 8167114, 
+                                        "y": 7448276
+                                    }, 
+                                    "p2": {
+                                        "x": 8167114, 
+                                        "y": -8251200
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 8167114, 
+                                        "y": -8251200
+                                    }, 
+                                    "p2": {
+                                        "x": -8367114, 
+                                        "y": -8251200
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "align": "center", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 1000000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{refdes}}", 
+                                    "type": "label", 
+                                    "x": 0, 
+                                    "y": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 250000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 5027218, 
+                                    "y": -4308380
+                                }
+                            ]
+                        }
+                    ], 
+                    "gen_objs": [
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "end_layer": "bottom copper", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "2300000", 
+                                "non_plated": "0", 
+                                "plated": "1", 
+                                "plating_diameter": "2900000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "start_layer": "top copper", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                4
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 6470000, 
+                            "y": -3070000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "end_layer": "bottom copper", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "2300000", 
+                                "non_plated": "0", 
+                                "plated": "1", 
+                                "plating_diameter": "2900000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "start_layer": "top copper", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                5
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -6670000, 
+                            "y": -3070000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "end_layer": "bottom copper", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "950000", 
+                                "non_plated": "0", 
+                                "plated": "1", 
+                                "plating_diameter": "1550000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "square", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "start_layer": "top copper", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                0
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 3400000, 
+                            "y": -5780000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "end_layer": "bottom copper", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "950000", 
+                                "non_plated": "0", 
+                                "plated": "1", 
+                                "plating_diameter": "1550000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "start_layer": "top copper", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                1
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 900000, 
+                            "y": -5780000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "end_layer": "bottom copper", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "950000", 
+                                "non_plated": "0", 
+                                "plated": "1", 
+                                "plating_diameter": "1550000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "start_layer": "top copper", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                2
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -1100000, 
+                            "y": -5780000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "end_layer": "bottom copper", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "950000", 
+                                "non_plated": "0", 
+                                "plated": "1", 
+                                "plating_diameter": "1550000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "start_layer": "top copper", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                3
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -3600000, 
+                            "y": -5780000
+                        }
+                    ]
+                }
+            ], 
+            "name": "Universal Serial Bus (USB) Shielded I/O Receptacle, Right Angle, Type A,  Black Polyester, Gold (Au) Flash, PCB Thickness 1.60mm, without Upper Flange, Lead-Free", 
+            "symbols": [
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            2
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "D+", 
+                                    "p1": {
+                                        "x": -30, 
+                                        "y": 20
+                                    }, 
+                                    "p2": {
+                                        "x": -40, 
+                                        "y": 20
+                                    }, 
+                                    "ref": "3", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            1
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "D-", 
+                                    "p1": {
+                                        "x": -30, 
+                                        "y": 30
+                                    }, 
+                                    "p2": {
+                                        "x": -40, 
+                                        "y": 30
+                                    }, 
+                                    "ref": "2", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "VBUS", 
+                                    "p1": {
+                                        "x": -30, 
+                                        "y": 40
+                                    }, 
+                                    "p2": {
+                                        "x": -40, 
+                                        "y": 40
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            3
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "GND", 
+                                    "p1": {
+                                        "x": 40, 
+                                        "y": 40
+                                    }, 
+                                    "p2": {
+                                        "x": 50, 
+                                        "y": 40
+                                    }, 
+                                    "ref": "4", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            4
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "S", 
+                                    "p1": {
+                                        "x": 40, 
+                                        "y": 30
+                                    }, 
+                                    "p2": {
+                                        "x": 50, 
+                                        "y": 30
+                                    }, 
+                                    "ref": "5", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            5
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "S", 
+                                    "p1": {
+                                        "x": 40, 
+                                        "y": 20
+                                    }, 
+                                    "p2": {
+                                        "x": 50, 
+                                        "y": 20
+                                    }, 
+                                    "ref": "6", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }
+                            ], 
+                            "annotations": [], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 40, 
+                                    "is_centered": false, 
+                                    "line_width": 1, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 70, 
+                                    "x": -30, 
+                                    "y": 50
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{_pin_2_name}}", 
+                                    "type": "label", 
+                                    "x": -28, 
+                                    "y": 20
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{_pin_1_name}}", 
+                                    "type": "label", 
+                                    "x": -28, 
+                                    "y": 30
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{_pin_0_name}}", 
+                                    "type": "label", 
+                                    "x": -28, 
+                                    "y": 40
+                                }, 
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{_pin_3_name}}", 
+                                    "type": "label", 
+                                    "x": 38, 
+                                    "y": 40
+                                }, 
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{_pin_4_name}}", 
+                                    "type": "label", 
+                                    "x": 38, 
+                                    "y": 30
+                                }, 
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{_pin_5_name}}", 
+                                    "type": "label", 
+                                    "x": 38, 
+                                    "y": 20
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }
+            ], 
+            "threed_models": []
+        }, 
+        "57226182e92f4941": {
+            "attributes": {
+                "_approved_alternate_part_number": "", 
+                "_category": "IC", 
+                "_datasheet": "", 
+                "_digikey_description": "", 
+                "_digikey_part_number": "", 
+                "_lead_free": "Unknown", 
+                "_manufacturer": "Upverter", 
+                "_mouser_part_number": "", 
+                "_octopart_part_number": "", 
+                "_package": "", 
+                "_part_number": "bbq1475fz/p", 
+                "_prefix": "U", 
+                "_rohs": "Unknown", 
+                "_temperature_range_high": "", 
+                "_temperature_range_low": "", 
+                "_verified_attributes": "false", 
+                "_verified_geometry": "false", 
+                "_verified_pad_assignment": "false", 
+                "_verified_pin_names": "false"
+            }, 
+            "footprints": [], 
+            "name": "No description", 
+            "symbols": [
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [], 
+                            "annotations": [], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 110, 
+                                    "is_centered": false, 
+                                    "line_width": 0, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 110, 
+                                    "x": 0, 
+                                    "y": 110
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }
+            ], 
+            "threed_models": []
+        }, 
+        "9c52dfc5d91648b6": {
+            "attributes": {
+                "Actuator Level": "Raised", 
+                "Actuator Type": "Standard", 
+                "Associated Product": "- HAND TOOL FOR DIP SWITCH", 
+                "Circuit": "SPST", 
+                "Contact Rating @ Voltage": "0.15A @ 30VDC", 
+                "Imported From": "PartsBot", 
+                "Mounting Type": "Through Hole", 
+                "Number of Positions": "4", 
+                "Orientation": "Top Actuated", 
+                "Other Names": "GH7184", 
+                "Standard Package": "21", 
+                "Washable": "Yes", 
+                "_approved_alternate_part_number": "", 
+                "_datasheet": "https://upverter.com/datasheet/6428f4fcbabc8ac3c1e7f6bef88eb7df8f3c365b.pdf", 
+                "_digikey_description": "", 
+                "_digikey_part_number": "", 
+                "_lead_free": "Unknown", 
+                "_manufacturer": "Grayhill Inc", 
+                "_mfg_package_ident": "", 
+                "_mouser_part_number": "", 
+                "_octopart_part_number": "", 
+                "_package": "DIP8", 
+                "_part_number": "78B04ST", 
+                "_prefix": "SW", 
+                "_rohs": "Unknown", 
+                "_temperature_range_high": "", 
+                "_temperature_range_low": "", 
+                "_verified_attributes": "true", 
+                "_verified_geometry": "true", 
+                "_verified_pad_assignment": "true", 
+                "_verified_pin_names": "true"
+            }, 
+            "footprints": [
+                {
+                    "bodies": [
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top package outline", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 12200000, 
+                                    "is_centered": false, 
+                                    "line_width": 152400, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 9650000, 
+                                    "x": 0, 
+                                    "y": 0
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top courtyard", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 12602400, 
+                                    "is_centered": false, 
+                                    "line_width": 0, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 10052400, 
+                                    "x": 0, 
+                                    "y": 0
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 12602400, 
+                                    "is_centered": false, 
+                                    "line_width": 150000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 10052400, 
+                                    "x": 0, 
+                                    "y": 0
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": true, 
+                            "pin_num": null, 
+                            "removeable": true, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 1000000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{refdes}}", 
+                                    "type": "label", 
+                                    "x": -5026200, 
+                                    "y": 6551200
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 250000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": -5326200, 
+                                    "y": 3775000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "assembly", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -5026200, 
+                                        "y": -6301200
+                                    }, 
+                                    "p2": {
+                                        "x": -5026200, 
+                                        "y": 6301200
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -5026200, 
+                                        "y": 6301200
+                                    }, 
+                                    "p2": {
+                                        "x": 5026200, 
+                                        "y": 6301200
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 5026200, 
+                                        "y": 6301200
+                                    }, 
+                                    "p2": {
+                                        "x": 5026200, 
+                                        "y": -6301200
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 5026200, 
+                                        "y": -6301200
+                                    }, 
+                                    "p2": {
+                                        "x": -5026200, 
+                                        "y": -6301200
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "align": "center", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 1000000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{refdes}}", 
+                                    "type": "label", 
+                                    "x": 0, 
+                                    "y": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 250000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": -3015720, 
+                                    "y": 4290720
+                                }
+                            ]
+                        }
+                    ], 
+                    "gen_objs": [
+                        {
+                            "attributes": {
+                                "type": "center cross", 
+                                "width": "508000"
+                            }, 
+                            "connection_indexes": null, 
+                            "flip": false, 
+                            "layer": "top component", 
+                            "rotation": 0.0, 
+                            "x": 0, 
+                            "y": 0
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "900000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "1500000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "square", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                0
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -3810000, 
+                            "y": 3750000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "900000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "1500000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                1
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -3810000, 
+                            "y": 1250000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "900000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "1500000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                2
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -3810000, 
+                            "y": -1250000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "900000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "1500000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                3
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -3810000, 
+                            "y": -3750000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "900000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "1500000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                4
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 3810000, 
+                            "y": -3750000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "900000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "1500000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                5
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 3810000, 
+                            "y": -1250000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "900000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "1500000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                6
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 3810000, 
+                            "y": 1250000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "900000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "1500000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                7
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 3810000, 
+                            "y": 3750000
+                        }
+                    ]
+                }
+            ], 
+            "name": "Quad Thru-Hole DIP Switch", 
+            "symbols": [
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "A1", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            7
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "B1", 
+                                    "p1": {
+                                        "x": 30, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 40, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "8", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }
+                            ], 
+                            "annotations": [], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 3, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 13, 
+                                    "y": -10
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 3, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 27, 
+                                    "y": -10
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 16, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 26, 
+                                        "y": 0
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }
+                            ], 
+                            "styles": {}
+                        }, 
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            1
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "A2", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "2", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            6
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "B2", 
+                                    "p1": {
+                                        "x": 30, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 40, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "7", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }
+                            ], 
+                            "annotations": [], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 3, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 13, 
+                                    "y": -10
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 3, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 27, 
+                                    "y": -10
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 16, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 26, 
+                                        "y": 0
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }
+                            ], 
+                            "styles": {}
+                        }, 
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            2
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "A3", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "3", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            5
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "B3", 
+                                    "p1": {
+                                        "x": 30, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 40, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "6", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }
+                            ], 
+                            "annotations": [], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 3, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 13, 
+                                    "y": -10
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 3, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 27, 
+                                    "y": -10
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 16, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 26, 
+                                        "y": 0
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }
+                            ], 
+                            "styles": {}
+                        }, 
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            3
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "A4", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "4", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            4
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "B4", 
+                                    "p1": {
+                                        "x": 30, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 40, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "5", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }
+                            ], 
+                            "annotations": [], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 3, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 13, 
+                                    "y": -10
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 3, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 27, 
+                                    "y": -10
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 16, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 26, 
+                                        "y": 0
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }
+            ], 
+            "threed_models": []
+        }, 
+        "a2a0a919dd56def0": {
+            "attributes": {
+                "_category": "Conn", 
+                "_datasheet": "", 
+                "_lead_free": "Yes", 
+                "_manufacturer": "Upverter", 
+                "_num_pins": "4", 
+                "_octopart_part_number": "", 
+                "_package": "", 
+                "_part_number": "USB-A-PCB", 
+                "_prefix": "J", 
+                "_rohs": "Yes"
+            }, 
+            "footprints": [
+                {
+                    "bodies": [
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top courtyard", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 8600000, 
+                                    "is_centered": false, 
+                                    "line_width": 0, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 12000000, 
+                                    "x": 0, 
+                                    "y": 500000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "bottom courtyard", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 8600000, 
+                                    "is_centered": false, 
+                                    "line_width": 0, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 12000000, 
+                                    "x": 0, 
+                                    "y": 500000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "assembly", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -6000000, 
+                                        "y": -3800000
+                                    }, 
+                                    "p2": {
+                                        "x": -6000000, 
+                                        "y": 4800000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -6000000, 
+                                        "y": 4800000
+                                    }, 
+                                    "p2": {
+                                        "x": 6000000, 
+                                        "y": 4800000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 6000000, 
+                                        "y": 4800000
+                                    }, 
+                                    "p2": {
+                                        "x": 6000000, 
+                                        "y": -3800000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 6000000, 
+                                        "y": -3800000
+                                    }, 
+                                    "p2": {
+                                        "x": -6000000, 
+                                        "y": -3800000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }
+                            ]
+                        }
+                    ], 
+                    "gen_objs": [
+                        {
+                            "attributes": {
+                                "type": "center cross", 
+                                "width": "10000000"
+                            }, 
+                            "connection_indexes": null, 
+                            "flip": false, 
+                            "layer": "top component", 
+                            "rotation": 0.0, 
+                            "x": 0, 
+                            "y": 0
+                        }, 
+                        {
+                            "attributes": {
+                                "attached_layers": "top solder mask,top copper", 
+                                "height": "7600000", 
+                                "radius": "0", 
+                                "shape": "rectangle", 
+                                "spoke_width": "-1", 
+                                "type": "padstack", 
+                                "width": "1600000"
+                            }, 
+                            "connection_indexes": [
+                                0
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -4300000, 
+                            "y": 3800000
+                        }, 
+                        {
+                            "attributes": {
+                                "attached_layers": "top solder mask,top copper", 
+                                "height": "6600000", 
+                                "radius": "0", 
+                                "shape": "rectangle", 
+                                "spoke_width": "-1", 
+                                "type": "padstack", 
+                                "width": "1100000"
+                            }, 
+                            "connection_indexes": [
+                                1
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -1550000, 
+                            "y": 2800000
+                        }, 
+                        {
+                            "attributes": {
+                                "attached_layers": "top solder mask,top copper", 
+                                "height": "6600000", 
+                                "radius": "0", 
+                                "shape": "rectangle", 
+                                "spoke_width": "-1", 
+                                "type": "padstack", 
+                                "width": "1100000"
+                            }, 
+                            "connection_indexes": [
+                                2
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 450000, 
+                            "y": 2800000
+                        }, 
+                        {
+                            "attributes": {
+                                "attached_layers": "top solder mask,top copper", 
+                                "height": "7600000", 
+                                "radius": "0", 
+                                "shape": "rectangle", 
+                                "spoke_width": "-1", 
+                                "type": "padstack", 
+                                "width": "1600000"
+                            }, 
+                            "connection_indexes": [
+                                3
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 2700000, 
+                            "y": 3800000
+                        }
+                    ]
+                }
+            ], 
+            "name": "USB A plug layout", 
+            "symbols": [
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "+5V", 
+                                    "p1": {
+                                        "x": 20, 
+                                        "y": 30
+                                    }, 
+                                    "p2": {
+                                        "x": 30, 
+                                        "y": 30
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            1
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "D-", 
+                                    "p1": {
+                                        "x": 20, 
+                                        "y": 10
+                                    }, 
+                                    "p2": {
+                                        "x": 30, 
+                                        "y": 10
+                                    }, 
+                                    "ref": "2", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            2
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "D+", 
+                                    "p1": {
+                                        "x": 20, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 30, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "3", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            3
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "GND", 
+                                    "p1": {
+                                        "x": 20, 
+                                        "y": -30
+                                    }, 
+                                    "p2": {
+                                        "x": 30, 
+                                        "y": -30
+                                    }, 
+                                    "ref": "4", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }
+                            ], 
+                            "annotations": [], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 90, 
+                                    "is_centered": false, 
+                                    "line_width": 0, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 50, 
+                                    "x": -30, 
+                                    "y": 44
+                                }, 
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "+5V", 
+                                    "type": "label", 
+                                    "x": 15, 
+                                    "y": 30
+                                }, 
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "D-", 
+                                    "type": "label", 
+                                    "x": 15, 
+                                    "y": 10
+                                }, 
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "D+", 
+                                    "type": "label", 
+                                    "x": 15, 
+                                    "y": -10
+                                }, 
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "GND", 
+                                    "type": "label", 
+                                    "x": 15, 
+                                    "y": -30
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }
+            ], 
+            "threed_models": []
+        }
+    }, 
+    "design_attributes": {
+        "annotations": [], 
+        "attributes": {
+            "_connector_counter": "2", 
+            "_integrated circuit_counter": "1"
+        }, 
+        "metadata": {
+            "attached_urls": [], 
+            "description": "", 
+            "design_id": "7628e176f5c359c1", 
+            "license": "cc-by-sa4", 
+            "name": "Disconnectable USB", 
+            "owner": "Trebuchetindustries", 
+            "slug": "Disconnectable-USB", 
+            "updated_timestamp": 1468848278
+        }
+    }, 
+    "layer_options": [
+        {
+            "ident": "hole", 
+            "is_copper": false, 
+            "name": "hole"
+        }, 
+        {
+            "ident": "top silkscreen", 
+            "is_copper": false, 
+            "name": "top silkscreen"
+        }, 
+        {
+            "ident": "top solder mask", 
+            "is_copper": false, 
+            "name": "top solder mask"
+        }, 
+        {
+            "ident": "top paste", 
+            "is_copper": false, 
+            "name": "top paste"
+        }, 
+        {
+            "ident": "top copper", 
+            "is_copper": true, 
+            "name": "top copper"
+        }, 
+        {
+            "ident": "bottom copper", 
+            "is_copper": true, 
+            "name": "bottom copper"
+        }, 
+        {
+            "ident": "bottom paste", 
+            "is_copper": false, 
+            "name": "bottom paste"
+        }, 
+        {
+            "ident": "bottom solder mask", 
+            "is_copper": false, 
+            "name": "bottom solder mask"
+        }, 
+        {
+            "ident": "bottom silkscreen", 
+            "is_copper": false, 
+            "name": "bottom silkscreen"
+        }, 
+        {
+            "ident": "mechanical details", 
+            "is_copper": false, 
+            "name": "mechanical details"
+        }
+    ], 
+    "layout_bodies": [], 
+    "layout_body_attributes": [], 
+    "layout_objects": [], 
+    "module_instances": [], 
+    "modules": {}, 
+    "named_regions": [], 
+    "nets": [
+        {
+            "annotations": [], 
+            "attributes": {
+                "name": "GND"
+            }, 
+            "net_id": "7a710247100b924a", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 3, 
+                            "body_index": 0, 
+                            "instance_id": "c42a6a9a39d68f58", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "57b0c965b1b3e61c"
+                    ], 
+                    "point_id": "0a5858bb5b038efc", 
+                    "x": 1010, 
+                    "y": -700
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 5, 
+                            "body_index": 0, 
+                            "instance_id": "c42a6a9a39d68f58", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "420a3937c698076b"
+                    ], 
+                    "point_id": "12604aeab70dc82c", 
+                    "x": 1010, 
+                    "y": -720
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "12604aeab70dc82c", 
+                        "7cc3aa6991cdcd48", 
+                        "efe1f2ef6101dbfa"
+                    ], 
+                    "point_id": "420a3937c698076b", 
+                    "x": 1030, 
+                    "y": -720
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "0a5858bb5b038efc", 
+                        "efe1f2ef6101dbfa"
+                    ], 
+                    "point_id": "57b0c965b1b3e61c", 
+                    "x": 1030, 
+                    "y": -700
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 1, 
+                            "body_index": 3, 
+                            "instance_id": "f178ae9f3eb66128", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "7cc3aa6991cdcd48"
+                    ], 
+                    "point_id": "752bfecb5281874e", 
+                    "x": 840, 
+                    "y": -790
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "420a3937c698076b", 
+                        "752bfecb5281874e"
+                    ], 
+                    "point_id": "7cc3aa6991cdcd48", 
+                    "x": 1030, 
+                    "y": -790
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 4, 
+                            "body_index": 0, 
+                            "instance_id": "c42a6a9a39d68f58", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "efe1f2ef6101dbfa"
+                    ], 
+                    "point_id": "91fa46092963a411", 
+                    "x": 1010, 
+                    "y": -710
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "420a3937c698076b", 
+                        "57b0c965b1b3e61c", 
+                        "91fa46092963a411"
+                    ], 
+                    "point_id": "efe1f2ef6101dbfa", 
+                    "x": 1030, 
+                    "y": -710
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {}, 
+            "net_id": "f48053e745e5187b", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "84aa03cb4d10227b", 
+                        "c589d5a1912060ea"
+                    ], 
+                    "point_id": "3857e6cf2ed714e7", 
+                    "x": 880, 
+                    "y": -700
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 2, 
+                            "body_index": 0, 
+                            "instance_id": "c42a6a9a39d68f58", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "3857e6cf2ed714e7"
+                    ], 
+                    "point_id": "84aa03cb4d10227b", 
+                    "x": 920, 
+                    "y": -700
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 1, 
+                            "body_index": 0, 
+                            "instance_id": "f178ae9f3eb66128", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "c589d5a1912060ea"
+                    ], 
+                    "point_id": "8df46342b7024e0d", 
+                    "x": 840, 
+                    "y": -670
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "3857e6cf2ed714e7", 
+                        "8df46342b7024e0d"
+                    ], 
+                    "point_id": "c589d5a1912060ea", 
+                    "x": 880, 
+                    "y": -670
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {}, 
+            "net_id": "5ae16448e56dfa48", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "f178ae9f3eb66128", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "8ad89143ea69deac"
+                    ], 
+                    "point_id": "08a9e041ccb935c5", 
+                    "x": 800, 
+                    "y": -670
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "8ad89143ea69deac", 
+                        "9fddf84a8f7add6a"
+                    ], 
+                    "point_id": "474ded004cc7cc4b", 
+                    "x": 760, 
+                    "y": -700
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "08a9e041ccb935c5", 
+                        "474ded004cc7cc4b"
+                    ], 
+                    "point_id": "8ad89143ea69deac", 
+                    "x": 760, 
+                    "y": -670
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "a10719251b11ad89", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "474ded004cc7cc4b"
+                    ], 
+                    "point_id": "9fddf84a8f7add6a", 
+                    "x": 730, 
+                    "y": -700
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {}, 
+            "net_id": "d881d4b82867b6bc", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 2, 
+                            "instance_id": "f178ae9f3eb66128", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "c835d34e71496afd"
+                    ], 
+                    "point_id": "6ca7aff1d58ca37a", 
+                    "x": 800, 
+                    "y": -750
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "c835d34e71496afd", 
+                        "d7b05522f2e3b0b6"
+                    ], 
+                    "point_id": "aba3fd257e41cf8d", 
+                    "x": 760, 
+                    "y": -740
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "6ca7aff1d58ca37a", 
+                        "aba3fd257e41cf8d"
+                    ], 
+                    "point_id": "c835d34e71496afd", 
+                    "x": 760, 
+                    "y": -750
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 2, 
+                            "body_index": 0, 
+                            "instance_id": "a10719251b11ad89", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "aba3fd257e41cf8d"
+                    ], 
+                    "point_id": "d7b05522f2e3b0b6", 
+                    "x": 730, 
+                    "y": -740
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {}, 
+            "net_id": "859eaa030c2b0fef", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "a1f054b62c715a23", 
+                        "a3fbd58ee1ad7193"
+                    ], 
+                    "point_id": "6ee54c824d332eec", 
+                    "x": 760, 
+                    "y": -760
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "6ee54c824d332eec", 
+                        "e97067b98cc40ab3"
+                    ], 
+                    "point_id": "a1f054b62c715a23", 
+                    "x": 760, 
+                    "y": -790
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 3, 
+                            "body_index": 0, 
+                            "instance_id": "a10719251b11ad89", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "6ee54c824d332eec"
+                    ], 
+                    "point_id": "a3fbd58ee1ad7193", 
+                    "x": 730, 
+                    "y": -760
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 3, 
+                            "instance_id": "f178ae9f3eb66128", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "a1f054b62c715a23"
+                    ], 
+                    "point_id": "e97067b98cc40ab3", 
+                    "x": 800, 
+                    "y": -790
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {}, 
+            "net_id": "509c7300a2e945f3", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 1, 
+                            "body_index": 1, 
+                            "instance_id": "f178ae9f3eb66128", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "604c24967d4c8397"
+                    ], 
+                    "point_id": "30d05796dfa5c664", 
+                    "x": 840, 
+                    "y": -710
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 1, 
+                            "body_index": 0, 
+                            "instance_id": "c42a6a9a39d68f58", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "30d05796dfa5c664"
+                    ], 
+                    "point_id": "604c24967d4c8397", 
+                    "x": 920, 
+                    "y": -710
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {}, 
+            "net_id": "3ab067c2dc48a98e", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 1, 
+                            "body_index": 0, 
+                            "instance_id": "a10719251b11ad89", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "8bdc9b900009acbc"
+                    ], 
+                    "point_id": "595acdfcf5237e5c", 
+                    "x": 730, 
+                    "y": -720
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 1, 
+                            "instance_id": "f178ae9f3eb66128", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "88b0a77d308393f5"
+                    ], 
+                    "point_id": "608696d319e1e89b", 
+                    "x": 800, 
+                    "y": -710
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "608696d319e1e89b", 
+                        "8bdc9b900009acbc"
+                    ], 
+                    "point_id": "88b0a77d308393f5", 
+                    "x": 760, 
+                    "y": -710
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "595acdfcf5237e5c", 
+                        "88b0a77d308393f5"
+                    ], 
+                    "point_id": "8bdc9b900009acbc", 
+                    "x": 760, 
+                    "y": -720
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {}, 
+            "net_id": "cd0c32893a7cbc06", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "811d641b7261edcd", 
+                        "8a8be1c237746765"
+                    ], 
+                    "point_id": "35d1be2bad9dac3c", 
+                    "x": 880, 
+                    "y": -720
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "c42a6a9a39d68f58", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "35d1be2bad9dac3c"
+                    ], 
+                    "point_id": "811d641b7261edcd", 
+                    "x": 920, 
+                    "y": -720
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "35d1be2bad9dac3c", 
+                        "f34b097bd2f49a92"
+                    ], 
+                    "point_id": "8a8be1c237746765", 
+                    "x": 880, 
+                    "y": -750
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 1, 
+                            "body_index": 2, 
+                            "instance_id": "f178ae9f3eb66128", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "8a8be1c237746765"
+                    ], 
+                    "point_id": "f34b097bd2f49a92", 
+                    "x": 840, 
+                    "y": -750
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }
+    ], 
+    "paths": [
+        {
+            "attributes": {}, 
+            "is_closed": true, 
+            "layer": "mechanical details", 
+            "points": [
+                {
+                    "x": 0, 
+                    "y": 4000000
+                }, 
+                {
+                    "x": 22000000, 
+                    "y": 4000000
+                }, 
+                {
+                    "x": 22000000, 
+                    "y": 1000000
+                }, 
+                {
+                    "x": 30000000, 
+                    "y": 1000000
+                }, 
+                {
+                    "x": 30000000, 
+                    "y": 19000000
+                }, 
+                {
+                    "x": 22000000, 
+                    "y": 19000000
+                }, 
+                {
+                    "x": 22000000, 
+                    "y": 16000000
+                }, 
+                {
+                    "x": 0, 
+                    "y": 16000000
+                }
+            ], 
+            "shape_types": [
+                "rounded_segment", 
+                "rounded_segment", 
+                "rounded_segment", 
+                "rounded_segment", 
+                "rounded_segment", 
+                "rounded_segment", 
+                "rounded_segment", 
+                "rounded_segment"
+            ], 
+            "width": 381000.0
+        }
+    ], 
+    "pcb_text": [], 
+    "pins": [], 
+    "pours": [], 
+    "rulers": [], 
+    "shape_poses": [], 
+    "shapes": [], 
+    "trace_segments": [
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 16900000, 
+                "y": 6190000
+            }, 
+            "p2": {
+                "x": 19810000, 
+                "y": 9100000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 26110000, 
+                "y": 4825000
+            }, 
+            "p2": {
+                "x": 27405000, 
+                "y": 3530000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 19810000, 
+                "y": 9100000
+            }, 
+            "p2": {
+                "x": 24695000, 
+                "y": 9100000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 14400000, 
+                "y": 6190000
+            }, 
+            "p2": {
+                "x": 19310000, 
+                "y": 11100000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 12090000, 
+                "y": 9000000
+            }, 
+            "p2": {
+                "x": 7900000, 
+                "y": 9000000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 19400000, 
+                "y": 6190000
+            }, 
+            "p2": {
+                "x": 24285000, 
+                "y": 6190000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 13265000, 
+                "y": 4825000
+            }, 
+            "p2": {
+                "x": 26110000, 
+                "y": 4825000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 27405000, 
+                "y": 3530000
+            }, 
+            "p2": {
+                "x": 27405000, 
+                "y": 10890000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 19400000, 
+                "y": 13810000
+            }, 
+            "p2": {
+                "x": 13340000, 
+                "y": 7750000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 19310000, 
+                "y": 11100000
+            }, 
+            "p2": {
+                "x": 24695000, 
+                "y": 11100000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 26580000, 
+                "y": 13600000
+            }, 
+            "p2": {
+                "x": 27405000, 
+                "y": 14425000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 11900000, 
+                "y": 6190000
+            }, 
+            "p2": {
+                "x": 13265000, 
+                "y": 4825000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 27405000, 
+                "y": 10890000
+            }, 
+            "p2": {
+                "x": 24695000, 
+                "y": 13600000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 11590000, 
+                "y": 11000000
+            }, 
+            "p2": {
+                "x": 7900000, 
+                "y": 11000000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 13340000, 
+                "y": 7750000
+            }, 
+            "p2": {
+                "x": 11274999, 
+                "y": 7750000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 27405000, 
+                "y": 14425000
+            }, 
+            "p2": {
+                "x": 27405000, 
+                "y": 16670000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 11274999, 
+                "y": 7750000
+            }, 
+            "p2": {
+                "x": 10025000, 
+                "y": 6500000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 10025000, 
+                "y": 6500000
+            }, 
+            "p2": {
+                "x": 8350000, 
+                "y": 6500000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 24695000, 
+                "y": 13600000
+            }, 
+            "p2": {
+                "x": 26580000, 
+                "y": 13600000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 14400000, 
+                "y": 13810000
+            }, 
+            "p2": {
+                "x": 11590000, 
+                "y": 11000000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 11900000, 
+                "y": 13810000
+            }, 
+            "p2": {
+                "x": 5309999, 
+                "y": 13810000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 16900000, 
+                "y": 13810000
+            }, 
+            "p2": {
+                "x": 12090000, 
+                "y": 9000000
+            }, 
+            "trace_type": "straight", 
+            "width": 800000.0
+        }
+    ], 
+    "version": {
+        "exporter": "Upverter", 
+        "file_version": "0.3.0"
+    }
+}

@@ -1,0 +1,4289 @@
+{
+    "component_instances": [
+        {
+            "attributes": {
+                "_name": "No Connect", 
+                "_pin_0_resolve": "no connect", 
+                "refdes": "?1"
+            }, 
+            "footprint_attributes": [], 
+            "footprint_index": 0, 
+            "gen_obj_attributes": [], 
+            "instance_id": "af4977ac03df0f0b", 
+            "library_id": "0000000000000001", 
+            "symbol_attributes": [
+                {
+                    "annotations": [], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": 920, 
+                    "y": -620
+                }
+            ], 
+            "symbol_index": 11
+        }, 
+        {
+            "attributes": {
+                "_name": "No Connect", 
+                "_pin_0_resolve": "no connect", 
+                "refdes": "?2"
+            }, 
+            "footprint_attributes": [], 
+            "footprint_index": 0, 
+            "gen_obj_attributes": [], 
+            "instance_id": "59ae040960d1048a", 
+            "library_id": "0000000000000001", 
+            "symbol_attributes": [
+                {
+                    "annotations": [], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": 920, 
+                    "y": -630
+                }
+            ], 
+            "symbol_index": 11
+        }, 
+        {
+            "attributes": {
+                "refdes": "J2"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": null, 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 0.0, 
+                "side": "top", 
+                "x": 5308600, 
+                "y": 7747000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "antipad_diameter": "1950000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1100000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1650000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "square", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_inner_diameter": "1600000.0", 
+                        "thermal_outer_diameter": "1950000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 2540000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "1950000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1100000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1650000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_inner_diameter": "1600000.0", 
+                        "thermal_outer_diameter": "1950000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "1950000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1100000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1650000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_inner_diameter": "1600000.0", 
+                        "thermal_outer_diameter": "1950000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": -2540000
+                }, 
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "10000000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "instance_id": "6f57667d5efb9778", 
+            "library_id": "bc7fbe621405aa31", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "J2", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "J2", 
+                            "visible": "true", 
+                            "x": -20, 
+                            "y": 30
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": 730, 
+                    "y": -660
+                }
+            ], 
+            "symbol_index": 0
+        }, 
+        {
+            "attributes": {
+                "refdes": "J1"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": null, 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 0.0, 
+                "side": "top", 
+                "x": 15468600, 
+                "y": 8347000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "6400000", 
+                        "non_plated": "1", 
+                        "plating_diameter": "6400000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "2250000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2850000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -2400000, 
+                    "y": -6400000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "2250000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2850000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -6400000, 
+                    "y": -600000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "2250000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2850000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 600000, 
+                    "y": 6400000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "2250000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2850000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 6400000, 
+                    "y": 2400000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "2250000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2850000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "square", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 4675000, 
+                    "y": -4675000
+                }
+            ], 
+            "instance_id": "cc9a2f13d63439af", 
+            "library_id": "98be3a50614f8041", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "J1", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "J1", 
+                            "visible": "true", 
+                            "x": 0, 
+                            "y": 45
+                        }, 
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "112AX", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "112AX", 
+                            "visible": "true", 
+                            "x": -10, 
+                            "y": -30
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": 940, 
+                    "y": -640
+                }
+            ], 
+            "symbol_index": 0
+        }, 
+        {
+            "attributes": {
+                "refdes": "J3"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": null, 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 0.0, 
+                "side": "top", 
+                "x": 25628600, 
+                "y": 7747000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "antipad_diameter": "1950000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1100000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1650000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "square", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_inner_diameter": "1600000.0", 
+                        "thermal_outer_diameter": "1950000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 2540000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "1950000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1100000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1650000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_inner_diameter": "1600000.0", 
+                        "thermal_outer_diameter": "1950000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "1950000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1100000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "1650000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_inner_diameter": "1600000.0", 
+                        "thermal_outer_diameter": "1950000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": -2540000
+                }, 
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "10000000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "instance_id": "4c9a1d35790a009b", 
+            "library_id": "bc7fbe621405aa31", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "J3", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "J3", 
+                            "visible": "true", 
+                            "x": -20, 
+                            "y": 30
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": 730, 
+                    "y": -750
+                }
+            ], 
+            "symbol_index": 0
+        }
+    ], 
+    "components": {
+        "0000000000000001": {
+            "attributes": {
+                "_digikey_description": "", 
+                "_digikey_part_number": "", 
+                "_is_preset_symbol_0_0": "no", 
+                "_is_preset_symbol_10_0": "no", 
+                "_is_preset_symbol_11_0": "no", 
+                "_is_preset_symbol_1_0": "no", 
+                "_is_preset_symbol_2_0": "no", 
+                "_is_preset_symbol_3_0": "no", 
+                "_is_preset_symbol_4_0": "no", 
+                "_is_preset_symbol_5_0": "no", 
+                "_is_preset_symbol_6_0": "no", 
+                "_is_preset_symbol_7_0": "no", 
+                "_is_preset_symbol_8_0": "no", 
+                "_is_preset_symbol_9_0": "no", 
+                "_mouser_part_number": "", 
+                "_num_pins": "1", 
+                "_octopart_part_number": "", 
+                "_symbol_0_0": "Flag 1", 
+                "_symbol_10_0": "Bi-Directional", 
+                "_symbol_11_0": "No Connect", 
+                "_symbol_1_0": "Flag 2", 
+                "_symbol_2_0": "GND", 
+                "_symbol_3_0": "VCC", 
+                "_symbol_7_0": "Small Flag", 
+                "_symbol_8_0": "Input", 
+                "_symbol_9_0": "Output", 
+                "_temperature_range_high": "", 
+                "_temperature_range_low": "", 
+                "_type": "integrated circuit"
+            }, 
+            "connections": {
+                "0": {
+                    "connection_index": 0, 
+                    "name": "1", 
+                    "ref": "1"
+                }
+            }, 
+            "footprints": [], 
+            "name": "VCC", 
+            "symbols": [
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 10, 
+                                        "y": -20
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "width": 0
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_name}}", 
+                                    "x": 0, 
+                                    "y": 10
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 3, 
+                                        "y": -7
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 17, 
+                                        "y": -7
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }, 
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -11
+                                    }, 
+                                    "p2": {
+                                        "x": 10, 
+                                        "y": -30
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "width": 0
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_name}}", 
+                                    "x": 0, 
+                                    "y": 10
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 3, 
+                                        "y": -7
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 17, 
+                                        "y": -7
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -5
+                                    }, 
+                                    "p2": {
+                                        "x": 3, 
+                                        "y": -12
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -5
+                                    }, 
+                                    "p2": {
+                                        "x": 17, 
+                                        "y": -12
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "control1": {
+                                        "x": 9, 
+                                        "y": -10
+                                    }, 
+                                    "control2": {
+                                        "x": 11, 
+                                        "y": -10
+                                    }, 
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "p1": {
+                                        "x": 3, 
+                                        "y": -12
+                                    }, 
+                                    "p2": {
+                                        "x": 17, 
+                                        "y": -12
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "bezier"
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }, 
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 10, 
+                                        "y": 0
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "width": 0
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_name}}", 
+                                    "x": 0, 
+                                    "y": -40
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 0, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 20, 
+                                        "y": -10
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 3, 
+                                        "y": -15
+                                    }, 
+                                    "p2": {
+                                        "x": 17, 
+                                        "y": -15
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 6, 
+                                        "y": -20
+                                    }, 
+                                    "p2": {
+                                        "x": 14, 
+                                        "y": -20
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }, 
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "width": 0
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_name}}", 
+                                    "x": 0, 
+                                    "y": 10
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 0, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 20, 
+                                        "y": 0
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }, 
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 10, 
+                                        "y": -20
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "width": 0
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "center", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_name}}", 
+                                    "x": 10, 
+                                    "y": 10
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 3, 
+                                        "y": 7
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 17, 
+                                        "y": 7
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }, 
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 10, 
+                                        "y": 0
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "width": 0
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "center", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_name}}", 
+                                    "x": 10, 
+                                    "y": -30
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 0, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 20, 
+                                        "y": -10
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 0, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": -5, 
+                                        "y": -20
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 5, 
+                                        "y": -20
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 20, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 15, 
+                                        "y": -20
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }, 
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -6
+                                    }, 
+                                    "p2": {
+                                        "x": 10, 
+                                        "y": -20
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "width": 0
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "center", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_name}}", 
+                                    "x": 0, 
+                                    "y": 10
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 3, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 10, 
+                                    "y": -3
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }, 
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": -5, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": 0
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "width": 0
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_name}}", 
+                                    "x": -15, 
+                                    "y": 0
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -5, 
+                                        "y": 3
+                                    }, 
+                                    "p2": {
+                                        "x": -5, 
+                                        "y": -3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }, 
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 15, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 20, 
+                                        "y": 0
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "width": 0
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_name}}", 
+                                    "x": -5, 
+                                    "y": 0
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 3
+                                    }, 
+                                    "p2": {
+                                        "x": 15, 
+                                        "y": 0
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -3
+                                    }, 
+                                    "p2": {
+                                        "x": 15, 
+                                        "y": 0
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 3
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": 3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -3
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": -3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 0, 
+                                        "y": 3
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": -3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }, 
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 15, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 20, 
+                                        "y": 0
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "width": 0
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_name}}", 
+                                    "x": -5, 
+                                    "y": 0
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 0, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 5, 
+                                        "y": 3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 0, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 5, 
+                                        "y": -3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 5, 
+                                        "y": 3
+                                    }, 
+                                    "p2": {
+                                        "x": 15, 
+                                        "y": 3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 5, 
+                                        "y": -3
+                                    }, 
+                                    "p2": {
+                                        "x": 15, 
+                                        "y": -3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 15, 
+                                        "y": 3
+                                    }, 
+                                    "p2": {
+                                        "x": 15, 
+                                        "y": -3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }, 
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 15, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 20, 
+                                        "y": 0
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "width": 0
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_name}}", 
+                                    "x": -5, 
+                                    "y": 0
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 0, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 5, 
+                                        "y": 3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 0, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 5, 
+                                        "y": -3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 5, 
+                                        "y": 3
+                                    }, 
+                                    "p2": {
+                                        "x": 10, 
+                                        "y": 3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 5, 
+                                        "y": -3
+                                    }, 
+                                    "p2": {
+                                        "x": 10, 
+                                        "y": -3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 3
+                                    }, 
+                                    "p2": {
+                                        "x": 15, 
+                                        "y": 0
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -3
+                                    }, 
+                                    "p2": {
+                                        "x": 15, 
+                                        "y": 0
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }, 
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": -3, 
+                                        "y": 3
+                                    }, 
+                                    "p2": {
+                                        "x": 3, 
+                                        "y": -3
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "width": 0
+                                }
+                            ], 
+                            "annotations": [], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -3, 
+                                        "y": -3
+                                    }, 
+                                    "p2": {
+                                        "x": 3, 
+                                        "y": 3
+                                    }, 
+                                    "rotation": 0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 0
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }
+            ], 
+            "threed_models": [], 
+            "unverified_attributes": {}
+        }, 
+        "57226182e92f4941": {
+            "attributes": {
+                "_approved_alternate_part_number": "", 
+                "_category": "IC", 
+                "_datasheet": "", 
+                "_digikey_description": "IC ", 
+                "_digikey_part_number": "", 
+                "_is_preset_symbol_0_0": "no", 
+                "_lead_free": "Unknown", 
+                "_manufacturer": "Upverter", 
+                "_mouser_part_number": "", 
+                "_octopart_part_number": "", 
+                "_package": "", 
+                "_part_number": "bbq1475fz/p", 
+                "_prefix": "U", 
+                "_rohs": "Unknown", 
+                "_temperature_range_high": "", 
+                "_temperature_range_low": "", 
+                "_verified_attributes": "false", 
+                "_verified_geometry": "false", 
+                "_verified_pad_assignment": "false", 
+                "_verified_pin_names": "false"
+            }, 
+            "connections": {}, 
+            "footprints": [], 
+            "name": "No description", 
+            "symbols": [
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "(placeholder symbol)", 
+                                    "x": 10, 
+                                    "y": 11
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_part_number}}", 
+                                    "x": 10, 
+                                    "y": 88
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_manufacturer}}", 
+                                    "x": 9, 
+                                    "y": 73
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 110, 
+                                    "is_centered": false, 
+                                    "line_width": 2, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 110, 
+                                    "x": 0, 
+                                    "y": 110
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }
+            ], 
+            "threed_models": [], 
+            "unverified_attributes": {}
+        }, 
+        "98be3a50614f8041": {
+            "attributes": {
+                "_approved_alternate_part_number": "", 
+                "_category": "Conn", 
+                "_category_001fcd153521dbd8": "Jack Plugs/Sockets", 
+                "_category_0836c53c3d42d3f1": "Connectors", 
+                "_category_3147fc4d048eea80": "Uncategorized", 
+                "_category_75fab8f04590ae3d": "Connectors and Adapters", 
+                "_category_a3c16ecb93907806": "Uncategorized", 
+                "_category_bda670ac885e6661": "Uncategorized", 
+                "_category_ec5b2151d92b379c": "Audio", 
+                "_datasheet": "http://www.conxall.com/Drawings/110x-m110x_series_cd.pdf", 
+                "_digikey_description": "CONN ", 
+                "_digikey_part_number": "", 
+                "_footprint_parameters": "{\"fp_type\":\"Radial\",\"params\":{\"units\":\"inches\",\"required\":[{\"type\":\"fixed\",\"short name\":\"N\",\"long name\":\"Number of leads\",\"val\":\"2\",\"units\":\"inches\"},{\"type\":\"measurement\",\"short name\":\"A\",\"long name\":\"Package height\",\"min\":false,\"nom\":false,\"max\":\"0.433\",\"units\":\"inches\"},{\"type\":\"measurement\",\"short name\":\"D\",\"long name\":\"Package diameter\",\"min\":false,\"nom\":\"0.248\",\"max\":\"0.268\",\"units\":\"inches\"},{\"type\":\"measurement\",\"short name\":\"d\",\"long name\":\"Lead diameter\",\"min\":\"0.018\",\"nom\":false,\"max\":\"0.022\",\"units\":\"inches\"},{\"type\":\"measurement\",\"short name\":\"e\",\"long name\":\"Lead pitch\",\"min\":null,\"nom\":\"0.100\",\"max\":null,\"units\":\"inches\"}],\"advanced\":[{\"type\":\"measurement\",\"short name\":\"offset x\",\"long name\":\"X Center offset\",\"min\":null,\"nom\":\"0\",\"max\":null,\"units\":\"inches\"},{\"type\":\"measurement\",\"short name\":\"offset y\",\"long name\":\"Y Center offset\",\"min\":null,\"nom\":\"0\",\"max\":null,\"units\":\"inches\"},{\"type\":\"multichoice\",\"short name\":\"LS\",\"long name\":\"Land shape\",\"default\":\"Circle\",\"units\":\"inches\"},{\"type\":\"multichoice\",\"short name\":\"LS1\",\"long name\":\"Land shape (Pin 1)\",\"default\":\"Square\",\"units\":\"inches\"}]}}", 
+                "_imported_from_octopart": "yes", 
+                "_is_preset_symbol_0_0": "no", 
+                "_lead_free": "Yes", 
+                "_manufacturer": "Switchcraft", 
+                "_mfg_package_ident": "", 
+                "_mouser_part_number": "", 
+                "_num_pins": "2", 
+                "_octopart_part_number": "c6b60fb5d4651971", 
+                "_package": "CONN_PHONE", 
+                "_part_number": "112AX", 
+                "_prefix": "J", 
+                "_rohs": "Yes", 
+                "_symbol_0_0": "Two-Conductor Jack", 
+                "_temperature_range_high": "", 
+                "_temperature_range_low": "", 
+                "_type": "connector", 
+                "_verified_attributes": "false", 
+                "_verified_geometry": "false", 
+                "_verified_pad_assignment": "false", 
+                "_verified_pin_names": "false", 
+                "number_of_contacts": "3 "
+            }, 
+            "connections": {
+                "0": {
+                    "connection_index": 0, 
+                    "name": "SLEEVE", 
+                    "ref": "1"
+                }, 
+                "1": {
+                    "connection_index": 1, 
+                    "name": "NC", 
+                    "ref": "2"
+                }, 
+                "2": {
+                    "connection_index": 2, 
+                    "name": "NC", 
+                    "ref": "3"
+                }, 
+                "3": {
+                    "connection_index": 3, 
+                    "name": "TIP SHUNT", 
+                    "ref": "4"
+                }, 
+                "4": {
+                    "connection_index": 4, 
+                    "name": "TIP SPRING", 
+                    "ref": "5"
+                }
+            }, 
+            "footprints": [
+                {
+                    "bodies": [
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top courtyard", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 15900000, 
+                                    "is_centered": false, 
+                                    "line_width": 0, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 15900000, 
+                                    "x": 0, 
+                                    "y": 0
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 15900000, 
+                                    "is_centered": false, 
+                                    "line_width": 150000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 15900000, 
+                                    "x": 0, 
+                                    "y": 0
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": true, 
+                            "pin_num": null, 
+                            "removeable": true, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 1000000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{refdes}}", 
+                                    "type": "label", 
+                                    "x": -7950000, 
+                                    "y": 8200000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 250000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 8400000, 
+                                    "y": -4925000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top assembly", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -7950000, 
+                                        "y": -7950000
+                                    }, 
+                                    "p2": {
+                                        "x": -7950000, 
+                                        "y": 7950000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -7950000, 
+                                        "y": 7950000
+                                    }, 
+                                    "p2": {
+                                        "x": 7950000, 
+                                        "y": 7950000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 7950000, 
+                                        "y": 7950000
+                                    }, 
+                                    "p2": {
+                                        "x": 7950000, 
+                                        "y": -7950000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 7950000, 
+                                        "y": -7950000
+                                    }, 
+                                    "p2": {
+                                        "x": -7950000, 
+                                        "y": -7950000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "align": "center", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 1000000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{refdes}}", 
+                                    "type": "label", 
+                                    "x": 0, 
+                                    "y": 0
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 250000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": 4770000, 
+                                    "y": -4770000
+                                }
+                            ]
+                        }
+                    ], 
+                    "gen_objs": [
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "6400000", 
+                                "non_plated": "1", 
+                                "plating_diameter": "6400000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": null, 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 0, 
+                            "y": 0
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "2250000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "2850000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                2
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -2400000, 
+                            "y": -6400000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "2250000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "2850000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                1
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -6400000, 
+                            "y": -600000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "2250000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "2850000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                4
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 600000, 
+                            "y": 6400000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "2250000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "2850000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                3
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 6400000, 
+                            "y": 2400000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "2250000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "2850000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "square", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_spoke_width": "0", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                0
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 4675000, 
+                            "y": -4675000
+                        }
+                    ]
+                }
+            ], 
+            "name": "1/4 inch Mono Phone Jack, Tip Closed Ciruit", 
+            "symbols": [
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            3
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "TIP SHUNT", 
+                                    "p1": {
+                                        "x": 12, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "4", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            4
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "TIP SPRING", 
+                                    "p1": {
+                                        "x": 27, 
+                                        "y": -20
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": -20
+                                    }, 
+                                    "ref": "5", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "SLEEVE", 
+                                    "p1": {
+                                        "x": 40, 
+                                        "y": -20
+                                    }, 
+                                    "p2": {
+                                        "x": 40, 
+                                        "y": -30
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            1
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "NC", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 10
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": 10
+                                    }, 
+                                    "ref": "2", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            2
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "NC", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 20
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": 20
+                                    }, 
+                                    "ref": "3", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{refdes}}", 
+                                    "x": 0, 
+                                    "y": 45
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_part_number}}", 
+                                    "x": -10, 
+                                    "y": -30
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -14
+                                    }, 
+                                    "p2": {
+                                        "x": 13, 
+                                        "y": -19
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 13, 
+                                        "y": -19
+                                    }, 
+                                    "p2": {
+                                        "x": 16, 
+                                        "y": -14
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 27, 
+                                        "y": -20
+                                    }, 
+                                    "p2": {
+                                        "x": 30, 
+                                        "y": -15
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 30, 
+                                        "y": -15
+                                    }, 
+                                    "p2": {
+                                        "x": 33, 
+                                        "y": -20
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 36, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 44, 
+                                        "y": 0
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 36, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 36, 
+                                        "y": -20
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 44, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 44, 
+                                        "y": -20
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 44, 
+                                        "y": -20
+                                    }, 
+                                    "p2": {
+                                        "x": 36, 
+                                        "y": -20
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 13, 
+                                        "y": -17
+                                    }, 
+                                    "p2": {
+                                        "x": 13, 
+                                        "y": -10
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 13, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 9, 
+                                        "y": -10
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "NC", 
+                                    "type": "label", 
+                                    "x": 12, 
+                                    "y": 10
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "NC", 
+                                    "type": "label", 
+                                    "x": 12, 
+                                    "y": 20
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }
+            ], 
+            "threed_models": [], 
+            "unverified_attributes": {}
+        }, 
+        "bc7fbe621405aa31": {
+            "attributes": {
+                "Mount": "Through-hole", 
+                "Number of Pins": "3", 
+                "Number of Rows": "1", 
+                "Pitch": "0.1\" / 2.54mm", 
+                "_category": "Conn", 
+                "_datasheet": "", 
+                "_digikey_description": "CONN ", 
+                "_digikey_part_number": "", 
+                "_footprint_parameters": "{\"fp_type\":\"Header\",\"params\":{\"N\":{\"nom\":3,\"long name\":\"Number of leads per row\",\"min\":null,\"max\":null,\"short name\":\"N\",\"type\":\"count\"},\"N1\":{\"default\":\"1\",\"long name\":\"Number of rows\",\"type\":\"multichoice\",\"short name\":\"N1\"},\"A\":{\"nom\":false,\"long name\":\"Height\",\"min\":false,\"max\":4572000,\"short name\":\"A\",\"type\":\"measurement\"},\"A1\":{\"nom\":false,\"long name\":\"Package height\",\"min\":false,\"max\":4064000,\"short name\":\"A1\",\"type\":\"measurement\"},\"D\":{\"nom\":7620000,\"long name\":\"Package length\",\"min\":7366000,\"max\":7874000,\"short name\":\"D\",\"type\":\"measurement\"},\"E\":{\"nom\":2540000,\"long name\":\"Package width\",\"min\":2286000,\"max\":2794000,\"short name\":\"E\",\"type\":\"measurement\"},\"B\":{\"nom\":635000,\"long name\":\"Lead width\",\"min\":false,\"max\":false,\"short name\":\"B\",\"type\":\"measurement\"},\"C\":{\"nom\":635000,\"long name\":\"Lead thickness\",\"min\":false,\"max\":false,\"short name\":\"C\",\"type\":\"measurement\"},\"e\":{\"nom\":2540000,\"long name\":\"Lead pitch\",\"min\":null,\"max\":null,\"short name\":\"e\",\"type\":\"measurement\"},\"e1\":{\"nom\":2540000,\"long name\":\"Row pitch\",\"min\":null,\"max\":null,\"short name\":\"e1\",\"type\":\"measurement\"},\"offset x\":{\"nom\":0,\"long name\":\"X Center offset\",\"min\":null,\"max\":null,\"short name\":\"offset x\",\"type\":\"measurement\"},\"offset y\":{\"nom\":0,\"long name\":\"Y Center offset\",\"min\":null,\"max\":null,\"short name\":\"offset y\",\"type\":\"measurement\"},\"LS\":{\"default\":\"Circle\",\"long name\":\"Land shape\",\"type\":\"multichoice\",\"short name\":\"LS\"},\"LS1\":{\"default\":\"Square\",\"long name\":\"Land shape (Pin 1)\",\"type\":\"multichoice\",\"short name\":\"LS1\"}}}", 
+                "_is_preset_symbol_0_0": "no", 
+                "_lead_free": "Unknown", 
+                "_manufacturer": "Generic", 
+                "_mouser_part_number": "", 
+                "_num_pins": "3", 
+                "_octopart_part_number": "", 
+                "_package": "", 
+                "_part_number": "3 Pin Header", 
+                "_prefix": "J", 
+                "_rohs": "Unknown", 
+                "_temperature_range_high": "", 
+                "_temperature_range_low": "", 
+                "_verified_attributes": "false", 
+                "_verified_geometry": "false", 
+                "_verified_pad_assignment": "false", 
+                "_verified_pin_names": "false"
+            }, 
+            "connections": {
+                "0": {
+                    "connection_index": 0, 
+                    "name": "1", 
+                    "ref": "1"
+                }, 
+                "1": {
+                    "connection_index": 1, 
+                    "name": "2", 
+                    "ref": "2"
+                }, 
+                "2": {
+                    "connection_index": 2, 
+                    "name": "3", 
+                    "ref": "3"
+                }
+            }, 
+            "footprints": [
+                {
+                    "bodies": [
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": true, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 250000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": -2020000, 
+                                    "y": 2540000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top package outline", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -1195000, 
+                                        "y": 3735000
+                                    }, 
+                                    "p2": {
+                                        "x": 1195000, 
+                                        "y": 3735000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 150000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top package outline", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -1195000, 
+                                        "y": 3735000
+                                    }, 
+                                    "p2": {
+                                        "x": -1195000, 
+                                        "y": -3735000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 150000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top package outline", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -1195000, 
+                                        "y": -3735000
+                                    }, 
+                                    "p2": {
+                                        "x": 1195000, 
+                                        "y": -3735000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 150000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top package outline", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 1195000, 
+                                        "y": -3735000
+                                    }, 
+                                    "p2": {
+                                        "x": 1195000, 
+                                        "y": 3735000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 150000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": true, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -1695000, 
+                                        "y": 4235000
+                                    }, 
+                                    "p2": {
+                                        "x": 1695000, 
+                                        "y": 4235000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 150000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": true, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -1695000, 
+                                        "y": 4235000
+                                    }, 
+                                    "p2": {
+                                        "x": -1695000, 
+                                        "y": -4235000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 150000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": true, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -1695000, 
+                                        "y": -4235000
+                                    }, 
+                                    "p2": {
+                                        "x": 1695000, 
+                                        "y": -4235000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 150000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": true, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 1695000, 
+                                        "y": -4235000
+                                    }, 
+                                    "p2": {
+                                        "x": 1695000, 
+                                        "y": 4235000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 150000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top courtyard", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 8620000, 
+                                    "is_centered": false, 
+                                    "line_width": 0, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 3540000, 
+                                    "x": 0, 
+                                    "y": 0
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": true, 
+                            "pin_num": null, 
+                            "removeable": true, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "align": "center", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 2000000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{refdes}}", 
+                                    "type": "label", 
+                                    "x": -2270000, 
+                                    "y": 4810000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top assembly", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -1770000, 
+                                        "y": -4310000
+                                    }, 
+                                    "p2": {
+                                        "x": -1770000, 
+                                        "y": 4310000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -1770000, 
+                                        "y": 4310000
+                                    }, 
+                                    "p2": {
+                                        "x": 1770000, 
+                                        "y": 4310000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 1770000, 
+                                        "y": 4310000
+                                    }, 
+                                    "p2": {
+                                        "x": 1770000, 
+                                        "y": -4310000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 1770000, 
+                                        "y": -4310000
+                                    }, 
+                                    "p2": {
+                                        "x": -1770000, 
+                                        "y": -4310000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "line_width": 0, 
+                                    "radius": 250000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "circle", 
+                                    "x": -1062000, 
+                                    "y": 3602000
+                                }, 
+                                {
+                                    "align": "center", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 2000000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{refdes}}", 
+                                    "type": "label", 
+                                    "x": 0, 
+                                    "y": 0
+                                }
+                            ]
+                        }
+                    ], 
+                    "gen_objs": [
+                        {
+                            "attributes": {
+                                "antipad_diameter": "1950000", 
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "1100000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "1650000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "square", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_inner_diameter": "1600000.0", 
+                                "thermal_outer_diameter": "1950000", 
+                                "thermal_spoke_count": "4", 
+                                "thermal_spoke_width": "-1", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                0
+                            ], 
+                            "flip": false, 
+                            "layer": "hole", 
+                            "rotation": 0.0, 
+                            "x": 0, 
+                            "y": 2540000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_diameter": "1950000", 
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "1100000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "1650000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_inner_diameter": "1600000.0", 
+                                "thermal_outer_diameter": "1950000", 
+                                "thermal_spoke_count": "4", 
+                                "thermal_spoke_width": "-1", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                1
+                            ], 
+                            "flip": false, 
+                            "layer": "hole", 
+                            "rotation": 0.0, 
+                            "x": 0, 
+                            "y": 0
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_diameter": "1950000", 
+                                "antipad_expansion": "0", 
+                                "attached_layers": "*", 
+                                "attached_net": "", 
+                                "hole_length": "0", 
+                                "hole_shape": "circle", 
+                                "hole_width": "0", 
+                                "internal_diameter": "1100000", 
+                                "non_plated": "0", 
+                                "plating_diameter": "1650000", 
+                                "plating_length": "0", 
+                                "plating_radius": "0", 
+                                "plating_shape": "circle", 
+                                "plating_width": "0", 
+                                "solder_mask_expansion": "0", 
+                                "thermal_inner_diameter": "1600000.0", 
+                                "thermal_outer_diameter": "1950000", 
+                                "thermal_spoke_count": "4", 
+                                "thermal_spoke_width": "-1", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": [
+                                2
+                            ], 
+                            "flip": false, 
+                            "layer": "hole", 
+                            "rotation": 0.0, 
+                            "x": 0, 
+                            "y": -2540000
+                        }, 
+                        {
+                            "attributes": {
+                                "type": "center cross", 
+                                "width": "10000000"
+                            }, 
+                            "connection_indexes": null, 
+                            "flip": false, 
+                            "layer": "top component", 
+                            "rotation": 0.0, 
+                            "x": 0, 
+                            "y": 0
+                        }
+                    ]
+                }
+            ], 
+            "name": "3 pin Header, 0.1\" / 2.54mm Pitch, Through-hole, Generic", 
+            "symbols": [
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 10
+                                    }, 
+                                    "p2": {
+                                        "x": 20, 
+                                        "y": 10
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            1
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "2", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": 0
+                                    }, 
+                                    "p2": {
+                                        "x": 20, 
+                                        "y": 0
+                                    }, 
+                                    "ref": "2", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            2
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "3", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 20, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "3", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{refdes}}", 
+                                    "x": -20, 
+                                    "y": 30
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 40, 
+                                    "is_centered": false, 
+                                    "line_width": 2, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 20, 
+                                    "x": -10, 
+                                    "y": 20
+                                }, 
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "1", 
+                                    "type": "label", 
+                                    "x": 5, 
+                                    "y": 10
+                                }, 
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "2", 
+                                    "type": "label", 
+                                    "x": 5, 
+                                    "y": 0
+                                }, 
+                                {
+                                    "align": "right", 
+                                    "baseline": "middle", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "3", 
+                                    "type": "label", 
+                                    "x": 5, 
+                                    "y": -10
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }
+            ], 
+            "threed_models": [], 
+            "unverified_attributes": {}
+        }
+    }, 
+    "design_attributes": {
+        "annotations": [], 
+        "attributes": {
+            "_connector_counter": "4", 
+            "_integrated circuit_counter": "2"
+        }, 
+        "metadata": {
+            "attached_urls": [], 
+            "description": "", 
+            "design_id": "3db4c9d9acf5b70b", 
+            "license": "cc-by-sa4", 
+            "name": "Breadboard adaptor for 6.35mm audio jack", 
+            "owner": "Trebuchetindustries", 
+            "slug": "Breadboard-adaptor-for-635mm-audio-jack", 
+            "updated_timestamp": 1500865257
+        }
+    }, 
+    "layer_options": [
+        {
+            "ident": "hole", 
+            "is_copper": false, 
+            "name": "hole"
+        }, 
+        {
+            "ident": "top silkscreen", 
+            "is_copper": false, 
+            "name": "top silkscreen"
+        }, 
+        {
+            "ident": "top solder mask", 
+            "is_copper": false, 
+            "name": "top solder mask"
+        }, 
+        {
+            "ident": "top paste", 
+            "is_copper": false, 
+            "name": "top paste"
+        }, 
+        {
+            "ident": "top copper", 
+            "is_copper": true, 
+            "name": "top copper"
+        }, 
+        {
+            "ident": "bottom copper", 
+            "is_copper": true, 
+            "name": "bottom copper"
+        }, 
+        {
+            "ident": "bottom paste", 
+            "is_copper": false, 
+            "name": "bottom paste"
+        }, 
+        {
+            "ident": "bottom solder mask", 
+            "is_copper": false, 
+            "name": "bottom solder mask"
+        }, 
+        {
+            "ident": "bottom silkscreen", 
+            "is_copper": false, 
+            "name": "bottom silkscreen"
+        }, 
+        {
+            "ident": "mechanical details", 
+            "is_copper": false, 
+            "name": "mechanical details"
+        }
+    ], 
+    "layout_bodies": [], 
+    "layout_body_attributes": [], 
+    "layout_objects": [], 
+    "module_instances": [], 
+    "modules": {}, 
+    "named_regions": [], 
+    "nets": [
+        {
+            "annotations": [], 
+            "attributes": {
+                "name": "tip-spring"
+            }, 
+            "net_id": "c0b98ae7a2602bdc", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "57e58f587f194086", 
+                        "d551fe693b424145"
+                    ], 
+                    "point_id": "1e89c9fdf0e0ca6b", 
+                    "x": 820, 
+                    "y": -750
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 1, 
+                            "body_index": 0, 
+                            "instance_id": "4c9a1d35790a009b", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "1e89c9fdf0e0ca6b"
+                    ], 
+                    "point_id": "57e58f587f194086", 
+                    "x": 750, 
+                    "y": -750
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 1, 
+                            "body_index": 0, 
+                            "instance_id": "cc9a2f13d63439af", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "d551fe693b424145"
+                    ], 
+                    "point_id": "97a81922a3439fac", 
+                    "x": 940, 
+                    "y": -660
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 1, 
+                            "body_index": 0, 
+                            "instance_id": "6f57667d5efb9778", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "d551fe693b424145"
+                    ], 
+                    "point_id": "cb2c2b09b5987fd8", 
+                    "x": 750, 
+                    "y": -660
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "1e89c9fdf0e0ca6b", 
+                        "97a81922a3439fac", 
+                        "cb2c2b09b5987fd8"
+                    ], 
+                    "point_id": "d551fe693b424145", 
+                    "x": 820, 
+                    "y": -660
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {
+                "name": "tip-shunt"
+            }, 
+            "net_id": "63c9174d9f123ce7", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "6f57667d5efb9778", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "db3887878461089b"
+                    ], 
+                    "point_id": "501d0140b8b789ab", 
+                    "x": 750, 
+                    "y": -650
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "501d0140b8b789ab", 
+                        "f8030b7c630a8d0b", 
+                        "f865105d865aa0a8"
+                    ], 
+                    "point_id": "db3887878461089b", 
+                    "x": 810, 
+                    "y": -650
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "4c9a1d35790a009b", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "f865105d865aa0a8"
+                    ], 
+                    "point_id": "e88a8aab46949074", 
+                    "x": 750, 
+                    "y": -740
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "cc9a2f13d63439af", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "db3887878461089b"
+                    ], 
+                    "point_id": "f8030b7c630a8d0b", 
+                    "x": 940, 
+                    "y": -650
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "db3887878461089b", 
+                        "e88a8aab46949074"
+                    ], 
+                    "point_id": "f865105d865aa0a8", 
+                    "x": 810, 
+                    "y": -740
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {
+                "name": "sleeve"
+            }, 
+            "net_id": "3d50effaa96c0bcd", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "548a890024307316", 
+                        "b993da24bf6b2c6c"
+                    ], 
+                    "point_id": "2586a43a6cabec03", 
+                    "x": 830, 
+                    "y": -670
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 2, 
+                            "body_index": 0, 
+                            "instance_id": "cc9a2f13d63439af", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "850c7774762e79c3"
+                    ], 
+                    "point_id": "3884f01033e80a2c", 
+                    "x": 980, 
+                    "y": -670
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 2, 
+                            "body_index": 0, 
+                            "instance_id": "4c9a1d35790a009b", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "548a890024307316"
+                    ], 
+                    "point_id": "48479f801b5acb5b", 
+                    "x": 750, 
+                    "y": -760
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "2586a43a6cabec03", 
+                        "48479f801b5acb5b", 
+                        "850c7774762e79c3"
+                    ], 
+                    "point_id": "548a890024307316", 
+                    "x": 830, 
+                    "y": -760
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "3884f01033e80a2c", 
+                        "548a890024307316"
+                    ], 
+                    "point_id": "850c7774762e79c3", 
+                    "x": 980, 
+                    "y": -760
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 2, 
+                            "body_index": 0, 
+                            "instance_id": "6f57667d5efb9778", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "2586a43a6cabec03"
+                    ], 
+                    "point_id": "b993da24bf6b2c6c", 
+                    "x": 750, 
+                    "y": -670
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {}, 
+            "net_id": "3faaec1c66bb4bca", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "af4977ac03df0f0b", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "d11ad43cb3bbe172"
+                    ], 
+                    "point_id": "5e9a153eb3dca998", 
+                    "x": 920, 
+                    "y": -620
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 4, 
+                            "body_index": 0, 
+                            "instance_id": "cc9a2f13d63439af", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "d11ad43cb3bbe172"
+                    ], 
+                    "point_id": "b02a2d1e66dc0320", 
+                    "x": 940, 
+                    "y": -620
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "5e9a153eb3dca998", 
+                        "b02a2d1e66dc0320"
+                    ], 
+                    "point_id": "d11ad43cb3bbe172", 
+                    "x": 930, 
+                    "y": -620
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {}, 
+            "net_id": "bf2eff7be03aa0b2", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 3, 
+                            "body_index": 0, 
+                            "instance_id": "cc9a2f13d63439af", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "d3e6af10d5dca78d"
+                    ], 
+                    "point_id": "1414df878e038ba2", 
+                    "x": 940, 
+                    "y": -630
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "59ae040960d1048a", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "d3e6af10d5dca78d"
+                    ], 
+                    "point_id": "78dc8fecbbe58c9d", 
+                    "x": 920, 
+                    "y": -630
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "1414df878e038ba2", 
+                        "78dc8fecbbe58c9d"
+                    ], 
+                    "point_id": "d3e6af10d5dca78d", 
+                    "x": 930, 
+                    "y": -630
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }
+    ], 
+    "paths": [
+        {
+            "attributes": {}, 
+            "is_closed": true, 
+            "layer": "mechanical details", 
+            "points": [
+                {
+                    "x": 2540000, 
+                    "y": 0
+                }, 
+                {
+                    "x": 27940000, 
+                    "y": 0
+                }, 
+                {
+                    "x": 30480000, 
+                    "y": 2540000
+                }, 
+                {
+                    "x": 29736051, 
+                    "y": 743948
+                }, 
+                {
+                    "x": 30480000, 
+                    "y": 14224000
+                }, 
+                {
+                    "x": 27939999, 
+                    "y": 16764000
+                }, 
+                {
+                    "x": 29736050, 
+                    "y": 16020051
+                }, 
+                {
+                    "x": 2540000, 
+                    "y": 16764000
+                }, 
+                {
+                    "x": 0, 
+                    "y": 14224000
+                }, 
+                {
+                    "x": 743948, 
+                    "y": 16020051
+                }, 
+                {
+                    "x": 0, 
+                    "y": 2540000
+                }, 
+                {
+                    "x": 2540000, 
+                    "y": 0
+                }, 
+                {
+                    "x": 743948, 
+                    "y": 743948
+                }
+            ], 
+            "shape_types": [
+                "rounded_segment", 
+                "arc", 
+                "rounded_segment", 
+                "arc", 
+                "rounded_segment", 
+                "arc", 
+                "rounded_segment", 
+                "arc", 
+                "rounded_segment"
+            ], 
+            "width": 381000.0
+        }
+    ], 
+    "pcb_text": [
+        {
+            "flip": false, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1524000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "Tip shunt", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "top silkscreen", 
+            "rotation": 0.0, 
+            "value": "Tip shunt", 
+            "visible": "true", 
+            "x": 23596600, 
+            "y": 12827000
+        }, 
+        {
+            "flip": false, 
+            "label": {
+                "align": "right", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1524000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "Tip shunt", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "top silkscreen", 
+            "rotation": 0.0, 
+            "value": "Tip shunt", 
+            "visible": "true", 
+            "x": 6832600, 
+            "y": 12827000
+        }, 
+        {
+            "flip": false, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1524000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "Sleeve", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "top silkscreen", 
+            "rotation": 0.0, 
+            "value": "Sleeve", 
+            "visible": "true", 
+            "x": 24104600, 
+            "y": 1651000
+        }, 
+        {
+            "flip": false, 
+            "label": {
+                "align": "right", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1524000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "Tip", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "top silkscreen", 
+            "rotation": 0.0, 
+            "value": "Tip", 
+            "visible": "true", 
+            "x": 3276600, 
+            "y": 7239000
+        }, 
+        {
+            "flip": false, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1524000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "Tip", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "top silkscreen", 
+            "rotation": 0.0, 
+            "value": "Tip", 
+            "visible": "true", 
+            "x": 27533600, 
+            "y": 7239000
+        }, 
+        {
+            "flip": false, 
+            "label": {
+                "align": "right", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1524000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "Sleeve", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "top silkscreen", 
+            "rotation": 0.0, 
+            "value": "Sleeve", 
+            "visible": "true", 
+            "x": 6578600, 
+            "y": 1651000
+        }
+    ], 
+    "pins": [], 
+    "pours": [], 
+    "rulers": [
+        {
+            "end_point": {
+                "x": 25628600, 
+                "y": -4953000
+            }, 
+            "start_point": {
+                "x": 5308600, 
+                "y": -4953000
+            }
+        }, 
+        {
+            "end_point": {
+                "x": 25628600, 
+                "y": -1092200
+            }, 
+            "start_point": {
+                "x": 5308600, 
+                "y": -1092200
+            }
+        }
+    ], 
+    "shape_poses": [], 
+    "shapes": [], 
+    "trace_segments": [
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 5308600, 
+                "y": 10287000
+            }, 
+            "p2": {
+                "x": 7467600, 
+                "y": 12446000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "bottom copper", 
+            "p1": {
+                "x": 5308600, 
+                "y": 7747000
+            }, 
+            "p2": {
+                "x": 12308600, 
+                "y": 14747000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 7467600, 
+                "y": 12446000
+            }, 
+            "p2": {
+                "x": 20169600, 
+                "y": 12446000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 21868600, 
+                "y": 10747000
+            }, 
+            "p2": {
+                "x": 25168600, 
+                "y": 10747000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 24203600, 
+                "y": 3672000
+            }, 
+            "p2": {
+                "x": 25628600, 
+                "y": 5097000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 13309600, 
+                "y": 4826000
+            }, 
+            "p2": {
+                "x": 5689600, 
+                "y": 4826000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "bottom copper", 
+            "p1": {
+                "x": 12308600, 
+                "y": 14747000
+            }, 
+            "p2": {
+                "x": 16068600, 
+                "y": 14747000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "bottom copper", 
+            "p1": {
+                "x": 20548600, 
+                "y": 7747000
+            }, 
+            "p2": {
+                "x": 25628600, 
+                "y": 7747000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "bottom copper", 
+            "p1": {
+                "x": 16068600, 
+                "y": 14747000
+            }, 
+            "p2": {
+                "x": 19532600, 
+                "y": 11283000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 20169600, 
+                "y": 12446000
+            }, 
+            "p2": {
+                "x": 21868600, 
+                "y": 10747000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 14463600, 
+                "y": 3672000
+            }, 
+            "p2": {
+                "x": 24203600, 
+                "y": 3672000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "top copper", 
+            "p1": {
+                "x": 14463600, 
+                "y": 3672000
+            }, 
+            "p2": {
+                "x": 13309600, 
+                "y": 4826000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "bottom copper", 
+            "p1": {
+                "x": 19532600, 
+                "y": 11283000
+            }, 
+            "p2": {
+                "x": 19532600, 
+                "y": 8763000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "bottom copper", 
+            "p1": {
+                "x": 19532600, 
+                "y": 8763000
+            }, 
+            "p2": {
+                "x": 20548600, 
+                "y": 7747000
+            }, 
+            "trace_type": "straight", 
+            "width": 762000.0
+        }
+    ], 
+    "version": {
+        "exporter": "Upverter", 
+        "file_version": "0.3.0"
+    }
+}

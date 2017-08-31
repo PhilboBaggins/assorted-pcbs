@@ -12,6 +12,10 @@ The schematic, board layout and bill of materials can be viewed [here](https://u
 
 The bill of materials lists specific a part number for the 2 pin screw terminal block but really any old 2 pin screw terminal block with a 5mm pitch should work.
 
+## Ordering PCB
+
+This PCB can be ordered from the [pcbs.io](https://PCBs.io/share/42JjX) service.
+
 ## Licence
 
 Copyright © 2017 Phil Baldwin

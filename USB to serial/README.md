@@ -2,10 +2,10 @@
 
 An FT232 breakout board with the connectors I more often want to use:
 
-* On the RS232 site: a 3 pin screw terminal as well as the 6 pin 0.1" classic FTDI header
+* On the RS232 side: a 3 pin screw terminal as well as the 6 pin 0.1" classic FTDI header
 * On the USB side: a female USB B connector
 
-This board is intended to be small and check so I can leave it inside any projects need a quick and simple USB connection.
+This board is intended to be small and cheap so I can leave it inside any projects need a quick and simple USB connection.
 
 No care has been taken to layout the USB traces so that the differential signals have matched impedances; they're short traces and USB 2.0 isn't that fast so hopefully it won't affect things too much. 
 

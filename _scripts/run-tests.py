@@ -75,8 +75,8 @@ def checkUpverterExports(targetDirs):
             contents = os.listdir(upverterExportDir)
             def upverterExportsCheck(name):
                 if name not in contents:
-                    problemDir = os.path.relpath(os.path.join(projDir, 'Upverter exports', name), TOP_DIR)
-                    print('*', 'Not found:', problemDir)
+                    problemFile = os.path.relpath(os.path.join(projDir, 'Upverter exports', name), TOP_DIR)
+                    print('*', 'Not found:', problemFile)
             #upverterExportsCheck('3d model.stl')
             upverterExportsCheck('Gerbers')
             upverterExportsCheck('Schematic.asc')
@@ -84,6 +84,31 @@ def checkUpverterExports(targetDirs):
             upverterExportsCheck('Schematic.png')
             upverterExportsCheck('Schematic.svg')
             upverterExportsCheck('Upverter project.upv')
+
+
+def checkPcbsIoExports(targetDirs):
+    print()
+    print('## Checking pcbs.io export directories')
+    print()
+
+    pcbIoDirs = [os.path.join(projDir, 'pcbs.io') for projDir in targetDirs
+                if os.path.isdir(os.path.join(projDir, 'pcbs.io'))]
+
+    for pcbsIoDir in pcbIoDirs:
+        contents = os.listdir(pcbsIoDir)
+        def pcbsIoExportsCheck(name):
+            if name not in contents:
+                problemFile = os.path.relpath(os.path.join(pcbsIoDir, name), TOP_DIR)
+                print('*', 'Not found:', problemFile)
+        pcbsIoExportsCheck('README.md')
+        pcbsIoExportsCheck('top.svg')
+        pcbsIoExportsCheck('bottom.svg')
+
+    readmeHashes = [hashFile(dirPath, 'README.md') for dirPath in pcbIoDirs]
+    if not all(x == readmeHashes[0] for x in readmeHashes):
+        print("* All the pcbs.io/README.md files should be the same ... but they're not:")
+        for hashStr, path in zip(readmeHashes, pcbIoDirs):
+            print('    *', hashStr, os.path.relpath(path, TOP_DIR))
 
 
 if __name__ == '__main__':
@@ -96,3 +121,4 @@ if __name__ == '__main__':
     checkLicenceFiles(targetDirs)
     checkTODOEntries(targetDirs)
     checkUpverterExports(targetDirs)
+    checkPcbsIoExports(targetDirs)

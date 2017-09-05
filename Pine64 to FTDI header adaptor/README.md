@@ -2,6 +2,8 @@
 
 The [Pine64](https://www.pine64.org/?page_id=1194) and the [Sopine Baseboard](https://www.pine64.org/?page_id=1491) have a 3.3 volt TTL level serial port on their 10 pin EXP header. A FTDI [TTL-232R-3V3](http://www.ftdichip.com/Support/Documents/DataSheets/Cables/DS_TTL-232R_CABLES.pdf) cable could be used to connect this port to a computer but since the pin-outs (and shape of the connectors) don't match you'd need to patch the connection with 3 individual wires ... 3 wires?! That's too much work ... use this board instead.
 
+![Board photo](./board-photo.jpg)
+
 
 
 ## Design files

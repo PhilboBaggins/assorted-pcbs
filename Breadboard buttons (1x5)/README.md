@@ -6,6 +6,8 @@ While the button is not being pressed, the input signal (numbered 1 through 5) i
 
 If you want the input to go high when a button is pressed (active high), connect VCC to the active (A) pin and ground to the inactive (I) pin. If you want the input to go low when a button is pressed (active low) connect ground to the active (A) pin and VCC to the inactive (I) pin.
 
+![Board photo](./board-photo.jpg)
+
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.

@@ -1,3 +1,27 @@
+/*
+ * Test firmware for the Breadboard buttons (1x5) PCB
+ *
+ * This firmware was written for use on a Teensy LC but should work on
+ * pretty much any Arduino compatible board.
+ *
+ * ## Wiring
+ *
+ * To use this firmware, the boards should be wires up as follows:
+ *
+ *     | Pin on button boards |   Pin on Teensy LC   |
+ *     | -------------------- | -------------------- |
+ *     |          1           |          1           |
+ *     |          2           |          2           |
+ *     |          3           |          3           |
+ *     |          4           |          4           |
+ *     |          5           |          5           |
+ *     |          A           |         GND          |
+ *     |          I           |         VCC          |
+ *
+ * Example wiring can be seen here: https://github.com/PhilboBaggins/assorted-pcbs/blob/master/Breadboard%20buttons%20(1x5)/board-photo.jpg
+ *
+ */
+
 #include <Bounce.h>
 
 const unsigned long DEBOUNCE_TIME = 5;
@@ -48,4 +72,3 @@ void loop()
         checkButton(i);
     }
 }
-

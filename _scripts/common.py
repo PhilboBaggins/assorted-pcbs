@@ -11,7 +11,7 @@ TOP_DIR = os.path.realpath(os.path.join(SCRIPT_DIR, '..'))
 
 def projectDirectories():
     for item in os.listdir(TOP_DIR):
-        if item in ['.git', '_scripts']:
+        if item in ['.git', '_scripts', '_common']:
             continue
         item = os.path.join(TOP_DIR, item)       
         if os.path.isdir(item):

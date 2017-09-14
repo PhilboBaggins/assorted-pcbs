@@ -19,6 +19,7 @@ The schematic, board layout and bill of materials can be viewed [here](https://u
 
 ## TODO
 
+* [ ] Build and test prototype
 * [ ] Rename project
 * [ ] Redo all traces ... they're too thick, messy and overlap with the silkscreen
 * [ ] Add some screw holes or some other way of mounting the board

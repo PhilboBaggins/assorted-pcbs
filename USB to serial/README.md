@@ -1,5 +1,7 @@
 # USB to serial
 
+<img align="right" src="../_common/PlaceholderImage.png">
+
 An FT232 breakout board with the connectors I more often want to use:
 
 * On the RS232 side: a 3 pin screw terminal as well as the 6 pin 0.1" classic FTDI header

@@ -14,10 +14,8 @@ def projectDirectories():
         if item in ['.git', '_scripts']:
             continue
         item = os.path.join(TOP_DIR, item)       
-        if not os.path.isdir(item):
-            continue
-        yield item
-
+        if os.path.isdir(item):
+            yield item
 
 
 

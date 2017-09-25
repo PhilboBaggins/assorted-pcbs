@@ -1,5 +1,7 @@
 # Ethernet tap
 
+<img align="right" src="../_common/PlaceholderImage.png">
+
 A simple Ethernet tap board designed to make it easy to sniff Ethernet traffic. 
 
 ... existing taps ... problem with existing taps ...

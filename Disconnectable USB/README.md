@@ -1,5 +1,7 @@
 # Disconnectable USB
 
+<img align="right" src="../_common/PlaceholderImage.png">
+
 ....
 
 ## Design files

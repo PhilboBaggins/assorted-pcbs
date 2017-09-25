@@ -26,7 +26,7 @@ The schematic, board layout and bill of materials can be viewed [here](https://u
 
 ## Licence
 
-Copyright © 2016 Phil Baldwin
+Copyright © 2016, 2017 Phil Baldwin
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 

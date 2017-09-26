@@ -1,4 +1,4 @@
-# TTL-232R-XX-AJ-adaptor
+# TTL-232R-XX-AJ adaptor
 
 <img align="right" src="../_common/PlaceholderImage.png">
 

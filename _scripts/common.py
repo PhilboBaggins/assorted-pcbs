@@ -42,3 +42,11 @@ def hashFile(*args):
         buf = f.read()
         hasher.update(buf)
     return hasher.hexdigest()
+
+
+def fileContentsOrEmptyStr(*args):
+    filePath = os.path.join(*args)
+    try:
+        return open(filePath).read()
+    except IOError:
+        return ''

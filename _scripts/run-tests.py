@@ -111,6 +111,34 @@ def checkPcbsIoExports(targetDirs):
             print('    *', hashStr, os.path.relpath(path, TOP_DIR))
 
 
+def checkBoardPhotosOrPlaceHolders(targetDirs):
+    print()
+    print('## Checking for board photos or placeholders')
+    print()
+
+    for projDir in targetDirs:
+        contents = os.listdir(projDir)
+        boardPhotoPresent = 'board-photo.jpg' in contents
+        readmeData = fileContentsOrEmptyStr(projDir, 'README.md')
+        boardPhotoInReadme = 'board-photo.jpg' in readmeData
+        placeHolderInReadme = '_common/PlaceholderImage.png' in readmeData
+
+        def bad(msg):
+            print('*', msg, 'in', os.path.relpath(projDir, TOP_DIR))
+
+        if boardPhotoPresent and boardPhotoInReadme:
+            pass  # Good!
+        elif boardPhotoPresent:
+            bad("Board photo exist but it isn't mentioned in the README file")
+        elif boardPhotoInReadme:
+            bad("Board photo is mentioned in the README file but the files doesn't exist")
+        elif placeHolderInReadme:
+            #bad('Only a place holder image')
+            pass  # Good enough
+        else:
+            bad('No board photo nor place holder image')
+
+
 if __name__ == '__main__':
     if len(sys.argv) >= 2:
         targetDirs = sys.argv[1:]
@@ -122,3 +150,4 @@ if __name__ == '__main__':
     checkTODOEntries(targetDirs)
     checkUpverterExports(targetDirs)
     checkPcbsIoExports(targetDirs)
+    checkBoardPhotosOrPlaceHolders(targetDirs)

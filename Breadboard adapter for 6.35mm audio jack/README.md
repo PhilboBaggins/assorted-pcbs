@@ -1,8 +1,8 @@
 # Breadboard adaptor for 6.35mm audio jack
 
-<img align="right" src="../_common/PlaceholderImage.png">
-
 Breakout board for a 6.35mm audio connector so I can more easily get audio signals into my breadboard.
+
+![Board photo](./board-photo.jpg)
 
 ## Design files
 

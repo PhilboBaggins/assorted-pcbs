@@ -2,6 +2,8 @@
 
 This is a quick and simple board designed to hold 6 reed switches in a row, approximately equal distance apart so I can experiment with some spinning magnets for possible MIDI applications.
 
+![Board photo](./board-photo.jpg)
+
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.

@@ -2,6 +2,8 @@
 
 This is a quick and simple board designed to hold a [Pine64 PADI](https://www.pine64.org/?page_id=917) board and allow you to talk to it with a FTDI [TTL-232R-3V3](http://www.ftdichip.com/Products/Cables/USBTTLSerial.htm) cable while powering the PADI module from an external 3.3 volt power supply (via a screw terminal).
 
+![Board photo](./board-photo.jpg)
+
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.

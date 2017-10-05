@@ -2,7 +2,7 @@
 
 A simple way to get power and ground connected to both of the vertical rails on your breadboard.
 
-![board-photo](./board-photo.jpg)
+![Board photo](./board-photo.jpg)
 
 ## Design files
 

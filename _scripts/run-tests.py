@@ -120,7 +120,7 @@ def checkBoardPhotosOrPlaceHolders(targetDirs):
         contents = os.listdir(projDir)
         boardPhotoPresent = 'board-photo.jpg' in contents
         readmeData = fileContentsOrEmptyStr(projDir, 'README.md')
-        boardPhotoInReadme = 'board-photo.jpg' in readmeData
+        boardPhotoInReadme = '![Board photo](./board-photo.jpg)' in readmeData
         placeHolderInReadme = '_common/PlaceholderImage.png' in readmeData
 
         def bad(msg):

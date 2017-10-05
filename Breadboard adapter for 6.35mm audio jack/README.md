@@ -13,6 +13,7 @@ The schematic, board layout and bill of materials can be viewed [here](https://u
 ## TODO
 
 * [ ] Consider expanding board to 5 pins on either side and allowing any of the Switchcraft 110x series of connectors to be used.
+* [ ] Shrink board so it leaves more breadboard holes available
 
 ## Licence
 

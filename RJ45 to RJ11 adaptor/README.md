@@ -1,8 +1,8 @@
 # RJ45 to RJ11 adaptor
 
-<img align="right" src="../_common/PlaceholderImage.png">
-
 Pin for pin adaptor to RJ45 and RJ11 connectors. Pins 1-6 on the RJ11 are connected to pins 1-6 on the RJ45. Pins 7 and 8 on the RJ45 are not connected.
+
+![Board photo](./board-photo.jpg)
 
 ## Design files
 

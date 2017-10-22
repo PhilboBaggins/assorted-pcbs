@@ -1,1 +1,1 @@
-A bunch of PCBs I designed.
+Design files for a bunch of printed circuit boards (PCBs).

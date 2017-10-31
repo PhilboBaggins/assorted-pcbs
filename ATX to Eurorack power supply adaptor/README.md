@@ -1,13 +1,13 @@
 # ATX to Eurorack power supply adaptor
 
-<img align="right" src="../_common/PlaceholderImage.png">
-
 An ATX power supply (standard PC power supply) has all the power rails we want for a Eurorack modular synth; plus they're cheap and easy to obtain (even salvagable from an old computer). This board accepts the 24 pin connector from the ATX power supply and distributes it's +12V, -12V, +5V power rails to the following connectors:
 
 * 2 standard Eurorack power connectors - 2x8 pin shrouded header
 * 1 4-pin screw terminal block or 4 Quick Fit lugs
 
 The CV and Gate signals on the Eurorack power connectors have been left unconnected.
+
+![Board photo](./board-photo.jpg)
 
 ## Potential issues with using an ATX power supply with a Eurorack system
 

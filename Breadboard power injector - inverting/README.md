@@ -8,7 +8,7 @@ The charge pump will not supply very much current; it's really just intended to 
 
 ## Related boards
 
-This board is based on the [Breadboard power injector](../Breadboard power injector/)
+This board is based on the [Breadboard power injector](../Breadboard%20power%20injector/).
 
 ## Design files
 

@@ -4,6 +4,10 @@ A simple way to get power and ground connected to both of the vertical rails on 
 
 ![Board photo](./board-photo.jpg)
 
+## Related boards
+
+If you want a negative voltage supply as well, check out the [Breadboard power injector - inverting](../Breadboard%20power%20injector%20-%20inverting/) board.
+
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.

@@ -4,10 +4,22 @@ OUTPUT_FILE_NAME="boards-montage.jpg"
 
 # TODO: Check that imagemagick is installed
 
+heading() {
+    local msg_string=$1
+    local msg_string="${msg_string:-...}"
+    echo "\033[32;1m##\033[0m\033[1m ${msg_string}\033[0m"
+}
+
 SCRIPT_DIR="`dirname -- "${0}"`"
 cd "$SCRIPT_DIR/../"
 
-echo "Building montage with:"
+clear
+
+heading "Git status of board-photo.jpg image files"
+git status */board-photo.jpg
+echo
+
+heading "Building montage with:"
 find . -name board-photo.jpg | while read path; do
     echo "* $path"
 done

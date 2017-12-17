@@ -1,5 +1,7 @@
 # Ethernet tap
 
+*Warning: Design not tested yet*
+
 A simple Ethernet tap board designed to make it easy to sniff Ethernet traffic. 
 
 ... existing taps ... problem with existing taps ...

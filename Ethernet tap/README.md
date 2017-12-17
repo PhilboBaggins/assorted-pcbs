@@ -1,7 +1,5 @@
 # Ethernet tap
 
-<img align="right" src="../_common/PlaceholderImage.png">
-
 A simple Ethernet tap board designed to make it easy to sniff Ethernet traffic. 
 
 ... existing taps ... problem with existing taps ...
@@ -15,6 +13,8 @@ The board has 3 [8P8C plugs](https://en.wikipedia.org/wiki/Modular_connector#8P8
 This board is only intended to work with only 10/100 Ethernet, it will not be able to sniff gigabit Ethernet traffic as 
 
 No care has been taken to layout the signal traces so that the differential signals have matched impedances; they're short traces and we are only dealing with 10/100 Ethernet here so hopefully it won't affect things too much.
+
+![Board photo](./board-photo.jpg)
 
 ## Design files
 

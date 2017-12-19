@@ -1,3 +1,1 @@
-language: python
-
 script: _scripts/run-tests.py

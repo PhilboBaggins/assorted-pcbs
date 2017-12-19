@@ -60,8 +60,6 @@ def checkTODOEntries(targetDirs):
                 print('*  ???  entry in', os.path.relpath(readmeFile, TOP_DIR))
             if '.....' in data:
                 print('* ..... entry in', os.path.relpath(readmeFile, TOP_DIR))
-            elif '...' in data:
-                print('*  ...  entry in', os.path.relpath(readmeFile, TOP_DIR))
 
 
 def checkUpverterExports(targetDirs):

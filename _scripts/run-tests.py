@@ -89,6 +89,11 @@ def checkPcbsIoExports(targetDirs):
     print('## Checking pcbs.io export directories')
     print()
 
+    noPcbIoDirs = [projDir for projDir in targetDirs
+                  if not os.path.isdir(os.path.join(projDir, 'pcbs.io'))]
+    for projDir in noPcbIoDirs:
+        print('* No pcbs.io directory in', os.path.relpath(projDir, TOP_DIR))
+
     pcbIoDirs = [os.path.join(projDir, 'pcbs.io') for projDir in targetDirs
                 if os.path.isdir(os.path.join(projDir, 'pcbs.io'))]
 

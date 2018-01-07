@@ -9,7 +9,7 @@ An FT232 breakout board with the connectors I more often want to use:
 
 This board is intended to be small and cheap so I can leave it inside any projects need a quick and simple USB connection.
 
-No care has been taken to layout the USB traces so that the differential signals have matched impedances; they're short traces and USB 2.0 isn't that fast so hopefully it won't affect things too much. 
+No care has been taken to layout the USB traces so that the differential signals have matched impedances; they're short traces and USB 2.0 isn't that fast so hopefully it won't affect things too much.
 
 ## Design files
 

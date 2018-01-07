@@ -6,6 +6,10 @@ This PCB is such an adaptor. It connects the transmit (TX), receive (TX) and gro
 
 ![Board photo](./board-photo.jpg)
 
+## Connectors
+
+The 3.5 mm audio connector is for interfacing with the FTDI TTL-232R-XX-AJ cable, the other two are for whatever TTL level serial device you want to connect to. You can mount both of these connectors but be aware that the pins on the 0.1" header can get in the way of the screw terminals so it's often a good idea to just mount one or the other.
+
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.
@@ -14,7 +18,7 @@ The schematic, board layout and bill of materials can be viewed [here](https://u
 
 ## Licence
 
-Copyright © 2016, 2017 Phil Baldwin
+Copyright © 2016, 2017, 2018 Phil Baldwin
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 

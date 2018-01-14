@@ -50,3 +50,7 @@ def fileContentsOrEmptyStr(*args):
         return open(filePath).read()
     except IOError:
         return ''
+
+
+def pathRelToRepo(inputPath):
+    return os.path.relpath(inputPath, TOP_DIR)

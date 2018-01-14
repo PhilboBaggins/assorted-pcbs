@@ -16,17 +16,17 @@ def checkReadmeFiles(targetDirs):
         readmeFile = os.path.join(projDir, 'README.md')
 
         if not os.path.isfile(readmeFile):
-            print('* No README.md file in', os.path.relpath(projDir, TOP_DIR))
+            print('* No README.md file in', pathRelToRepo(projDir))
             continue
 
         if not fileContains(readmeFile, '## Licence'):
-            print('* No \"Licence\" heading in', os.path.relpath(readmeFile, TOP_DIR))
+            print('* No \"Licence\" heading in', pathRelToRepo(readmeFile))
 
         if not fileContains(readmeFile, 'Copyright ©'):
-            #print('*', os.path.relpath(readmeFile, TOP_DIR), 'does not contains a copyright symbol')
-            #print('* "', os.path.relpath(readmeFile, TOP_DIR), '" does not contains a copyright symbol', sep='')
-            #print('* No copyright symbol in "', os.path.relpath(readmeFile, TOP_DIR), '"', sep='')
-            print('* No copyright symbol in', os.path.relpath(readmeFile, TOP_DIR))
+            #print('*', pathRelToRepo(readmeFile), 'does not contains a copyright symbol')
+            #print('* "', pathRelToRepo(readmeFile), '" does not contains a copyright symbol', sep='')
+            #print('* No copyright symbol in "', pathRelToRepo(readmeFile), '"', sep='')
+            print('* No copyright symbol in', pathRelToRepo(readmeFile))
 
 
 def checkLicenceFiles(targetDirs):
@@ -38,11 +38,11 @@ def checkLicenceFiles(targetDirs):
         licenceFile = os.path.join(projDir, 'LICENCE.txt')
 
         if not os.path.isfile(licenceFile):
-            print('* No LICENCE.txt file in', os.path.relpath(projDir, TOP_DIR))
+            print('* No LICENCE.txt file in', pathRelToRepo(projDir))
             continue
 
         if os.path.getsize(licenceFile) == 0:
-            print('* LICENCE.txt in', os.path.relpath(projDir, TOP_DIR), 'is empty')
+            print('* LICENCE.txt in', pathRelToRepo(projDir), 'is empty')
 
 
 def checkTODOEntries(targetDirs):
@@ -55,11 +55,11 @@ def checkTODOEntries(targetDirs):
         if os.path.isfile(readmeFile):
             data = open(readmeFile, 'r').read()
             if 'TODO' in data:
-                print('* TODO  entry in', os.path.relpath(readmeFile, TOP_DIR))
+                print('* TODO  entry in', pathRelToRepo(readmeFile))
             if '???' in data:
-                print('*  ???  entry in', os.path.relpath(readmeFile, TOP_DIR))
+                print('*  ???  entry in', pathRelToRepo(readmeFile))
             if '.....' in data:
-                print('* ..... entry in', os.path.relpath(readmeFile, TOP_DIR))
+                print('* ..... entry in', pathRelToRepo(readmeFile))
 
 
 def checkUpverterExports(targetDirs):
@@ -73,7 +73,7 @@ def checkUpverterExports(targetDirs):
             contents = os.listdir(upverterExportDir)
             def upverterExportsCheck(name):
                 if name not in contents:
-                    problemFile = os.path.relpath(os.path.join(projDir, 'Upverter exports', name), TOP_DIR)
+                    problemFile = pathRelToRepo(os.path.join(projDir, 'Upverter exports', name))
                     print('*', 'Not found:', problemFile)
             #upverterExportsCheck('3d model.stl')
             upverterExportsCheck('Gerbers')
@@ -92,7 +92,7 @@ def checkPcbsIoExports(targetDirs):
     noPcbIoDirs = [projDir for projDir in targetDirs
                   if not os.path.isdir(os.path.join(projDir, 'pcbs.io'))]
     for projDir in noPcbIoDirs:
-        print('* No pcbs.io directory in', os.path.relpath(projDir, TOP_DIR))
+        print('* No pcbs.io directory in', pathRelToRepo(projDir))
 
     pcbIoDirs = [os.path.join(projDir, 'pcbs.io') for projDir in targetDirs
                 if os.path.isdir(os.path.join(projDir, 'pcbs.io'))]
@@ -101,7 +101,7 @@ def checkPcbsIoExports(targetDirs):
         contents = os.listdir(pcbsIoDir)
         def pcbsIoExportsCheck(name):
             if name not in contents:
-                problemFile = os.path.relpath(os.path.join(pcbsIoDir, name), TOP_DIR)
+                problemFile = pathRelToRepo(os.path.join(pcbsIoDir, name))
                 print('*', 'Not found:', problemFile)
         pcbsIoExportsCheck('README.md')
         pcbsIoExportsCheck('top.svg')
@@ -111,7 +111,7 @@ def checkPcbsIoExports(targetDirs):
     if not all(x == readmeHashes[0] for x in readmeHashes):
         print("* All the pcbs.io/README.md files should be the same ... but they're not:")
         for hashStr, path in zip(readmeHashes, pcbIoDirs):
-            print('    *', hashStr, os.path.relpath(path, TOP_DIR))
+            print('    *', hashStr, pathRelToRepo(path))
 
 
 def checkBoardPhotosOrPlaceHolders(targetDirs):
@@ -127,7 +127,7 @@ def checkBoardPhotosOrPlaceHolders(targetDirs):
         placeHolderInReadme = '_common/PlaceholderImage.png' in readmeData
 
         def bad(msg):
-            print('*', msg, 'in', os.path.relpath(projDir, TOP_DIR))
+            print('*', msg, 'in', pathRelToRepo(projDir))
 
         if boardPhotoPresent and boardPhotoInReadme:
             pass  # Good!

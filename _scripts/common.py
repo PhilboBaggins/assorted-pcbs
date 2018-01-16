@@ -3,10 +3,13 @@
 
 from __future__ import print_function
 import os
+import re
 import hashlib
 
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 TOP_DIR = os.path.realpath(os.path.join(SCRIPT_DIR, '..'))
+
+upverterUrlRegex = re.compile(r'https?:\/\/upverter.com\/(.*)\/')
 
 
 def projectDirectories():
@@ -17,6 +20,14 @@ def projectDirectories():
         if os.path.isdir(item):
             yield item
 
+
+def getUpverterUrl(projDir):
+    readmeFile = os.path.join(projDir, 'README.md')
+    if os.path.isfile(readmeFile):
+        readmeData = open(readmeFile, 'r').read()
+        matches = upverterUrlRegex.search(readmeData)
+        if matches:
+            return matches.group(0)
 
 
 #

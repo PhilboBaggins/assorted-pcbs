@@ -8,7 +8,7 @@ This is a quick and simple board designed to hold 6 reed switches in a row, appr
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/779c092dc3c8a9ac/Reed-switch-holder/). Exports from Upverter are available in a subdirectory.
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/779c092dc3c8a9ac/Reed-switch-holder/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
 The bill of materials lists specific part numbers for the 0.1" header and reed switches but really any old 0.1" header and reed switches should work.
 

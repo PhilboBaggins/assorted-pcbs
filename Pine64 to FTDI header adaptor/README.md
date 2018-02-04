@@ -10,7 +10,7 @@ The [Pine64](https://www.pine64.org/?page_id=1194) and the [Sopine Baseboard](ht
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic and board layout can be viewed [here](https://upverter.com/Trebuchetindustries/1f7428c9e47603ca/Pine64-to-FTDI-header-adaptor/). Exports from Upverter are available in a subdirectory.
+The schematic and board layout can be viewed [here](https://upverter.com/Trebuchetindustries/1f7428c9e47603ca/Pine64-to-FTDI-header-adaptor/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
 ### Bill of materials
 

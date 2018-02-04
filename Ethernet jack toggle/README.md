@@ -8,7 +8,7 @@
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/40610ec0e96577e1/Ethernet-jack-toggle/). Exports from Upverter are available in a subdirectory.
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/40610ec0e96577e1/Ethernet-jack-toggle/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
 ## Licence
 

@@ -24,7 +24,7 @@ ATX power supplies are designed to operate within desktop computers, not within 
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/cbf2f2e6c2a22832/ATX-to-Eurorack-power-supply-adaptor/). Exports from Upverter are available in a subdirectory.
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/cbf2f2e6c2a22832/ATX-to-Eurorack-power-supply-adaptor/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
 ## TODO
 

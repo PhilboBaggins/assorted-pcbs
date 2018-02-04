@@ -15,7 +15,7 @@ No care has been taken to layout the USB traces so that the differential signals
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/9bcfd8e23a60948c/USB-to-serial/). Exports from Upverter are available in a subdirectory.
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/9bcfd8e23a60948c/USB-to-serial/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
 ## TODO
 

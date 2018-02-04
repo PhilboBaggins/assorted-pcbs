@@ -8,7 +8,7 @@ This is a quick and simple board designed to hold a [Pine64 PADI](https://www.pi
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/38c22eb1ff7e8e2d/Pine64-PADI-to-FTDI-header-adaptor/). Exports from Upverter are available in a subdirectory.
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/38c22eb1ff7e8e2d/Pine64-PADI-to-FTDI-header-adaptor/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
 The bill of materials lists specific a part number for the 2 pin screw terminal block but really any old 2 pin screw terminal block with a 5mm pitch should work.
 

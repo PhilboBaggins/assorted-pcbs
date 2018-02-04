@@ -12,7 +12,7 @@ When mounting the Teensy, it is important to make sure the Teensy's pins line up
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/f769853e2825a702/Teensy-screws/). Exports from Upverter are available in a subdirectory.
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/f769853e2825a702/Teensy-screws/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
 ## Licence
 

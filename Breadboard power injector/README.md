@@ -12,7 +12,7 @@ If you want a negative voltage supply as well, check out the [Breadboard power i
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/1fb8f03207e953b4/Breadboard-power-injector/). Exports from Upverter are available in a subdirectory.
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/1fb8f03207e953b4/Breadboard-power-injector/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
 The bill of materials lists specific a part number for the 2 pin screw terminal block but really any old 2 pin screw terminal block with a 5mm pitch should work.
 

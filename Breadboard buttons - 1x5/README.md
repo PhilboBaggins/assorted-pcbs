@@ -12,7 +12,7 @@ If you want the input to go high when a button is pressed (active high), connect
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/3e25da6e03fb6ce9/Breadboard-buttons-1x5/). Exports from Upverter are available in a subdirectory.
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/3e25da6e03fb6ce9/Breadboard-buttons-1x5/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
 ## Licence
 

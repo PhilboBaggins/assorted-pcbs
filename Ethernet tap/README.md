@@ -22,7 +22,7 @@ No care has been taken to layout the signal traces so that the differential sign
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/061c6872fd13c86f/Ethernet-tap/). Exports from Upverter are available in a subdirectory.
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/061c6872fd13c86f/Ethernet-tap/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
 ## TODO
 

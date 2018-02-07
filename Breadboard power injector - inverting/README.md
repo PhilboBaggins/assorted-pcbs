@@ -20,6 +20,10 @@ The bill of materials lists specific a part number for the 2 pin screw terminal 
 
 The bill of materials lists LMC9660 but really any of the (surface mount) 7660 chips should work.
 
+## Testing
+
+See [Testing/README.md](./Testing/README.md)
+
 ## Licence
 
 Copyright © 2017 Phil Baldwin

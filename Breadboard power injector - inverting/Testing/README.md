@@ -6,11 +6,11 @@ Testing conducted with version 1.0 PCB. Board was built with a Texas Instruments
 
 Bench-top power supply set to 5 volts and connected to GND and VCC screw terminals on PCB via about 50cm of wire. Oscilloscope probe one connected to VCC 0.1" header and oscilloscope probe two connected to VEE 0.1" header. Both oscilloscope probes given a ground reference by connecting them to the GND screw terminal.
 
-TODO: Add first oscilloscope trace
+![scope_0.png](./scope_0.png)
 
 Same set up as above, just with oscilloscope zoomed in a little more (100 millivolts per division).
 
-TODO: Add second oscilloscope trace
+![scope_1.png](./scope_1.png)
 
 
 
@@ -18,11 +18,11 @@ TODO: Add second oscilloscope trace
 
 PCB plugged into a breadboard with a 10 μf 50 volt electrolydic capacitor connected between the VCC and GND breadboard strips. Bench-top power supply set to 5 volts and connected to GND and VCC screw terminals on PCB via about 50cm of wire. Oscilloscope probe one connected to VCC strip on the breadboard and oscilloscope probe two connected to the VEE strip on the breadboard. Both oscilloscope probes given a ground reference by connecting them to the GND screw terminal.
 
-TODO: Add third oscilloscope trace
+![scope_2.png](./scope_2.png)
 
 Same set up as above, just with oscilloscope zoomed in a little more (100 millivolts per division).
 
-TODO: Add fourth oscilloscope trace
+![scope_3.png](./scope_3.png)
 
 
 

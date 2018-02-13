@@ -14,6 +14,12 @@ This board was designed using the [Upverter](https://upverter.com) web service.
 
 The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/3e25da6e03fb6ce9/Breadboard-buttons-1x5/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
+## Ordering PCB
+
+[This PCB can be ordered](https://PCBs.io/share/4Q2d5) from the [pcbs.io](https://pcbs.io) service.
+
+<a href="https://PCBs.io/share/4Q2d5"><img src="https://s3.amazonaws.com/pcbs.io/share.png" alt="Order from PCBs.io"></img></a>
+
 ## Licence
 
 Copyright © 2017 Phil Baldwin

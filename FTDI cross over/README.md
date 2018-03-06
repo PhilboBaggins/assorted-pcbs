@@ -2,6 +2,12 @@
 
 This tiny little board provides two FTDI-compatible 6-pin 0.1" headers, with the VCC and GND (power and ground) pins from each header linked to the corresponding pin on the other header, and the TX and RX (transmit and receive) pins crossed over.
 
+You can populate this board with pretty much and 1x6 pin 0.1" headers; male or female, straight or right angle, it all works.
+
+Why would I want this? Well sometimes I need to plug two FTDI (USB to serial) cables together or I just need to cross over the RX and TX lines when plugging an FTDI cable into some strange device. I could even use two of these boards in cases where I don't want the TX and RX lines crossed over, e.g. as a connector gender conversion.
+
+This board serves a similar function to the null modem and gender change over adaptors I use with [DE-9 connectors](https://en.wikipedia.org/wiki/D-subminiature) ... I've got plenty of those hanging around, and now I've got these.
+
 ![Board photo](./board-photo.jpg)
 
 ## Design files

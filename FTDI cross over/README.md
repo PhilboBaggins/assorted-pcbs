@@ -1,8 +1,8 @@
 # FTDI cross over
 
-<img align="right" src="../_common/PlaceholderImage.png">
-
 This tiny little board provides two FTDI-compatible 6-pin 0.1" headers, with the VCC and GND (power and ground) pins from each header linked to the corresponding pin on the other header, and the TX and RX (transmit and receive) pins crossed over.
+
+![Board photo](./board-photo.jpg)
 
 ## Design files
 

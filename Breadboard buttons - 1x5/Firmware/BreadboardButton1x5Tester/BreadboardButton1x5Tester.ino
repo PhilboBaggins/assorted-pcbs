@@ -67,7 +67,7 @@ void setup()
 
 void loop()
 {
-    for(int i = 0; i < 5; i++)
+    for (int i = 0; i < 5; i++)
     {
         checkButton(i);
     }

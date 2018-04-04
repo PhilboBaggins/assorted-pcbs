@@ -18,7 +18,9 @@ The bill of materials lists specific a part number for the 2 pin screw terminal 
 
 ## Ordering PCB
 
-This PCB can be ordered from the [pcbs.io](https://PCBs.io/share/42JjX) service.
+[This PCB can be ordered](https://PCBs.io/share/42JjX) from the [pcbs.io](https://pcbs.io) service.
+
+<a href="https://PCBs.io/share/42JjX"><img src="https://s3.amazonaws.com/pcbs.io/share.png" alt="Order from PCBs.io"></img></a>
 
 ## Licence
 

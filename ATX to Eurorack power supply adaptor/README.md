@@ -26,6 +26,12 @@ This board was designed using the [Upverter](https://upverter.com) web service.
 
 The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/cbf2f2e6c2a22832/ATX-to-Eurorack-power-supply-adaptor/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
+## Ordering PCB
+
+[This PCB can be ordered](https://PCBs.io/share/4QGV1) from the [pcbs.io](https://pcbs.io) service.
+
+<a href="https://PCBs.io/share/4QGV1"><img src="https://s3.amazonaws.com/pcbs.io/share.png" alt="Order from PCBs.io"></img></a>
+
 ## TODO
 
 * [ ] Determine what value resistors to use for LEDs

@@ -28,6 +28,10 @@ This board has two sets of connectors with overlapping footprints. You an only l
 | --------------- | -------------- |
 | ![Secondary connector - Screw terminals](./secondary-connector-screw-terminals.jpg) | ![Secondary connector - Lugs](./secondary-connector-lugs.jpg) |
 
+## LEDs
+
+The 3 LEDs indicate the presence of the 3 powers rails (+12V, -12V, +5V). They don't indicate that the power supply is behaving itself or that the power rail has the right voltage. LED brightness is controlled by the resistor next to each LED.
+
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.

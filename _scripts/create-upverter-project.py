@@ -2,14 +2,16 @@
 # -*- coding: utf8 -*-
 
 from __future__ import print_function
-import sys
+import os
 from six.moves import range
 from six.moves import input
 import datetime
+import shutil
+import common
 
 __version__ = '0.1.0'
 
-TEMPLATE = r'''
+TEMPLATE = '''
 # {name}
 
 <img align="right" src="../_common/PlaceholderImage.png">
@@ -33,19 +35,44 @@ You should have received a copy of the license along with this work. If not, see
 
 
 def main(verbose=0):
-    projName = 'Project name'  # TODO: Ask user
-    projDesc = 'Project description'  # TODO: Ask user
-    projUpverterURL = 'URL URL URL'  # TODO: Ask user
+    commonLicenceFile = os.path.join(common.TOP_DIR, 'Breadboard buttons - 1x5', 'LICENCE.txt')
+    commonPcbIOReadme = os.path.join(common.TOP_DIR, 'Breadboard buttons - 1x5', 'pcbs.io', 'README.md')
+
+    projName = input('Project name: ')
+    projDesc = input('Project description: ')
+    projUpverterURL = input('Upverter URL: ')  # TODO: Check with common.upverterUrlRegex
+
     projCopyrightYear = str(datetime.datetime.now().year)
+    projDir = os.path.join(common.TOP_DIR, projName)
+    projUpvExportsDir = os.path.join(projDir, 'Upverter exports')
+    projUpvExportsGerbersDir = os.path.join(projDir, 'Upverter exports', 'Gerbers')
+    projPcbsIoDir = os.path.join(projDir, 'pcbs.io')
+    projReadmeFile = os.path.join(projDir, 'README.md')
+
+    if os.path.exists(projDir):
+        print(projDir, 'already exists. Aborting ...')
+        return
+
+    os.makedirs(projDir)
+    os.makedirs(projUpvExportsDir)
+    os.makedirs(projPcbsIoDir)
+    os.makedirs(projUpvExportsGerbersDir)
+
+    shutil.copy2(commonLicenceFile, projDir)
+    shutil.copy2(commonPcbIOReadme, projPcbsIoDir)
+
     readmeData = TEMPLATE \
         .replace('{name}', projName) \
         .replace('{description}', projDesc) \
         .replace('{upverter-url}', projUpverterURL) \
-        .replace('{copyright-year}', projCopyrightYear)
-    print(readmeData)
+        .replace('{copyright-year}', projCopyrightYear) \
+        .strip()
+    with open(projReadmeFile, 'w') as f:
+        f.write(readmeData)
 
 
 if __name__ == '__main__':
+    import sys
     from argparse import ArgumentParser
     parser = ArgumentParser()
     #parser.add_argument('path')

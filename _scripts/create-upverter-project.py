@@ -66,7 +66,7 @@ def main(verbose=0):
         .replace('{description}', projDesc) \
         .replace('{upverter-url}', projUpverterURL) \
         .replace('{copyright-year}', projCopyrightYear) \
-        .strip()
+        .lstrip()
     with open(projReadmeFile, 'w') as f:
         f.write(readmeData)
 

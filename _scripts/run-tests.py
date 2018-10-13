@@ -68,11 +68,14 @@ def checkUpverterExports(targetDirs):
     print()
 
     for projDir in targetDirs:
-        upverterExportDir = os.path.join(projDir, 'Upverter exports')
-        if os.path.isdir(upverterExportDir):
-            contents = os.listdir(upverterExportDir)
+        upverterExportsDir = os.path.join(projDir, 'Upverter exports')
+        if os.path.isdir(upverterExportsDir):
+            files = [f for f in os.listdir(upverterExportsDir) if os.path.isfile(os.path.join(upverterExportsDir, f))]
+            if len(files) == 0:
+                print('*', 'Empty "Upverter exports" directory for', pathRelToRepo(projDir), 'project')
+                continue
             def upverterExportsCheck(name):
-                if name not in contents:
+                if name not in files:
                     problemFile = pathRelToRepo(os.path.join(projDir, 'Upverter exports', name))
                     print('*', 'Not found:', problemFile)
             #upverterExportsCheck('3d model.stl')

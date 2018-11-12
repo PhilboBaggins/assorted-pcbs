@@ -75,7 +75,6 @@ if __name__ == '__main__':
     import sys
     from argparse import ArgumentParser
     parser = ArgumentParser()
-    #parser.add_argument('path')
     parser.add_argument('--version',
                         action='version',
                         version='%(prog)s ' + __version__)

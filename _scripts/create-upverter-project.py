@@ -9,7 +9,7 @@ import datetime
 import shutil
 import common
 
-__version__ = '0.1.0'
+__version__ = '1.0.0'
 
 TEMPLATE = '''
 # {name}

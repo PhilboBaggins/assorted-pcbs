@@ -83,11 +83,6 @@ def main(dirWithFiles, verbose=0):
     aaa('openjson.upv',         DESIRED_FILE_NAMES['upverter-project'])
     aaa('pads_netlist.asc',     DESIRED_FILE_NAMES['schematic-asc'])
 
-    assert(len(files) <= 3)
-    aaa('.pdf', DESIRED_FILE_NAMES['schematic-pdf'])
-    aaa('.png', DESIRED_FILE_NAMES['schematic-png'])
-    aaa('.svg', DESIRED_FILE_NAMES['schematic-svg'])
-
     gerberZipFile = findFileInList('gerber.zip', files)
     if gerberZipFile:
         handleGerberZipFile(gerberZipFile, projName)
@@ -95,9 +90,15 @@ def main(dirWithFiles, verbose=0):
     else:
         print('Unable to find gerber zip file')
 
-    print('Unhandled files:')
-    for file in files:
-        print('*', file)
+    assert(len(files) <= 3)
+    aaa('.pdf', DESIRED_FILE_NAMES['schematic-pdf'])
+    aaa('.png', DESIRED_FILE_NAMES['schematic-png'])
+    aaa('.svg', DESIRED_FILE_NAMES['schematic-svg'])
+
+    if len(files) > 0:
+        print('Unhandled files:')
+        for file in files:
+            print('*', file)
 
 
 if __name__ == '__main__':

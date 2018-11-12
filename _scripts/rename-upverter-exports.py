@@ -25,6 +25,8 @@ DESIRED_FILE_NAMES = {
     'schematic-svg': 'Schematic.svg',
 }
 
+FILES_TO_IGNORE = ['Thumbs.db', '.DS_Store'] + list(DESIRED_FILE_NAMES.values())
+
 
 def rename(oldfile, newName, verbose=0):
     if verbose > 0:
@@ -67,7 +69,7 @@ def main(dirWithFiles, verbose=0):
     os.chdir(dirWithFiles)
 
     projName = os.path.basename(os.path.abspath('../'))
-    files = [f for f in os.listdir('.') if os.path.isfile(f) and f not in DESIRED_FILE_NAMES.values()]
+    files = [f for f in os.listdir('.') if os.path.isfile(f) and f not in FILES_TO_IGNORE]
 
     def aaa(partOfOldName, newName):
         file = findFileInList(partOfOldName, files)

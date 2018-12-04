@@ -1,0 +1,16 @@
+%FSLAX33Y33*%
+%MOMM*%
+%ADD10R,0.82071X1.67071*%
+D10*
+%LNbottom paste_traces*%
+%LNbottom paste component 2b46bd6407843b15*%
+G01*
+X32425Y14500D03*
+X35575Y14500D03*
+%LNbottom paste component f58287f33a8996b4*%
+X32425Y22500D03*
+X35575Y22500D03*
+%LNbottom paste component 0af2d2f02e1cb27f*%
+X32425Y30500D03*
+X35575Y30500D03*
+M02*

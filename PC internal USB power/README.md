@@ -2,7 +2,7 @@
 
 <img align="right" src="../_common/PlaceholderImage.png">
 
-.....
+Need to power a USB device off an ATX power supply? Maybe a screen for that cool briefcase computer you're working on? Well this board is for you.
 
 <img width="50%" src="./board-design.png">
 

@@ -78,7 +78,7 @@ def checkUpverterExports(targetDirs):
                 if name not in files:
                     problemFile = pathRelToRepo(os.path.join(projDir, 'Upverter exports', name))
                     print('*', 'Not found:', problemFile)
-            #upverterExportsCheck('3d model.stl')
+            #upverterExportsCheck('3d model.stp')
             upverterExportsCheck('Gerbers')
             upverterExportsCheck('Schematic.asc')
             upverterExportsCheck('Schematic.pdf')

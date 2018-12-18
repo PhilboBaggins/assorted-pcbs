@@ -491,14 +491,15 @@
         }, 
         {
             "attributes": {
-                "_name": "VCC", 
+                "_name": "Output", 
+                "_pin_0_0_direction_9": "left", 
                 "_pin_0_resolve": "local", 
-                "refdes": "?3"
+                "refdes": "?6"
             }, 
             "footprint_attributes": [], 
             "footprint_index": 0, 
             "gen_obj_attributes": [], 
-            "instance_id": "b3db74643d1795bc", 
+            "instance_id": "9f978de306e98e91", 
             "library_id": "0000000000000001", 
             "symbol_attributes": [
                 {
@@ -506,33 +507,33 @@
                         {
                             "flip": false, 
                             "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
+                                "align": "right", 
+                                "baseline": "middle", 
                                 "flip": false, 
                                 "font_family": "sans-serif", 
                                 "font_size": 10, 
                                 "rotation": 0.0, 
                                 "styles": {}, 
-                                "text": "VCC", 
+                                "text": "Output", 
                                 "type": "label", 
                                 "x": 0, 
                                 "y": 0
                             }, 
                             "rotation": 0.0, 
-                            "value": "VCC", 
+                            "value": "Output", 
                             "visible": "true", 
-                            "x": 0, 
-                            "y": 10
+                            "x": -5, 
+                            "y": 0
                         }
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
-                    "rotation": 0.0, 
-                    "x": -220, 
-                    "y": 120
+                    "rotation": 1.0, 
+                    "x": -30, 
+                    "y": 60
                 }
             ], 
-            "symbol_index": 0
+            "symbol_index": 9
         }, 
         {
             "attributes": {
@@ -1367,16 +1368,16 @@
                                 "font_size": 10, 
                                 "rotation": 0.0, 
                                 "styles": {}, 
-                                "text": "10K", 
+                                "text": "R1", 
                                 "type": "label", 
                                 "x": 0, 
                                 "y": 0
                             }, 
                             "rotation": 0.5, 
-                            "value": "10K", 
+                            "value": "R1", 
                             "visible": "true", 
-                            "x": 39, 
-                            "y": 18
+                            "x": 23, 
+                            "y": 19
                         }, 
                         {
                             "flip": false, 
@@ -1388,16 +1389,16 @@
                                 "font_size": 10, 
                                 "rotation": 0.0, 
                                 "styles": {}, 
-                                "text": "R1", 
+                                "text": "10K", 
                                 "type": "label", 
                                 "x": 0, 
                                 "y": 0
                             }, 
                             "rotation": 0.5, 
-                            "value": "R1", 
+                            "value": "10K", 
                             "visible": "true", 
-                            "x": 23, 
-                            "y": 19
+                            "x": 39, 
+                            "y": 18
                         }
                     ], 
                     "flip": "false", 
@@ -1626,8 +1627,8 @@
                             "rotation": 0.0, 
                             "value": "J1", 
                             "visible": "true", 
-                            "x": -20, 
-                            "y": 30
+                            "x": -10, 
+                            "y": -30
                         }
                     ], 
                     "flip": "true", 
@@ -1641,15 +1642,14 @@
         }, 
         {
             "attributes": {
-                "_name": "Output", 
-                "_pin_0_0_direction_9": "left", 
+                "_name": "VCC", 
                 "_pin_0_resolve": "local", 
-                "refdes": "?6"
+                "refdes": "?3"
             }, 
             "footprint_attributes": [], 
             "footprint_index": 0, 
             "gen_obj_attributes": [], 
-            "instance_id": "9f978de306e98e91", 
+            "instance_id": "b3db74643d1795bc", 
             "library_id": "0000000000000001", 
             "symbol_attributes": [
                 {
@@ -1657,33 +1657,33 @@
                         {
                             "flip": false, 
                             "label": {
-                                "align": "right", 
-                                "baseline": "middle", 
+                                "align": "left", 
+                                "baseline": "alphabetic", 
                                 "flip": false, 
                                 "font_family": "sans-serif", 
                                 "font_size": 10, 
                                 "rotation": 0.0, 
                                 "styles": {}, 
-                                "text": "Output", 
+                                "text": "VCC", 
                                 "type": "label", 
                                 "x": 0, 
                                 "y": 0
                             }, 
                             "rotation": 0.0, 
-                            "value": "Output", 
+                            "value": "VCC", 
                             "visible": "true", 
-                            "x": -5, 
-                            "y": 0
+                            "x": 0, 
+                            "y": 10
                         }
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
-                    "rotation": 1.0, 
-                    "x": -30, 
-                    "y": 60
+                    "rotation": 0.0, 
+                    "x": -220, 
+                    "y": 120
                 }
             ], 
-            "symbol_index": 9
+            "symbol_index": 0
         }, 
         {
             "attributes": {
@@ -8752,7 +8752,7 @@
             "name": "555 astable", 
             "owner": "Trebuchetindustries", 
             "slug": "555-astable", 
-            "updated_timestamp": 1545147503
+            "updated_timestamp": 1545150268
         }
     }, 
     "layer_options": [
@@ -9089,6 +9089,79 @@
                     "point_id": "ad7619f95ff16d9b", 
                     "x": -260, 
                     "y": -80
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {}, 
+            "net_id": "57c60f5fc165e6fc", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 1, 
+                            "body_index": 0, 
+                            "instance_id": "8c2b338affb525d5", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "e604976fa0e0eabb"
+                    ], 
+                    "point_id": "9496bdf4b3c1ed99", 
+                    "x": -510, 
+                    "y": 40
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "d7a4b54abdab6e5c", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "e604976fa0e0eabb"
+                    ], 
+                    "point_id": "d01abcc9b0719cf6", 
+                    "x": -430, 
+                    "y": 30
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "9496bdf4b3c1ed99", 
+                        "d01abcc9b0719cf6", 
+                        "f54e990d62357d28"
+                    ], 
+                    "point_id": "e604976fa0e0eabb", 
+                    "x": -430, 
+                    "y": 40
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "cd2e821872aa82b2", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "e604976fa0e0eabb"
+                    ], 
+                    "point_id": "f54e990d62357d28", 
+                    "x": -380, 
+                    "y": 40
                 }
             ], 
             "signals": [
@@ -9805,79 +9878,6 @@
             "signals": [
                 ""
             ]
-        }, 
-        {
-            "annotations": [], 
-            "attributes": {}, 
-            "net_id": "57c60f5fc165e6fc", 
-            "net_type": "nets", 
-            "points": [
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 1, 
-                            "body_index": 0, 
-                            "instance_id": "8c2b338affb525d5", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "e604976fa0e0eabb"
-                    ], 
-                    "point_id": "9496bdf4b3c1ed99", 
-                    "x": -510, 
-                    "y": 40
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 0, 
-                            "body_index": 0, 
-                            "instance_id": "d7a4b54abdab6e5c", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "e604976fa0e0eabb"
-                    ], 
-                    "point_id": "d01abcc9b0719cf6", 
-                    "x": -430, 
-                    "y": 30
-                }, 
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "9496bdf4b3c1ed99", 
-                        "d01abcc9b0719cf6", 
-                        "f54e990d62357d28"
-                    ], 
-                    "point_id": "e604976fa0e0eabb", 
-                    "x": -430, 
-                    "y": 40
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 0, 
-                            "body_index": 0, 
-                            "instance_id": "cd2e821872aa82b2", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "e604976fa0e0eabb"
-                    ], 
-                    "point_id": "f54e990d62357d28", 
-                    "x": -380, 
-                    "y": 40
-                }
-            ], 
-            "signals": [
-                ""
-            ]
         }
     ], 
     "paths": [
@@ -9913,28 +9913,6 @@
         }
     ], 
     "pcb_text": [
-        {
-            "flip": false, 
-            "label": {
-                "align": "left", 
-                "baseline": "alphabetic", 
-                "flip": false, 
-                "font_family": "sans-serif", 
-                "font_size": 1000000, 
-                "rotation": 0.0, 
-                "styles": {}, 
-                "text": "300R", 
-                "type": "label", 
-                "x": 0, 
-                "y": 0
-            }, 
-            "layer": "top silkscreen", 
-            "rotation": 0.0, 
-            "value": "300R", 
-            "visible": "true", 
-            "x": 4600000, 
-            "y": 625000
-        }, 
         {
             "flip": false, 
             "label": {
@@ -9986,20 +9964,108 @@
                 "baseline": "alphabetic", 
                 "flip": false, 
                 "font_family": "sans-serif", 
-                "font_size": 1000000, 
+                "font_size": 1270000, 
                 "rotation": 0.0, 
                 "styles": {}, 
-                "text": "Version 1.0.0", 
+                "text": "VCC", 
                 "type": "label", 
                 "x": 0, 
                 "y": 0
             }, 
             "layer": "bottom silkscreen", 
             "rotation": 0.0, 
-            "value": "Version 1.0.0", 
+            "value": "VCC", 
+            "visible": "true", 
+            "x": 6750000, 
+            "y": 8550000
+        }, 
+        {
+            "flip": true, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1270000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "Output", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "bottom silkscreen", 
+            "rotation": 0.0, 
+            "value": "Output", 
+            "visible": "true", 
+            "x": 7900000, 
+            "y": 6100000
+        }, 
+        {
+            "flip": true, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1000000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "Version 1.0.1", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "bottom silkscreen", 
+            "rotation": 0.0, 
+            "value": "Version 1.0.1", 
             "visible": "true", 
             "x": 22750000, 
             "y": 5700000
+        }, 
+        {
+            "flip": false, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1000000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "300R", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "top silkscreen", 
+            "rotation": 0.0, 
+            "value": "300R", 
+            "visible": "true", 
+            "x": 4700000, 
+            "y": 625000
+        }, 
+        {
+            "flip": true, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1270000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "GND", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "bottom silkscreen", 
+            "rotation": 0.0, 
+            "value": "GND", 
+            "visible": "true", 
+            "x": 6800000, 
+            "y": 3500000
         }
     ], 
     "pins": [], 
@@ -14765,7 +14831,28 @@
             ]
         }
     ], 
-    "rulers": [], 
+    "rulers": [
+        {
+            "end_point": {
+                "x": -2500000, 
+                "y": 0
+            }, 
+            "start_point": {
+                "x": -2500000, 
+                "y": 13000000
+            }
+        }, 
+        {
+            "end_point": {
+                "x": 26000000, 
+                "y": -2500000
+            }, 
+            "start_point": {
+                "x": 0, 
+                "y": -2500000
+            }
+        }
+    ], 
     "shape_poses": [], 
     "shapes": [], 
     "trace_segments": [

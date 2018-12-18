@@ -1,0 +1,28 @@
+%FSLAX33Y33*%
+%MOMM*%
+%AMRect-W1650000-H1650000-RO1.000*
+21,1,1.65,1.65,0.,0.,180*%
+%ADD10C,1.6*%
+%ADD11C,1.6*%
+%ADD12C,1.65*%
+%ADD13Rect-W1650000-H1650000-RO1.000*%
+D10*
+%LNbottom solder mask_traces*%
+%LNbottom solder mask component a066cc7197085cd5*%
+G01*
+X20000Y3190D03*
+X20000Y10810D03*
+%LNbottom solder mask component befe0c62168db060*%
+D11*
+X24000Y10810D03*
+X24000Y3190D03*
+%LNbottom solder mask component 5f10c96b5cad9d4e*%
+X16000Y10810D03*
+X16000Y3190D03*
+%LNbottom solder mask component 8c2b338affb525d5*%
+D12*
+X2500Y6500D03*
+X2500Y9040D03*
+D13*
+X2500Y3960D03*
+M02*

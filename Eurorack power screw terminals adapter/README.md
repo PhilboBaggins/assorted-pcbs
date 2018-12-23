@@ -4,6 +4,8 @@
 
 .....
 
+<img width="50%" src="./board-design.png">
+
 ## TODO
 
 * Move R1 silkscreen label

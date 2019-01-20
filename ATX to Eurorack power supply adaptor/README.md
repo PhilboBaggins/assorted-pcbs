@@ -30,7 +30,13 @@ This board has two sets of connectors with overlapping footprints. You an only l
 
 ## LEDs
 
-The 3 LEDs indicate the presence of the 3 powers rails (+12V, -12V, +5V). They don't indicate that the power supply is behaving itself or that the power rail has the right voltage. LED brightness is controlled by the resistor next to each LED.
+The 3 LEDs indicate the presence of the 3 powers rails (+12V, -12V, +5V). They don't indicate that the power supply is behaving itself or that the power rail has the right voltage. LED brightness is controlled by the resistor next to each LED, recommended values:
+
+* +12 volt rail: 5k ohms
+* -12 volt rail: 5k ohms
+*  +5 volt rail: 1.5k ohms
+
+
 
 ## Design files
 

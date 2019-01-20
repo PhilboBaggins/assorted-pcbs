@@ -7,6 +7,17 @@ import sys
 from common import *
 
 
+def countNewlinesAtEndOfFile(fPath):
+    count = 0
+    data = open(fPath).read()
+    for i in range(len(data) - 1, 0, -1):
+        if data[i] == '\n':
+            count += 1
+        else:
+            break
+    return count
+
+
 def checkReadmeFiles(targetDirs):
     print()
     print('## Checking README.md files')
@@ -27,6 +38,12 @@ def checkReadmeFiles(targetDirs):
             #print('* "', pathRelToRepo(readmeFile), '" does not contains a copyright symbol', sep='')
             #print('* No copyright symbol in "', pathRelToRepo(readmeFile), '"', sep='')
             print('* No copyright symbol in', pathRelToRepo(readmeFile))
+
+        num = countNewlinesAtEndOfFile(readmeFile)
+        if num == 0:
+            print('* No newline at the end of README file in', pathRelToRepo(readmeFile))
+        elif num > 1:
+            print('* To many newline characters (', num, ') at the end of README file in ', pathRelToRepo(readmeFile), sep='')
 
 
 def checkLicenceFiles(targetDirs):

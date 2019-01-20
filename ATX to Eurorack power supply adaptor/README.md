@@ -52,7 +52,6 @@ The schematic, board layout and bill of materials can be viewed [here](https://u
 
 ## TODO
 
-* [ ] Determine what value resistors to use for LEDs
 * [ ] Consider using the PWR_OK signal
 
 ## Licence

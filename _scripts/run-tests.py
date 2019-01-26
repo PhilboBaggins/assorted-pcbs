@@ -87,7 +87,7 @@ def checkUpverterExports(targetDirs):
     for projDir in targetDirs:
         upverterExportsDir = os.path.join(projDir, 'Upverter exports')
         if os.path.isdir(upverterExportsDir):
-            files = [f for f in os.listdir(upverterExportsDir) if os.path.isfile(os.path.join(upverterExportsDir, f))]
+            files = filesInDir(upverterExportsDir)
             if len(files) == 0:
                 print('*', 'Empty "Upverter exports" directory for', pathRelToRepo(projDir), 'project')
                 continue
@@ -96,12 +96,17 @@ def checkUpverterExports(targetDirs):
                     problemFile = pathRelToRepo(os.path.join(projDir, 'Upverter exports', name))
                     print('*', 'Not found:', problemFile)
             #upverterExportsCheck('3d model.stp')
-            upverterExportsCheck('Gerbers')
             upverterExportsCheck('Schematic.asc')
             upverterExportsCheck('Schematic.pdf')
             upverterExportsCheck('Schematic.png')
             upverterExportsCheck('Schematic.svg')
             upverterExportsCheck('Upverter project.upv')
+            gerbersDir = os.path.join(upverterExportsDir, 'Gerbers')
+            if os.path.isdir(gerbersDir):
+                if len(filesInDir(gerbersDir)) != 11:
+                    print('* Gerber files don\'t look right in', gerbersDir)
+            else:
+                print('* Not found:', gerbersDir)
 
 
 def checkPcbsIoExports(targetDirs):

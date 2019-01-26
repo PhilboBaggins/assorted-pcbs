@@ -65,3 +65,7 @@ def fileContentsOrEmptyStr(*args):
 
 def pathRelToRepo(inputPath):
     return os.path.relpath(inputPath, TOP_DIR)
+
+
+def filesInDir(dirName):
+    return [f for f in os.listdir(dirName) if os.path.isfile(os.path.join(dirName, f))]

@@ -4,7 +4,7 @@
 
 Well I was already making the "[PC internal USB power](../PC%20internal%20USB%20power)" board for a friend and I thought it'd be a simple matter to fork it and make this as well ... so I did.
 
-Basically this a board breaks out the 4 pin power connector from an ATX power supply (the one that powers hard drives, not the one that provides extra power to the CPU) to 4 labeled screw terminals.
+Basically this a board breaks out the 4 pin power connector from an ATX power supply (the one that powers hard drives, not the one that provides extra power to the CPU) to 4 labelled screw terminals.
 
 <img width="50%" src="./board-design.png">
 

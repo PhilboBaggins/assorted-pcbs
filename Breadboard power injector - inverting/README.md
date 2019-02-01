@@ -2,7 +2,7 @@
 
 <img align="right" src="../_common/PlaceholderImage.png">
 
-A simple way to get power and ground connected to the vertical rails on your breadboard. This board also contains a [charge pump](https://en.wikipedia.org/wiki/Charge_pump) to invert the voltage of the supplied VCC, i.e. if you connect +5 volts and ground to the screw terminal then you'll get +5 volt on the pins labeled VCC and -5 volts on the pins labeld VEE.
+A simple way to get power and ground connected to the vertical rails on your breadboard. This board also contains a [charge pump](https://en.wikipedia.org/wiki/Charge_pump) to invert the voltage of the supplied VCC, i.e. if you connect +5 volts and ground to the screw terminal then you'll get +5 volt on the pins labelled VCC and -5 volts on the pins labelled VEE.
 
 The charge pump will not supply very much current; it's really just intended to provide a negative voltage reference for op-amps and other low power situations like that.
 

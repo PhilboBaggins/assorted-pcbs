@@ -2,7 +2,7 @@
 
 <img align="right" src="../_common/PlaceholderImage.png">
 
-.....
+A little board with a 555 timer IC and a few components around it to create an astable oscillator. The output of the oscillator is available on a header so it can be used of-board but there is also an LED so you can see it blinking. The components that control the oscillation frequency are through-hole components so they can be loaded and swapped out easily; the components you shouldn't need to change (including the 555 timer IC) are surface mount.
 
 <img width="50%" src="./board-design.png">
 

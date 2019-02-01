@@ -2,3 +2,15 @@ Thumbs.db
 .DS_Store
 *.pyc
 *.dia~
+*.bak
+
+TODO.txt
+_scripts/maintenance.sh
+
+AssortedPCBs.sublime-project
+AssortedPCBs.sublime-workspace
+
+JST adaptor.7z
+MinnowBoard Max serial port breakout.7z
+USB power board.7z
+TPS6513X breakout.tgz

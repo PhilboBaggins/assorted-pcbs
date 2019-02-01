@@ -12,6 +12,10 @@ This board was designed using the [Upverter](https://upverter.com) web service.
 
 The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/455794e1972b6737/ATX-power-supply-breakout-4-pin/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
+## TODO
+
+* [ ] Find a SATA power connector and add a foot print for it to the board as an alternative to the Molex power connector
+
 ## Licence
 
 Copyright © 2018 Phil Baldwin

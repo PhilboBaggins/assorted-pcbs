@@ -2,7 +2,7 @@
 
 <img align="right" src="../_common/PlaceholderImage.png">
 
-.....
+I found these big 7 segment displays at the office (they must have been left over from some old project) and I thought I'd turn them into something ... but first, we need an easy way to drive it; this board provides that.
 
 ## Design files
 

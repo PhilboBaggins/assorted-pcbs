@@ -12,6 +12,10 @@ TOP_DIR = os.path.realpath(os.path.join(SCRIPT_DIR, '..'))
 upverterUrlRegex = re.compile(r'https?:\/\/upverter.com\/(.*)\/')
 
 
+def realBaseName(dirPath):
+    return os.path.basename(os.path.realpath(dirPath))
+
+
 def projectDirectories():
     for item in os.listdir(TOP_DIR):
         if item in ['.git', '_scripts', '_common']:

@@ -115,7 +115,8 @@ def checkPcbsIoExports(targetDirs):
     print()
 
     noPcbIoDirs = [projDir for projDir in targetDirs
-                  if not os.path.isdir(os.path.join(projDir, 'pcbs.io'))]
+                  if not os.path.isdir(os.path.join(projDir, 'pcbs.io'))
+                  and realBaseName(projDir) != 'Disconnectable USB']
     for projDir in noPcbIoDirs:
         print('* No pcbs.io directory in', pathRelToRepo(projDir))
 

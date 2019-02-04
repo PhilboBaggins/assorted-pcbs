@@ -4,6 +4,8 @@
 
 ............................
 
+![animation](./animation/animation.gif)
+
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.

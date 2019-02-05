@@ -2,7 +2,7 @@
 
 <img align="right" src="../_common/PlaceholderImage.png">
 
-.....
+Well ... I don't really know what I was thinking with this one ...
 
 ## Design files
 

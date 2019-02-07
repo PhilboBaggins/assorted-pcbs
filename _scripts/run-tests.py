@@ -157,6 +157,8 @@ def checkBoardPhotosOrPlaceHolders(targetDirs):
 
         if boardPhotoPresent and boardPhotoInReadme:
             pass  # Good!
+        elif 'README.md' not in contents:
+            pass  # Don't complain about this, there is already a test for a missing README.md
         elif boardPhotoPresent:
             bad("Board photo exist but it isn't mentioned in the README file")
         elif boardPhotoInReadme:

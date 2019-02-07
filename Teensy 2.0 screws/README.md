@@ -14,6 +14,22 @@ This board was designed using the [Upverter](https://upverter.com) web service.
 
 The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/f769853e2825a702/Teensy-screws/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
+## TODO
+
+* [ ] Text on bottom silkscreen need to be swapped around
+    * [ ] Document how this two sided thing is supposed to work, it's a bit weird
+* [ ] Test
+* [ ] Check conductivity
+* [ ] Screw holes / cable tie holes
+    * [ ] Figure out what I intended
+    * [ ] Figure out what I want
+    * [ ] Test
+    * [ ] Change if necessary
+    * [ ] Document
+* [x] Photos
+* [ ] Describe how to mount the Teensy so that it matches the silkscreen labels on the top AND on the bottom.
+* [ ] Check screw holes ..... I think the back two are too close to the board edge
+
 ## Licence
 
 Copyright © 2016 Phil Baldwin

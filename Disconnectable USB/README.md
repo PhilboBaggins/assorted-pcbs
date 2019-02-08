@@ -10,6 +10,14 @@ Be very careful with the PCB thickness when manufacturing this board. PCB thickn
 
 
 
+## TODO
+
+* [ ] Consider alternative switches; possibly with footprint compatible with jumpers as well
+* [ ] Silkscreen labels
+* [ ] Name and version number on bottom silkscreen
+
+
+
 ## Design files
 
 This board was originally designed using the [Circuits.io](https://circuits.io) web service. That design can be viewed [here]( https://circuits.io/circuits/550192-usb-inline-headers).

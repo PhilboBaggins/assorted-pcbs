@@ -36,7 +36,7 @@ The 3 LEDs indicate the presence of the 3 powers rails (+12V, -12V, +5V). They d
 * -12 volt rail: 5k ohms
 *  +5 volt rail: 1.5k ohms
 
-
+These resistances were calculated using the [design-calcs.ipynb](./design-calcs.ipynb) Jupyter Notebook.
 
 ## Design files
 

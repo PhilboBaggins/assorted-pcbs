@@ -16,6 +16,8 @@ Same set up as above, just with oscilloscope zoomed in a little more (100 milliv
 
 ## Test setup 2
 
+![test-setup-2.jpg](./test-setup-2.jpg)
+
 PCB plugged into a breadboard with a 10 μf 50 volt electrolydic capacitor connected between the VCC and GND breadboard strips. Bench-top power supply set to 5 volts and connected to GND and VCC screw terminals on PCB via about 50cm of wire. Oscilloscope probe one connected to VCC strip on the breadboard and oscilloscope probe two connected to the VEE strip on the breadboard. Both oscilloscope probes given a ground reference by connecting them to the GND screw terminal.
 
 ![scope_2.png](./scope_2.png)

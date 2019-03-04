@@ -13,10 +13,6 @@ I made this board by cutting down [this existing design](../ATX%20to%20Eurorack%
 
 <img width="50%" src="./board-design.png">
 
-## TODO
-
-* Move R1 silkscreen label
-
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.

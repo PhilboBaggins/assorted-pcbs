@@ -19,6 +19,12 @@ This board was designed using the [Upverter](https://upverter.com) web service.
 
 The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/f0b63092cbbe587c/Eurorack-power-screw-terminals-adapter/). Exports from Upverter are [available in a subdirectory](./Upverter%20exports).
 
+## Ordering PCB
+
+[This PCB can be ordered](https://PCBs.io/share/zMkxO) from the [pcbs.io](https://pcbs.io) service.
+
+<a href="https://PCBs.io/share/zMkxO"><img src="https://s3.amazonaws.com/pcbs.io/share.png" alt="Order from PCBs.io"></img></a>
+
 ## Licence
 
 Copyright © 2018 Phil Baldwin

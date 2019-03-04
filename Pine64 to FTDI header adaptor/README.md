@@ -4,8 +4,6 @@ The [Pine64](https://www.pine64.org/?page_id=1194) and the [Sopine Baseboard](ht
 
 ![Board photo](./board-photo.jpg)
 
-
-
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.
@@ -18,8 +16,6 @@ The schematic and board layout can be viewed [here](https://upverter.com/Trebuch
 | ---------- | ---------------------------------------------- | ------------------------------------------------------ |
 | J1         | Header for mating with Pine64 EXP header       | Generic 2x5 pin female header - 0.1" pitch             |
 | J2         | Header for mating with FTDI serial port header | Generic 1x6 pin male header - 0.1" pitch - right angle |
-
-
 
 ## Licence
 

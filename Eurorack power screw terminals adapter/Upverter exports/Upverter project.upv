@@ -48,19 +48,166 @@
         }, 
         {
             "attributes": {
-                "refdes": "M2"
+                "refdes": "J1"
             }, 
             "footprint_attributes": [
                 {
                     "flip": false, 
-                    "layer": "bottom courtyard", 
+                    "layer": "top courtyard", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
                 }, 
                 {
                     "flip": false, 
-                    "layer": "top courtyard", 
+                    "layer": null, 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": null, 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": null, 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": null, 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": null, 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -71,10 +218,506 @@
                 "flip": false, 
                 "rotation": 0.0, 
                 "side": "top", 
-                "x": 40000000, 
-                "y": 5000000
+                "x": 27500000, 
+                "y": 22500000
             }, 
             "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "square", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": -1270000, 
+                    "y": 8890000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": -1270000, 
+                    "y": 6350000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": -1270000, 
+                    "y": 3810000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": -1270000, 
+                    "y": 1270000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": -1270000, 
+                    "y": -1270000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": -1270000, 
+                    "y": -3810000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": -1270000, 
+                    "y": -6350000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": -1270000, 
+                    "y": -8890000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 1270000, 
+                    "y": 8890000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 1270000, 
+                    "y": 6350000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 1270000, 
+                    "y": 3810000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 1270000, 
+                    "y": 1270000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 1270000, 
+                    "y": -1270000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 1270000, 
+                    "y": -3810000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 1270000, 
+                    "y": -6350000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "2200000", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "top copper,bottom copper", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_inner_diameter": "1850000.0", 
+                        "thermal_outer_diameter": "2200000", 
+                        "thermal_spoke_count": "4", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "hole", 
+                    "rotation": 0.0, 
+                    "x": 1270000, 
+                    "y": -8890000
+                }, 
                 {
                     "attributes": {
                         "type": "center cross", 
@@ -85,38 +728,10 @@
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "0", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "*", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "3200000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "5500000", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "top copper", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
                 }
             ], 
-            "instance_id": "6e477e811df8e32e", 
-            "library_id": "a7f949382b7a0605", 
+            "instance_id": "41c15735770252ef", 
+            "library_id": "e2cfffa461f83431", 
             "symbol_attributes": [
                 {
                     "annotations": [
@@ -126,27 +741,48 @@
                                 "align": "left", 
                                 "baseline": "alphabetic", 
                                 "flip": false, 
-                                "font_family": "sans-serif", 
+                                "font_family": "sans serif", 
                                 "font_size": 10, 
                                 "rotation": 0.0, 
                                 "styles": {}, 
-                                "text": "M2", 
+                                "text": "Eurorack power connector - 16 pin", 
                                 "type": "label", 
                                 "x": 0, 
                                 "y": 0
                             }, 
                             "rotation": 0.0, 
-                            "value": "M2", 
+                            "value": "Eurorack power connector - 16 pin", 
                             "visible": "true", 
-                            "x": -40, 
-                            "y": -20
+                            "x": -35, 
+                            "y": -180
+                        }, 
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "J1", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "J1", 
+                            "visible": "true", 
+                            "x": 30, 
+                            "y": 30
                         }
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
                     "rotation": 0.0, 
-                    "x": 410, 
-                    "y": -320
+                    "x": -840, 
+                    "y": -280
                 }
             ], 
             "symbol_index": 0
@@ -948,7 +1584,7 @@
                     "layer": "top silkscreen", 
                     "rotation": 1.0, 
                     "x": 3000000, 
-                    "y": -1675000
+                    "y": -1929000
                 }
             ], 
             "footprint_index": 1, 
@@ -1089,7 +1725,7 @@
                     "layer": "top silkscreen", 
                     "rotation": 1.0, 
                     "x": 3000000, 
-                    "y": -1675000
+                    "y": -1929000
                 }
             ], 
             "footprint_index": 1, 
@@ -1976,7 +2612,7 @@
                     "layer": "top silkscreen", 
                     "rotation": 1.0, 
                     "x": 3000000, 
-                    "y": 1825000
+                    "y": -1985000
                 }
             ], 
             "footprint_index": 1, 
@@ -2352,6 +2988,111 @@
         }, 
         {
             "attributes": {
+                "refdes": "M2"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "bottom courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 0.0, 
+                "side": "top", 
+                "x": 40000000, 
+                "y": 5000000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "10000000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "0", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "3200000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "5500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "instance_id": "6e477e811df8e32e", 
+            "library_id": "a7f949382b7a0605", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "M2", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "M2", 
+                            "visible": "true", 
+                            "x": -40, 
+                            "y": -20
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": 410, 
+                    "y": -320
+                }
+            ], 
+            "symbol_index": 0
+        }, 
+        {
+            "attributes": {
                 "refdes": "D3"
             }, 
             "footprint_attributes": [
@@ -2617,6 +3358,168 @@
                     "rotation": 0.5, 
                     "x": -690, 
                     "y": -370
+                }
+            ], 
+            "symbol_index": 0
+        }, 
+        {
+            "attributes": {
+                "refdes": "J3"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": null, 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 0.0, 
+                "side": "top", 
+                "x": 14000000, 
+                "y": 30000000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "508000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1400000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2000000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -2540000, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1400000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2000000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 2540000, 
+                    "y": 0
+                }
+            ], 
+            "instance_id": "a6d66b3445016952", 
+            "library_id": "831a1508be9e86f5", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "J3", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "J3", 
+                            "visible": "true", 
+                            "x": 31, 
+                            "y": 9
+                        }, 
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "1217861-1", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "1217861-1", 
+                            "visible": "true", 
+                            "x": 36, 
+                            "y": -22
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": -280, 
+                    "y": -220
                 }
             ], 
             "symbol_index": 0
@@ -3171,909 +4074,6 @@
                     "rotation": 1.5, 
                     "x": -300, 
                     "y": -540
-                }
-            ], 
-            "symbol_index": 0
-        }, 
-        {
-            "attributes": {
-                "refdes": "J3"
-            }, 
-            "footprint_attributes": [
-                {
-                    "flip": false, 
-                    "layer": "top package outline", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top courtyard", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": null, 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "footprint_index": 0, 
-            "footprint_pos": {
-                "flip": false, 
-                "rotation": 0.0, 
-                "side": "top", 
-                "x": 14000000, 
-                "y": 30000000
-            }, 
-            "gen_obj_attributes": [
-                {
-                    "attributes": {
-                        "type": "center cross", 
-                        "width": "508000"
-                    }, 
-                    "flip": false, 
-                    "layer": "top component", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "attributes": {
-                        "antipad_expansion": "0", 
-                        "attached_layers": "*", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1400000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2000000", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "top copper", 
-                    "rotation": 0.0, 
-                    "x": -2540000, 
-                    "y": 0
-                }, 
-                {
-                    "attributes": {
-                        "antipad_expansion": "0", 
-                        "attached_layers": "*", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1400000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2000000", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "top copper", 
-                    "rotation": 0.0, 
-                    "x": 2540000, 
-                    "y": 0
-                }
-            ], 
-            "instance_id": "a6d66b3445016952", 
-            "library_id": "831a1508be9e86f5", 
-            "symbol_attributes": [
-                {
-                    "annotations": [
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "J3", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "J3", 
-                            "visible": "true", 
-                            "x": 31, 
-                            "y": 9
-                        }, 
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "1217861-1", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "1217861-1", 
-                            "visible": "true", 
-                            "x": 36, 
-                            "y": -22
-                        }
-                    ], 
-                    "flip": "false", 
-                    "hidden": "false", 
-                    "rotation": 0.0, 
-                    "x": -280, 
-                    "y": -220
-                }
-            ], 
-            "symbol_index": 0
-        }, 
-        {
-            "attributes": {
-                "refdes": "J1"
-            }, 
-            "footprint_attributes": [
-                {
-                    "flip": false, 
-                    "layer": "top courtyard", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": null, 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": null, 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": null, 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": null, 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": null, 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "footprint_index": 0, 
-            "footprint_pos": {
-                "flip": false, 
-                "rotation": 0.0, 
-                "side": "top", 
-                "x": 27500000, 
-                "y": 22500000
-            }, 
-            "gen_obj_attributes": [
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "square", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": -1270000, 
-                    "y": 8890000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": -1270000, 
-                    "y": 6350000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": -1270000, 
-                    "y": 3810000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": -1270000, 
-                    "y": 1270000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": -1270000, 
-                    "y": -1270000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": -1270000, 
-                    "y": -3810000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": -1270000, 
-                    "y": -6350000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": -1270000, 
-                    "y": -8890000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": 1270000, 
-                    "y": 8890000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": 1270000, 
-                    "y": 6350000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": 1270000, 
-                    "y": 3810000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": 1270000, 
-                    "y": 1270000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": 1270000, 
-                    "y": -1270000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": 1270000, 
-                    "y": -3810000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": 1270000, 
-                    "y": -6350000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "2200000", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "top copper,bottom copper", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_inner_diameter": "1850000.0", 
-                        "thermal_outer_diameter": "2200000", 
-                        "thermal_spoke_count": "4", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "hole", 
-                    "rotation": 0.0, 
-                    "x": 1270000, 
-                    "y": -8890000
-                }, 
-                {
-                    "attributes": {
-                        "type": "center cross", 
-                        "width": "10000000"
-                    }, 
-                    "flip": false, 
-                    "layer": "top component", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "instance_id": "41c15735770252ef", 
-            "library_id": "e2cfffa461f83431", 
-            "symbol_attributes": [
-                {
-                    "annotations": [
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "Eurorack power connector - 16 pin", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "Eurorack power connector - 16 pin", 
-                            "visible": "true", 
-                            "x": -35, 
-                            "y": -180
-                        }, 
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "J1", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "J1", 
-                            "visible": "true", 
-                            "x": 30, 
-                            "y": 30
-                        }
-                    ], 
-                    "flip": "false", 
-                    "hidden": "false", 
-                    "rotation": 0.0, 
-                    "x": -840, 
-                    "y": -280
                 }
             ], 
             "symbol_index": 0
@@ -10609,7 +10609,7 @@
             "name": "Eurorack power screw terminals adapter", 
             "owner": "Trebuchetindustries", 
             "slug": "Eurorack-power-screw-terminals-adapter", 
-            "updated_timestamp": 1543930653
+            "updated_timestamp": 1551705600
         }
     }, 
     "layer_options": [
@@ -12569,17 +12569,17 @@
                 "font_size": 1778000, 
                 "rotation": 0.0, 
                 "styles": {}, 
-                "text": "Eurorack power screw", 
+                "text": "terminals adapter", 
                 "type": "label", 
                 "x": 0, 
                 "y": 0
             }, 
             "layer": "top silkscreen", 
             "rotation": 0.0, 
-            "value": "Eurorack power screw", 
+            "value": "terminals adapter", 
             "visible": "true", 
-            "x": 22200000, 
-            "y": 5500000
+            "x": 21946000, 
+            "y": 3468000
         }, 
         {
             "flip": false, 
@@ -12602,6 +12602,50 @@
             "visible": "true", 
             "x": 43600000, 
             "y": 19750000
+        }, 
+        {
+            "flip": false, 
+            "label": {
+                "align": "center", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1778000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "Eurorack power screw", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "top silkscreen", 
+            "rotation": 0.0, 
+            "value": "Eurorack power screw", 
+            "visible": "true", 
+            "x": 22200000, 
+            "y": 5500000
+        }, 
+        {
+            "flip": false, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 2000000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "+5V", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "top silkscreen", 
+            "rotation": 1.5, 
+            "value": "+5V", 
+            "visible": "true", 
+            "x": 43592800, 
+            "y": 12412400
         }, 
         {
             "flip": false, 
@@ -12632,64 +12676,20 @@
                 "baseline": "alphabetic", 
                 "flip": false, 
                 "font_family": "sans-serif", 
-                "font_size": 1778000, 
-                "rotation": 0.0, 
-                "styles": {}, 
-                "text": "terminals adapter", 
-                "type": "label", 
-                "x": 0, 
-                "y": 0
-            }, 
-            "layer": "top silkscreen", 
-            "rotation": 0.0, 
-            "value": "terminals adapter", 
-            "visible": "true", 
-            "x": 21946000, 
-            "y": 3468000
-        }, 
-        {
-            "flip": false, 
-            "label": {
-                "align": "center", 
-                "baseline": "alphabetic", 
-                "flip": false, 
-                "font_family": "sans-serif", 
                 "font_size": 1270000, 
                 "rotation": 0.0, 
                 "styles": {}, 
-                "text": "Version 1.0", 
+                "text": "Version 1.0.1", 
                 "type": "label", 
                 "x": 0, 
                 "y": 0
             }, 
             "layer": "top silkscreen", 
             "rotation": 0.0, 
-            "value": "Version 1.0", 
+            "value": "Version 1.0.1", 
             "visible": "true", 
             "x": 21946000, 
             "y": 1682000
-        }, 
-        {
-            "flip": false, 
-            "label": {
-                "align": "left", 
-                "baseline": "alphabetic", 
-                "flip": false, 
-                "font_family": "sans-serif", 
-                "font_size": 2000000, 
-                "rotation": 0.0, 
-                "styles": {}, 
-                "text": "+5V", 
-                "type": "label", 
-                "x": 0, 
-                "y": 0
-            }, 
-            "layer": "top silkscreen", 
-            "rotation": 1.5, 
-            "value": "+5V", 
-            "visible": "true", 
-            "x": 43592800, 
-            "y": 12412400
         }
     ], 
     "pins": [], 

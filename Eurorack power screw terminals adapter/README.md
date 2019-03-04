@@ -2,7 +2,14 @@
 
 <img align="right" src="../_common/PlaceholderImage.png">
 
-.....
+A power supply connector for Eurorack modular synthesizer connected to a block of screw terminals, so you can:
+
+* Power your Eurorack synth modules by putting power into the screw terminals OR
+* Breakout of the power supply rails from a Eurorack power supply (or power bus board) by using the screw terminals as power outputs
+
+Also, there are some LEDs to indicate when power is present.
+
+I made this board by cutting down [this existing design](../ATX%20to%20Eurorack%20power%20supply%20adaptor/).
 
 <img width="50%" src="./board-design.png">
 

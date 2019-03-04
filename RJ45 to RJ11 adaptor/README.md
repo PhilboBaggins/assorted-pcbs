@@ -14,7 +14,7 @@ The schematic, board layout and bill of materials can be viewed [here](https://u
 
 ## TODO
 
-* [ ] RJ11 was smaller than PCB allows for ..... fix part footprint and shrink PCB
+* [ ] RJ11 was smaller than PCB allows for; fix part footprint and shrink PCB
 * [ ] RJ45 had extra metal spikes coming down from the side which the PCB did not account for
 * [ ] Check used components against bill of materials
 * [ ] Bottom silkscreen text is readable but only barely ... lines overlap slightly

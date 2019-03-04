@@ -28,7 +28,7 @@ The schematic, board layout and bill of materials can be viewed [here](https://u
     * [ ] Document
 * [x] Photos
 * [ ] Describe how to mount the Teensy so that it matches the silkscreen labels on the top AND on the bottom.
-* [ ] Check screw holes ..... I think the back two are too close to the board edge
+* [ ] Check screw holes ... I think the back two are too close to the board edge
 
 ## Licence
 

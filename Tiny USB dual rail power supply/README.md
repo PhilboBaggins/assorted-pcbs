@@ -20,10 +20,6 @@ It would also be possible to isolate the output "ground" from the input/USB grou
 * Changing the GND on the output connector to common on the schematic
 * Shrinking to copper pours on the screw terminal side of the PCB so that they no longer makes contact with the copper pours on the USB side of the PCB. Note that there are copper pours on the top and bottom of the board.
 
-## Manufacturing
-
-This board contains slots (rounded rectangular holes) so it cannot be manufactured by [PCBs.io](https://pcbs.io/). [OSH Park](https://oshpark.com/) supports slots but only when they are [specified in a particular way](https://docs.oshpark.com/submitting-orders/slots/) and it seems that Upverter doesn't generate the files the way OSH Park wants, so that's out too.
-
 ## Licence
 
 Copyright © 2018, 2019 Phil Baldwin

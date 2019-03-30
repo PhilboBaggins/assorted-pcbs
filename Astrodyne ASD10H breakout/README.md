@@ -1,7 +1,5 @@
 # Astrodyne ASD10H breakout
 
-<img align="right" src="../_common/PlaceholderImage.png">
-
 A breakout board for the Astrodyne ASD10H range of isolated and regulated 10 watt open frame DC/DC converters. I made this because a had a bunch of ASD10H-12S5 modules laying around the office.
 
 ![Board photo](./board-photo.jpg)

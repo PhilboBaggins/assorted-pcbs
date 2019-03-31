@@ -114,9 +114,10 @@ def checkPcbsIoExports(targetDirs):
     print('## Checking pcbs.io export directories')
     print()
 
+    projectsToIgnore = ['Disconnectable USB', 'Breadboard barrel jack adapter']
     noPcbIoDirs = [projDir for projDir in targetDirs
                   if not os.path.isdir(os.path.join(projDir, 'pcbs.io'))
-                  and realBaseName(projDir) != 'Disconnectable USB']
+                  and realBaseName(projDir) not in projectsToIgnore]
     for projDir in noPcbIoDirs:
         print('* No pcbs.io directory in', pathRelToRepo(projDir))
 

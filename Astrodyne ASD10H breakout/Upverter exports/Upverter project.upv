@@ -2,133 +2,6 @@
     "component_instances": [
         {
             "attributes": {
-                "_nobom": "true", 
-                "refdes": "M4"
-            }, 
-            "footprint_attributes": [
-                {
-                    "flip": false, 
-                    "layer": "bottom courtyard", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top courtyard", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "footprint_index": 0, 
-            "footprint_pos": {
-                "flip": false, 
-                "rotation": 1.0, 
-                "side": "top", 
-                "x": 3810000, 
-                "y": 3810000
-            }, 
-            "gen_obj_attributes": [
-                {
-                    "attributes": {
-                        "type": "center cross", 
-                        "width": "10000000"
-                    }, 
-                    "flip": false, 
-                    "layer": "top component", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "0", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "*", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "3200000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "5500000", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "top copper", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "instance_id": "4ed973ee168ef51e", 
-            "library_id": "a7f949382b7a0605", 
-            "symbol_attributes": [
-                {
-                    "annotations": [
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "{{_name}}", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "{{_name}}", 
-                            "visible": "true", 
-                            "x": -40, 
-                            "y": 40
-                        }, 
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "M4", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "M4", 
-                            "visible": "true", 
-                            "x": -42, 
-                            "y": -20
-                        }
-                    ], 
-                    "flip": "false", 
-                    "hidden": "false", 
-                    "rotation": 0.0, 
-                    "x": -100, 
-                    "y": -150
-                }
-            ], 
-            "symbol_index": 0
-        }, 
-        {
-            "attributes": {
                 "_pin_0_0_direction_0": "right", 
                 "_pin_0_1_direction_0": "right", 
                 "_pin_0_2_direction_0": "right", 
@@ -174,9 +47,9 @@
             "footprint_index": 0, 
             "footprint_pos": {
                 "flip": false, 
-                "rotation": 0.5, 
+                "rotation": 1.5, 
                 "side": "top", 
-                "x": 12700000, 
+                "x": 12954000, 
                 "y": 12700000
             }, 
             "gen_obj_attributes": [
@@ -294,248 +167,6 @@
                             "value": "J1", 
                             "visible": "true", 
                             "x": 11, 
-                            "y": -45
-                        }, 
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "Screw terminal, 3 pin, 5 mm pitch", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "Screw terminal, 3 pin, 5 mm pitch", 
-                            "visible": "true", 
-                            "x": -83, 
-                            "y": 61
-                        }
-                    ], 
-                    "flip": "false", 
-                    "hidden": "false", 
-                    "rotation": 1.0, 
-                    "x": -410, 
-                    "y": 0
-                }
-            ], 
-            "symbol_index": 0
-        }, 
-        {
-            "attributes": {
-                "_name": "Chassis GND", 
-                "_pin_0_resolve": "local", 
-                "refdes": "?10"
-            }, 
-            "footprint_attributes": [], 
-            "footprint_index": 0, 
-            "gen_obj_attributes": [], 
-            "instance_id": "ca235647f7df2967", 
-            "library_id": "0000000000000001", 
-            "symbol_attributes": [
-                {
-                    "annotations": [
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "center", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "Chassis GND", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "Chassis GND", 
-                            "visible": "true", 
-                            "x": 10, 
-                            "y": -30
-                        }
-                    ], 
-                    "flip": "false", 
-                    "hidden": "false", 
-                    "rotation": 0.0, 
-                    "x": -170, 
-                    "y": -200
-                }
-            ], 
-            "symbol_index": 5
-        }, 
-        {
-            "attributes": {
-                "refdes": "J2"
-            }, 
-            "footprint_attributes": [
-                {
-                    "flip": false, 
-                    "layer": null, 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top package outline", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top courtyard", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "footprint_index": 0, 
-            "footprint_pos": {
-                "flip": false, 
-                "rotation": 1.5, 
-                "side": "top", 
-                "x": 75692000, 
-                "y": 12700000
-            }, 
-            "gen_obj_attributes": [
-                {
-                    "attributes": {
-                        "type": "center cross", 
-                        "width": "10000000"
-                    }, 
-                    "flip": false, 
-                    "layer": "top component", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "0", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "*", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "thermal_spoke_width": "0", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "top copper", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 100000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "0", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "*", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2049999", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "thermal_spoke_width": "0", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "top copper", 
-                    "rotation": 0.0, 
-                    "x": 5000000, 
-                    "y": 100000
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "0", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "*", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "1350000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "2500000", 
-                        "plating_length": "2049999", 
-                        "plating_radius": "1024999.5", 
-                        "plating_shape": "rectangle", 
-                        "plating_width": "2049999", 
-                        "solder_mask_expansion": "0", 
-                        "thermal_spoke_width": "0", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "top copper", 
-                    "rotation": 0.0, 
-                    "x": -5000000, 
-                    "y": 100000
-                }
-            ], 
-            "instance_id": "0150211cd070c59b", 
-            "library_id": "d18d1c1cabd13a89", 
-            "symbol_attributes": [
-                {
-                    "annotations": [
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "J2", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "J2", 
-                            "visible": "true", 
-                            "x": -19, 
                             "y": 55
                         }, 
                         {
@@ -556,396 +187,15 @@
                             "rotation": 0.0, 
                             "value": "Screw terminal, 3 pin, 5 mm pitch", 
                             "visible": "true", 
-                            "x": -71, 
+                            "x": -83, 
                             "y": -49
                         }
                     ], 
-                    "flip": "false", 
+                    "flip": "true", 
                     "hidden": "false", 
                     "rotation": 0.0, 
-                    "x": -90, 
+                    "x": -410, 
                     "y": 0
-                }
-            ], 
-            "symbol_index": 0
-        }, 
-        {
-            "attributes": {
-                "_nobom": "true", 
-                "refdes": "M1"
-            }, 
-            "footprint_attributes": [
-                {
-                    "flip": false, 
-                    "layer": "bottom courtyard", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top courtyard", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "footprint_index": 0, 
-            "footprint_pos": {
-                "flip": false, 
-                "rotation": 1.0, 
-                "side": "top", 
-                "x": 85090000, 
-                "y": 21590000
-            }, 
-            "gen_obj_attributes": [
-                {
-                    "attributes": {
-                        "type": "center cross", 
-                        "width": "10000000"
-                    }, 
-                    "flip": false, 
-                    "layer": "top component", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "0", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "*", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "3200000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "5500000", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "top copper", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "instance_id": "a88b08866a0f6951", 
-            "library_id": "a7f949382b7a0605", 
-            "symbol_attributes": [
-                {
-                    "annotations": [
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "{{_name}}", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "{{_name}}", 
-                            "visible": "true", 
-                            "x": -40, 
-                            "y": 40
-                        }, 
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "M1", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "M1", 
-                            "visible": "true", 
-                            "x": -40, 
-                            "y": -20
-                        }
-                    ], 
-                    "flip": "false", 
-                    "hidden": "false", 
-                    "rotation": 0.0, 
-                    "x": -400, 
-                    "y": -150
-                }
-            ], 
-            "symbol_index": 0
-        }, 
-        {
-            "attributes": {
-                "_nobom": "true", 
-                "refdes": "M2"
-            }, 
-            "footprint_attributes": [
-                {
-                    "flip": false, 
-                    "layer": "bottom courtyard", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top courtyard", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "footprint_index": 0, 
-            "footprint_pos": {
-                "flip": false, 
-                "rotation": 1.0, 
-                "side": "top", 
-                "x": 85090000, 
-                "y": 3810000
-            }, 
-            "gen_obj_attributes": [
-                {
-                    "attributes": {
-                        "type": "center cross", 
-                        "width": "10000000"
-                    }, 
-                    "flip": false, 
-                    "layer": "top component", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "0", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "*", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "3200000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "5500000", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "top copper", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "instance_id": "b250d4b8687d3700", 
-            "library_id": "a7f949382b7a0605", 
-            "symbol_attributes": [
-                {
-                    "annotations": [
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "M2", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "M2", 
-                            "visible": "true", 
-                            "x": -40, 
-                            "y": -20
-                        }, 
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "{{_name}}", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "{{_name}}", 
-                            "visible": "true", 
-                            "x": -40, 
-                            "y": 40
-                        }
-                    ], 
-                    "flip": "false", 
-                    "hidden": "false", 
-                    "rotation": 0.0, 
-                    "x": -300, 
-                    "y": -150
-                }
-            ], 
-            "symbol_index": 0
-        }, 
-        {
-            "attributes": {
-                "_nobom": "true", 
-                "refdes": "M3"
-            }, 
-            "footprint_attributes": [
-                {
-                    "flip": false, 
-                    "layer": "bottom courtyard", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top courtyard", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "footprint_index": 0, 
-            "footprint_pos": {
-                "flip": false, 
-                "rotation": 1.0, 
-                "side": "top", 
-                "x": 3810000, 
-                "y": 21590000
-            }, 
-            "gen_obj_attributes": [
-                {
-                    "attributes": {
-                        "type": "center cross", 
-                        "width": "10000000"
-                    }, 
-                    "flip": false, 
-                    "layer": "top component", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "attributes": {
-                        "antipad_diameter": "0", 
-                        "antipad_expansion": "0", 
-                        "attached_layers": "*", 
-                        "attached_net": "", 
-                        "hole_length": "0", 
-                        "hole_shape": "circle", 
-                        "hole_width": "0", 
-                        "internal_diameter": "3200000", 
-                        "non_plated": "0", 
-                        "plating_diameter": "5500000", 
-                        "plating_length": "0", 
-                        "plating_radius": "0", 
-                        "plating_shape": "circle", 
-                        "plating_width": "0", 
-                        "solder_mask_expansion": "0", 
-                        "tenting_bottom": "0", 
-                        "tenting_top": "0", 
-                        "thermal_spoke_width": "-1", 
-                        "type": "plated through hole"
-                    }, 
-                    "flip": false, 
-                    "layer": "top copper", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "instance_id": "451a96529c5ac4a0", 
-            "library_id": "a7f949382b7a0605", 
-            "symbol_attributes": [
-                {
-                    "annotations": [
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "M3", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "M3", 
-                            "visible": "true", 
-                            "x": -40, 
-                            "y": -20
-                        }, 
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "{{_name}}", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "{{_name}}", 
-                            "visible": "true", 
-                            "x": -40, 
-                            "y": 40
-                        }
-                    ], 
-                    "flip": "false", 
-                    "hidden": "false", 
-                    "rotation": 0.0, 
-                    "x": -200, 
-                    "y": -150
                 }
             ], 
             "symbol_index": 0
@@ -990,96 +240,6 @@
                     "hidden": "false", 
                     "rotation": 0.0, 
                     "x": -260, 
-                    "y": -200
-                }
-            ], 
-            "symbol_index": 5
-        }, 
-        {
-            "attributes": {
-                "_name": "Chassis GND", 
-                "_pin_0_resolve": "local", 
-                "refdes": "?8"
-            }, 
-            "footprint_attributes": [], 
-            "footprint_index": 0, 
-            "gen_obj_attributes": [], 
-            "instance_id": "69ff753496fa766e", 
-            "library_id": "0000000000000001", 
-            "symbol_attributes": [
-                {
-                    "annotations": [
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "center", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "Chassis GND", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "Chassis GND", 
-                            "visible": "true", 
-                            "x": 10, 
-                            "y": -30
-                        }
-                    ], 
-                    "flip": "false", 
-                    "hidden": "false", 
-                    "rotation": 0.0, 
-                    "x": -360, 
-                    "y": -200
-                }
-            ], 
-            "symbol_index": 5
-        }, 
-        {
-            "attributes": {
-                "_name": "Chassis GND", 
-                "_pin_0_resolve": "local", 
-                "refdes": "?11"
-            }, 
-            "footprint_attributes": [], 
-            "footprint_index": 0, 
-            "gen_obj_attributes": [], 
-            "instance_id": "c82869f059c456d3", 
-            "library_id": "0000000000000001", 
-            "symbol_attributes": [
-                {
-                    "annotations": [
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "center", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "Chassis GND", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 0.0, 
-                            "value": "Chassis GND", 
-                            "visible": "true", 
-                            "x": 10, 
-                            "y": -30
-                        }
-                    ], 
-                    "flip": "false", 
-                    "hidden": "false", 
-                    "rotation": 0.0, 
-                    "x": -70, 
                     "y": -200
                 }
             ], 
@@ -1376,6 +536,849 @@
                     "rotation": 0.0, 
                     "x": -320, 
                     "y": 20
+                }
+            ], 
+            "symbol_index": 0
+        }, 
+        {
+            "attributes": {
+                "_pin_0_0_direction_0": "left", 
+                "_pin_0_1_direction_0": "left", 
+                "_pin_0_2_direction_0": "left", 
+                "refdes": "J2"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": null, 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 0.5, 
+                "side": "top", 
+                "x": 75438000, 
+                "y": 12700000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "10000000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "0", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 100000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "0", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2049999", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 5000000, 
+                    "y": 100000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "0", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "1350000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "2500000", 
+                        "plating_length": "2049999", 
+                        "plating_radius": "1024999.5", 
+                        "plating_shape": "rectangle", 
+                        "plating_width": "2049999", 
+                        "solder_mask_expansion": "0", 
+                        "thermal_spoke_width": "0", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": -5000000, 
+                    "y": 100000
+                }
+            ], 
+            "instance_id": "0150211cd070c59b", 
+            "library_id": "d18d1c1cabd13a89", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "J2", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "J2", 
+                            "visible": "true", 
+                            "x": -19, 
+                            "y": -45
+                        }, 
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "Screw terminal, 3 pin, 5 mm pitch", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "Screw terminal, 3 pin, 5 mm pitch", 
+                            "visible": "true", 
+                            "x": -71, 
+                            "y": 61
+                        }
+                    ], 
+                    "flip": "true", 
+                    "hidden": "false", 
+                    "rotation": 1.0, 
+                    "x": -90, 
+                    "y": 0
+                }
+            ], 
+            "symbol_index": 0
+        }, 
+        {
+            "attributes": {
+                "_nobom": "true", 
+                "refdes": "M1"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "bottom courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 1.0, 
+                "side": "top", 
+                "x": 85090000, 
+                "y": 21590000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "10000000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "0", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "3200000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "5500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "instance_id": "a88b08866a0f6951", 
+            "library_id": "a7f949382b7a0605", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "{{_name}}", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "{{_name}}", 
+                            "visible": "true", 
+                            "x": -40, 
+                            "y": 40
+                        }, 
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "M1", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "M1", 
+                            "visible": "true", 
+                            "x": -40, 
+                            "y": -20
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": -400, 
+                    "y": -150
+                }
+            ], 
+            "symbol_index": 0
+        }, 
+        {
+            "attributes": {
+                "_name": "Chassis GND", 
+                "_pin_0_resolve": "local", 
+                "refdes": "?8"
+            }, 
+            "footprint_attributes": [], 
+            "footprint_index": 0, 
+            "gen_obj_attributes": [], 
+            "instance_id": "69ff753496fa766e", 
+            "library_id": "0000000000000001", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "center", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "Chassis GND", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "Chassis GND", 
+                            "visible": "true", 
+                            "x": 10, 
+                            "y": -30
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": -360, 
+                    "y": -200
+                }
+            ], 
+            "symbol_index": 5
+        }, 
+        {
+            "attributes": {
+                "_nobom": "true", 
+                "refdes": "M3"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "bottom courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 1.0, 
+                "side": "top", 
+                "x": 3810000, 
+                "y": 21590000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "10000000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "0", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "3200000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "5500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "instance_id": "451a96529c5ac4a0", 
+            "library_id": "a7f949382b7a0605", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "M3", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "M3", 
+                            "visible": "true", 
+                            "x": -40, 
+                            "y": -20
+                        }, 
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "{{_name}}", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "{{_name}}", 
+                            "visible": "true", 
+                            "x": -40, 
+                            "y": 40
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": -200, 
+                    "y": -150
+                }
+            ], 
+            "symbol_index": 0
+        }, 
+        {
+            "attributes": {
+                "_name": "Chassis GND", 
+                "_pin_0_resolve": "local", 
+                "refdes": "?10"
+            }, 
+            "footprint_attributes": [], 
+            "footprint_index": 0, 
+            "gen_obj_attributes": [], 
+            "instance_id": "ca235647f7df2967", 
+            "library_id": "0000000000000001", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "center", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "Chassis GND", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "Chassis GND", 
+                            "visible": "true", 
+                            "x": 10, 
+                            "y": -30
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": -170, 
+                    "y": -200
+                }
+            ], 
+            "symbol_index": 5
+        }, 
+        {
+            "attributes": {
+                "_nobom": "true", 
+                "refdes": "M2"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "bottom courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 1.0, 
+                "side": "top", 
+                "x": 85090000, 
+                "y": 3810000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "10000000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "0", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "3200000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "5500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "instance_id": "b250d4b8687d3700", 
+            "library_id": "a7f949382b7a0605", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "M2", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "M2", 
+                            "visible": "true", 
+                            "x": -40, 
+                            "y": -20
+                        }, 
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "{{_name}}", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "{{_name}}", 
+                            "visible": "true", 
+                            "x": -40, 
+                            "y": 40
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": -300, 
+                    "y": -150
+                }
+            ], 
+            "symbol_index": 0
+        }, 
+        {
+            "attributes": {
+                "_name": "Chassis GND", 
+                "_pin_0_resolve": "local", 
+                "refdes": "?11"
+            }, 
+            "footprint_attributes": [], 
+            "footprint_index": 0, 
+            "gen_obj_attributes": [], 
+            "instance_id": "c82869f059c456d3", 
+            "library_id": "0000000000000001", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "center", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "Chassis GND", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "Chassis GND", 
+                            "visible": "true", 
+                            "x": 10, 
+                            "y": -30
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": -70, 
+                    "y": -200
+                }
+            ], 
+            "symbol_index": 5
+        }, 
+        {
+            "attributes": {
+                "_nobom": "true", 
+                "refdes": "M4"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "bottom courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "rotation": 1.0, 
+                "side": "top", 
+                "x": 3810000, 
+                "y": 3810000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "10000000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_diameter": "0", 
+                        "antipad_expansion": "0", 
+                        "attached_layers": "*", 
+                        "attached_net": "", 
+                        "hole_length": "0", 
+                        "hole_shape": "circle", 
+                        "hole_width": "0", 
+                        "internal_diameter": "3200000", 
+                        "non_plated": "0", 
+                        "plating_diameter": "5500000", 
+                        "plating_length": "0", 
+                        "plating_radius": "0", 
+                        "plating_shape": "circle", 
+                        "plating_width": "0", 
+                        "solder_mask_expansion": "0", 
+                        "tenting_bottom": "0", 
+                        "tenting_top": "0", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "instance_id": "4ed973ee168ef51e", 
+            "library_id": "a7f949382b7a0605", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "{{_name}}", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "{{_name}}", 
+                            "visible": "true", 
+                            "x": -40, 
+                            "y": 40
+                        }, 
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "M4", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "rotation": 0.0, 
+                            "value": "M4", 
+                            "visible": "true", 
+                            "x": -42, 
+                            "y": -20
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "rotation": 0.0, 
+                    "x": -100, 
+                    "y": -150
                 }
             ], 
             "symbol_index": 0
@@ -4047,10 +4050,10 @@
             "description": "Breakout board for the Astrodyne ASD10H power supply module", 
             "design_id": "7a9232088d0491e3", 
             "license": "cc-by-sa4", 
-            "name": "ASD10H breakout", 
+            "name": "Astrodyne ASD10H breakout", 
             "owner": "Trebuchetindustries", 
-            "slug": "ASD10H-breakout", 
-            "updated_timestamp": 1551523821
+            "slug": "Astrodyne-ASD10H-breakout", 
+            "updated_timestamp": 1554029971
         }
     }, 
     "layer_options": [
@@ -10514,6 +10517,73 @@
         }, 
         {
             "annotations": [], 
+            "attributes": {
+                "name": "-Output"
+            }, 
+            "net_id": "e6bcc5f1ac92e87b", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "66e4c285225ae1ef", 
+                        "6b701f56c491b917"
+                    ], 
+                    "point_id": "34cc3e01fe574878", 
+                    "x": -160, 
+                    "y": -10
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "34cc3e01fe574878", 
+                        "dfe42623b40ef8fb"
+                    ], 
+                    "point_id": "66e4c285225ae1ef", 
+                    "x": -160, 
+                    "y": -20
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 5, 
+                            "body_index": 0, 
+                            "instance_id": "c304839c2677ef3f", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "34cc3e01fe574878"
+                    ], 
+                    "point_id": "6b701f56c491b917", 
+                    "x": -190, 
+                    "y": -10
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "0150211cd070c59b", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "66e4c285225ae1ef"
+                    ], 
+                    "point_id": "dfe42623b40ef8fb", 
+                    "x": -120, 
+                    "y": -20
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
             "attributes": {}, 
             "net_id": "1745efbcfa5c8a59", 
             "net_type": "nets", 
@@ -10570,11 +10640,21 @@
         {
             "annotations": [], 
             "attributes": {
-                "name": "-Output"
+                "name": "+Output"
             }, 
-            "net_id": "bea20aef9a91503d", 
+            "net_id": "97fa79d799868987", 
             "net_type": "nets", 
             "points": [
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "e53d3b75beea3544", 
+                        "ffcbbb055e24f6f5"
+                    ], 
+                    "point_id": "2d541939561e30c5", 
+                    "x": -160, 
+                    "y": 10
+                }, 
                 {
                     "connected_action_regions": [
                         {
@@ -10586,26 +10666,16 @@
                         }
                     ], 
                     "connected_points": [
-                        "be80a78483bd12e9"
+                        "ffcbbb055e24f6f5"
                     ], 
-                    "point_id": "2f6188d9a9208691", 
+                    "point_id": "a058e09e2f567af3", 
                     "x": -120, 
-                    "y": -20
-                }, 
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "6b701f56c491b917", 
-                        "be80a78483bd12e9"
-                    ], 
-                    "point_id": "44333ae4749d7d52", 
-                    "x": -160, 
-                    "y": -10
+                    "y": 20
                 }, 
                 {
                     "connected_action_regions": [
                         {
-                            "action_region_index": 5, 
+                            "action_region_index": 3, 
                             "body_index": 0, 
                             "instance_id": "c304839c2677ef3f", 
                             "order": 0, 
@@ -10613,21 +10683,88 @@
                         }
                     ], 
                     "connected_points": [
-                        "44333ae4749d7d52"
+                        "2d541939561e30c5"
                     ], 
-                    "point_id": "6b701f56c491b917", 
+                    "point_id": "e53d3b75beea3544", 
                     "x": -190, 
-                    "y": -10
+                    "y": 10
                 }, 
                 {
                     "connected_action_regions": [], 
                     "connected_points": [
-                        "2f6188d9a9208691", 
-                        "44333ae4749d7d52"
+                        "2d541939561e30c5", 
+                        "a058e09e2f567af3"
                     ], 
-                    "point_id": "be80a78483bd12e9", 
+                    "point_id": "ffcbbb055e24f6f5", 
                     "x": -160, 
-                    "y": -20
+                    "y": 20
+                }
+            ], 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {
+                "name": "+Input"
+            }, 
+            "net_id": "eb4194c248d24aee", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "620d4e2116b3b8fd", 
+                        "7d566c2211d54d7a"
+                    ], 
+                    "point_id": "22f218200a76adc7", 
+                    "x": -340, 
+                    "y": 20
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "22f218200a76adc7", 
+                        "d6e8aee145c212ae"
+                    ], 
+                    "point_id": "620d4e2116b3b8fd", 
+                    "x": -340, 
+                    "y": 10
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "d471e9cb206998b3", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "22f218200a76adc7"
+                    ], 
+                    "point_id": "7d566c2211d54d7a", 
+                    "x": -380, 
+                    "y": 20
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "c304839c2677ef3f", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "620d4e2116b3b8fd"
+                    ], 
+                    "point_id": "d6e8aee145c212ae", 
+                    "x": -300, 
+                    "y": 10
                 }
             ], 
             "signals": [
@@ -10639,7 +10776,7 @@
             "attributes": {
                 "name": "Control"
             }, 
-            "net_id": "c361d5abe7aa7581", 
+            "net_id": "ab31dde6197200da", 
             "net_type": "nets", 
             "points": [
                 {
@@ -10656,7 +10793,7 @@
                     "connected_action_regions": [], 
                     "connected_points": [
                         "2152faed65eb1c86", 
-                        "ea34286fda59e2c3"
+                        "8264202224819798"
                     ], 
                     "point_id": "714c1df9c9b4d423", 
                     "x": -340, 
@@ -10682,7 +10819,7 @@
                 {
                     "connected_action_regions": [
                         {
-                            "action_region_index": 0, 
+                            "action_region_index": 2, 
                             "body_index": 0, 
                             "instance_id": "d471e9cb206998b3", 
                             "order": 0, 
@@ -10692,7 +10829,7 @@
                     "connected_points": [
                         "714c1df9c9b4d423"
                     ], 
-                    "point_id": "ea34286fda59e2c3", 
+                    "point_id": "8264202224819798", 
                     "x": -380, 
                     "y": -20
                 }
@@ -10750,140 +10887,6 @@
                     "point_id": "d3a0c3f37466ee34", 
                     "x": -80, 
                     "y": -150
-                }
-            ], 
-            "signals": [
-                ""
-            ]
-        }, 
-        {
-            "annotations": [], 
-            "attributes": {
-                "name": "+Output"
-            }, 
-            "net_id": "8c474de44e036c8f", 
-            "net_type": "nets", 
-            "points": [
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "1c35245e81261ae5", 
-                        "e53d3b75beea3544"
-                    ], 
-                    "point_id": "0e6ac9a98496c92a", 
-                    "x": -160, 
-                    "y": 10
-                }, 
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "0e6ac9a98496c92a", 
-                        "7b259b66f5598a04"
-                    ], 
-                    "point_id": "1c35245e81261ae5", 
-                    "x": -160, 
-                    "y": 20
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 0, 
-                            "body_index": 0, 
-                            "instance_id": "0150211cd070c59b", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "1c35245e81261ae5"
-                    ], 
-                    "point_id": "7b259b66f5598a04", 
-                    "x": -120, 
-                    "y": 20
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 3, 
-                            "body_index": 0, 
-                            "instance_id": "c304839c2677ef3f", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "0e6ac9a98496c92a"
-                    ], 
-                    "point_id": "e53d3b75beea3544", 
-                    "x": -190, 
-                    "y": 10
-                }
-            ], 
-            "signals": [
-                ""
-            ]
-        }, 
-        {
-            "annotations": [], 
-            "attributes": {
-                "name": "+Input"
-            }, 
-            "net_id": "7641d47c0bc0b4a5", 
-            "net_type": "nets", 
-            "points": [
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "46a9fa1d7f89a14b", 
-                        "c4f298a03bfdaa87"
-                    ], 
-                    "point_id": "22f218200a76adc7", 
-                    "x": -340, 
-                    "y": 20
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 2, 
-                            "body_index": 0, 
-                            "instance_id": "d471e9cb206998b3", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "22f218200a76adc7"
-                    ], 
-                    "point_id": "46a9fa1d7f89a14b", 
-                    "x": -380, 
-                    "y": 20
-                }, 
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "22f218200a76adc7", 
-                        "d6e8aee145c212ae"
-                    ], 
-                    "point_id": "c4f298a03bfdaa87", 
-                    "x": -340, 
-                    "y": 10
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 0, 
-                            "body_index": 0, 
-                            "instance_id": "c304839c2677ef3f", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "c4f298a03bfdaa87"
-                    ], 
-                    "point_id": "d6e8aee145c212ae", 
-                    "x": -300, 
-                    "y": 10
                 }
             ], 
             "signals": [
@@ -11190,17 +11193,39 @@
                 "font_size": 1778000, 
                 "rotation": 0.0, 
                 "styles": {}, 
-                "text": "Version 1.1.0", 
+                "text": "Version 1.2.0", 
                 "type": "label", 
                 "x": 0, 
                 "y": 0
             }, 
             "layer": "bottom silkscreen", 
             "rotation": 1.5, 
-            "value": "Version 1.1.0", 
+            "value": "Version 1.2.0", 
             "visible": "true", 
             "x": 40894000, 
             "y": 7620000
+        }, 
+        {
+            "flip": false, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1778000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "Control", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "top silkscreen", 
+            "rotation": 0.0, 
+            "value": "Control", 
+            "visible": "true", 
+            "x": 9652000, 
+            "y": 22352000
         }, 
         {
             "flip": false, 
@@ -11234,17 +11259,17 @@
                 "font_size": 1778000, 
                 "rotation": 0.0, 
                 "styles": {}, 
-                "text": "Control", 
+                "text": "Common", 
                 "type": "label", 
                 "x": 0, 
                 "y": 0
             }, 
             "layer": "top silkscreen", 
             "rotation": 0.0, 
-            "value": "Control", 
+            "value": "Common", 
             "visible": "true", 
-            "x": 9652000, 
-            "y": 22352000
+            "x": 81026000, 
+            "y": 12954000
         }, 
         {
             "flip": false, 
@@ -11289,28 +11314,6 @@
             "visible": "true", 
             "x": 44196000, 
             "y": 1270000
-        }, 
-        {
-            "flip": false, 
-            "label": {
-                "align": "left", 
-                "baseline": "alphabetic", 
-                "flip": false, 
-                "font_family": "sans-serif", 
-                "font_size": 1778000, 
-                "rotation": 0.0, 
-                "styles": {}, 
-                "text": "Common", 
-                "type": "label", 
-                "x": 0, 
-                "y": 0
-            }, 
-            "layer": "top silkscreen", 
-            "rotation": 0.0, 
-            "value": "Common", 
-            "visible": "true", 
-            "x": 81026000, 
-            "y": 12954000
         }
     ], 
     "pins": [], 
@@ -11906,179 +11909,179 @@
                             {
                                 "points": [
                                     {
-                                        "x": 11774996, 
+                                        "x": 74512996, 
                                         "y": 16470802
                                     }, 
                                     {
-                                        "x": 11743056, 
+                                        "x": 74481056, 
                                         "y": 16473315
                                     }, 
                                     {
-                                        "x": 11711897, 
+                                        "x": 74449897, 
                                         "y": 16480796
                                     }, 
                                     {
-                                        "x": 11682298, 
+                                        "x": 74420298, 
                                         "y": 16493056
                                     }, 
                                     {
-                                        "x": 11654974, 
+                                        "x": 74392974, 
                                         "y": 16509800
                                     }, 
                                     {
-                                        "x": 11630610, 
+                                        "x": 74368610, 
                                         "y": 16530610
                                     }, 
                                     {
-                                        "x": 11609800, 
+                                        "x": 74347800, 
                                         "y": 16554974
                                     }, 
                                     {
-                                        "x": 11593056, 
+                                        "x": 74331056, 
                                         "y": 16582298
                                     }, 
                                     {
-                                        "x": 11580796, 
+                                        "x": 74318796, 
                                         "y": 16611897
                                     }, 
                                     {
-                                        "x": 11573315, 
+                                        "x": 74311315, 
                                         "y": 16643056
                                     }, 
                                     {
-                                        "x": 11570802, 
+                                        "x": 74308802, 
                                         "y": 16674996
                                     }, 
                                     {
-                                        "x": 11570802, 
+                                        "x": 74308802, 
                                         "y": 18725005
                                     }, 
                                     {
-                                        "x": 11573315, 
+                                        "x": 74311315, 
                                         "y": 18756945
                                     }, 
                                     {
-                                        "x": 11580796, 
+                                        "x": 74318796, 
                                         "y": 18788104
                                     }, 
                                     {
-                                        "x": 11593056, 
+                                        "x": 74331056, 
                                         "y": 18817703
                                     }, 
                                     {
-                                        "x": 11609800, 
+                                        "x": 74347800, 
                                         "y": 18845027
                                     }, 
                                     {
-                                        "x": 11630610, 
+                                        "x": 74368610, 
                                         "y": 18869391
                                     }, 
                                     {
-                                        "x": 11654974, 
+                                        "x": 74392974, 
                                         "y": 18890201
                                     }, 
                                     {
-                                        "x": 11682298, 
+                                        "x": 74420298, 
                                         "y": 18906945
                                     }, 
                                     {
-                                        "x": 11711897, 
+                                        "x": 74449897, 
                                         "y": 18919205
                                     }, 
                                     {
-                                        "x": 11743057, 
+                                        "x": 74481057, 
                                         "y": 18926686
                                     }, 
                                     {
-                                        "x": 11775010, 
+                                        "x": 74513010, 
                                         "y": 18929201
                                     }, 
                                     {
-                                        "x": 13824991, 
+                                        "x": 76562991, 
                                         "y": 18929201
                                     }, 
                                     {
-                                        "x": 13856944, 
+                                        "x": 76594944, 
                                         "y": 18926686
                                     }, 
                                     {
-                                        "x": 13888104, 
+                                        "x": 76626104, 
                                         "y": 18919205
                                     }, 
                                     {
-                                        "x": 13917703, 
+                                        "x": 76655703, 
                                         "y": 18906945
                                     }, 
                                     {
-                                        "x": 13945027, 
+                                        "x": 76683027, 
                                         "y": 18890201
                                     }, 
                                     {
-                                        "x": 13969391, 
+                                        "x": 76707391, 
                                         "y": 18869391
                                     }, 
                                     {
-                                        "x": 13990201, 
+                                        "x": 76728201, 
                                         "y": 18845027
                                     }, 
                                     {
-                                        "x": 14006945, 
+                                        "x": 76744945, 
                                         "y": 18817703
                                     }, 
                                     {
-                                        "x": 14019205, 
+                                        "x": 76757205, 
                                         "y": 18788104
                                     }, 
                                     {
-                                        "x": 14026686, 
+                                        "x": 76764686, 
                                         "y": 18756944
                                     }, 
                                     {
-                                        "x": 14029201, 
+                                        "x": 76767201, 
                                         "y": 18724991
                                     }, 
                                     {
-                                        "x": 14029201, 
+                                        "x": 76767201, 
                                         "y": 16675010
                                     }, 
                                     {
-                                        "x": 14026686, 
+                                        "x": 76764686, 
                                         "y": 16643057
                                     }, 
                                     {
-                                        "x": 14019205, 
+                                        "x": 76757205, 
                                         "y": 16611897
                                     }, 
                                     {
-                                        "x": 14006945, 
+                                        "x": 76744945, 
                                         "y": 16582298
                                     }, 
                                     {
-                                        "x": 13990201, 
+                                        "x": 76728201, 
                                         "y": 16554974
                                     }, 
                                     {
-                                        "x": 13969391, 
+                                        "x": 76707391, 
                                         "y": 16530610
                                     }, 
                                     {
-                                        "x": 13945027, 
+                                        "x": 76683027, 
                                         "y": 16509800
                                     }, 
                                     {
-                                        "x": 13917703, 
+                                        "x": 76655703, 
                                         "y": 16493056
                                     }, 
                                     {
-                                        "x": 13888104, 
+                                        "x": 76626104, 
                                         "y": 16480796
                                     }, 
                                     {
-                                        "x": 13856945, 
+                                        "x": 76594945, 
                                         "y": 16473315
                                     }, 
                                     {
-                                        "x": 13825005, 
+                                        "x": 76563005, 
                                         "y": 16470802
                                     }
                                 ]
@@ -12086,115 +12089,115 @@
                             {
                                 "points": [
                                     {
-                                        "x": 75318477, 
+                                        "x": 12580477, 
                                         "y": 16501619
                                     }, 
                                     {
-                                        "x": 75058673, 
+                                        "x": 12320673, 
                                         "y": 16592528
                                     }, 
                                     {
-                                        "x": 74825605, 
+                                        "x": 12087605, 
                                         "y": 16738974
                                     }, 
                                     {
-                                        "x": 74630974, 
+                                        "x": 11892974, 
                                         "y": 16933605
                                     }, 
                                     {
-                                        "x": 74484528, 
+                                        "x": 11746528, 
                                         "y": 17166673
                                     }, 
                                     {
-                                        "x": 74393619, 
+                                        "x": 11655619, 
                                         "y": 17426477
                                     }, 
                                     {
-                                        "x": 74362801, 
+                                        "x": 11624801, 
                                         "y": 17700000
                                     }, 
                                     {
-                                        "x": 74393619, 
+                                        "x": 11655619, 
                                         "y": 17973522
                                     }, 
                                     {
-                                        "x": 74484528, 
+                                        "x": 11746528, 
                                         "y": 18233326
                                     }, 
                                     {
-                                        "x": 74630974, 
+                                        "x": 11892974, 
                                         "y": 18466394
                                     }, 
                                     {
-                                        "x": 74825605, 
+                                        "x": 12087605, 
                                         "y": 18661025
                                     }, 
                                     {
-                                        "x": 75058673, 
+                                        "x": 12320673, 
                                         "y": 18807471
                                     }, 
                                     {
-                                        "x": 75318477, 
+                                        "x": 12580477, 
                                         "y": 18898380
                                     }, 
                                     {
-                                        "x": 75592000, 
+                                        "x": 12854000, 
                                         "y": 18929199
                                     }, 
                                     {
-                                        "x": 75865522, 
+                                        "x": 13127522, 
                                         "y": 18898380
                                     }, 
                                     {
-                                        "x": 76125326, 
+                                        "x": 13387326, 
                                         "y": 18807471
                                     }, 
                                     {
-                                        "x": 76358394, 
+                                        "x": 13620394, 
                                         "y": 18661025
                                     }, 
                                     {
-                                        "x": 76553025, 
+                                        "x": 13815025, 
                                         "y": 18466394
                                     }, 
                                     {
-                                        "x": 76699471, 
+                                        "x": 13961471, 
                                         "y": 18233326
                                     }, 
                                     {
-                                        "x": 76790380, 
+                                        "x": 14052380, 
                                         "y": 17973522
                                     }, 
                                     {
-                                        "x": 76821199, 
+                                        "x": 14083199, 
                                         "y": 17700000
                                     }, 
                                     {
-                                        "x": 76790380, 
+                                        "x": 14052380, 
                                         "y": 17426477
                                     }, 
                                     {
-                                        "x": 76699471, 
+                                        "x": 13961471, 
                                         "y": 17166673
                                     }, 
                                     {
-                                        "x": 76553025, 
+                                        "x": 13815025, 
                                         "y": 16933605
                                     }, 
                                     {
-                                        "x": 76358394, 
+                                        "x": 13620394, 
                                         "y": 16738974
                                     }, 
                                     {
-                                        "x": 76125326, 
+                                        "x": 13387326, 
                                         "y": 16592528
                                     }, 
                                     {
-                                        "x": 75865522, 
+                                        "x": 13127522, 
                                         "y": 16501619
                                     }, 
                                     {
-                                        "x": 75592000, 
+                                        "x": 12854000, 
                                         "y": 16470801
                                     }
                                 ]
@@ -12434,115 +12437,115 @@
                             {
                                 "points": [
                                     {
-                                        "x": 75318477, 
+                                        "x": 75264477, 
                                         "y": 11501619
                                     }, 
                                     {
-                                        "x": 75058673, 
+                                        "x": 75004673, 
                                         "y": 11592528
                                     }, 
                                     {
-                                        "x": 74825605, 
+                                        "x": 74771605, 
                                         "y": 11738974
                                     }, 
                                     {
-                                        "x": 74630974, 
+                                        "x": 74576974, 
                                         "y": 11933605
                                     }, 
                                     {
-                                        "x": 74484528, 
+                                        "x": 74430528, 
                                         "y": 12166673
                                     }, 
                                     {
-                                        "x": 74393619, 
+                                        "x": 74339619, 
                                         "y": 12426477
                                     }, 
                                     {
-                                        "x": 74362801, 
+                                        "x": 74308801, 
                                         "y": 12700000
                                     }, 
                                     {
-                                        "x": 74393619, 
+                                        "x": 74339619, 
                                         "y": 12973522
                                     }, 
                                     {
-                                        "x": 74484528, 
+                                        "x": 74430528, 
                                         "y": 13233326
                                     }, 
                                     {
-                                        "x": 74630974, 
+                                        "x": 74576974, 
                                         "y": 13466394
                                     }, 
                                     {
-                                        "x": 74825605, 
+                                        "x": 74771605, 
                                         "y": 13661025
                                     }, 
                                     {
-                                        "x": 75058673, 
+                                        "x": 75004673, 
                                         "y": 13807471
                                     }, 
                                     {
-                                        "x": 75318477, 
+                                        "x": 75264477, 
                                         "y": 13898380
                                     }, 
                                     {
-                                        "x": 75592000, 
+                                        "x": 75538000, 
                                         "y": 13929199
                                     }, 
                                     {
-                                        "x": 75865522, 
+                                        "x": 75811522, 
                                         "y": 13898380
                                     }, 
                                     {
-                                        "x": 76125326, 
+                                        "x": 76071326, 
                                         "y": 13807471
                                     }, 
                                     {
-                                        "x": 76358394, 
+                                        "x": 76304394, 
                                         "y": 13661025
                                     }, 
                                     {
-                                        "x": 76553025, 
+                                        "x": 76499025, 
                                         "y": 13466394
                                     }, 
                                     {
-                                        "x": 76699471, 
+                                        "x": 76645471, 
                                         "y": 13233326
                                     }, 
                                     {
-                                        "x": 76790380, 
+                                        "x": 76736380, 
                                         "y": 12973522
                                     }, 
                                     {
-                                        "x": 76821199, 
+                                        "x": 76767199, 
                                         "y": 12700000
                                     }, 
                                     {
-                                        "x": 76790380, 
+                                        "x": 76736380, 
                                         "y": 12426477
                                     }, 
                                     {
-                                        "x": 76699471, 
+                                        "x": 76645471, 
                                         "y": 12166673
                                     }, 
                                     {
-                                        "x": 76553025, 
+                                        "x": 76499025, 
                                         "y": 11933605
                                     }, 
                                     {
-                                        "x": 76358394, 
+                                        "x": 76304394, 
                                         "y": 11738974
                                     }, 
                                     {
-                                        "x": 76125326, 
+                                        "x": 76071326, 
                                         "y": 11592528
                                     }, 
                                     {
-                                        "x": 75865522, 
+                                        "x": 75811522, 
                                         "y": 11501619
                                     }, 
                                     {
-                                        "x": 75592000, 
+                                        "x": 75538000, 
                                         "y": 11470801
                                     }
                                 ]
@@ -12550,115 +12553,115 @@
                             {
                                 "points": [
                                     {
-                                        "x": 12526477, 
+                                        "x": 12580477, 
                                         "y": 11501619
                                     }, 
                                     {
-                                        "x": 12266673, 
+                                        "x": 12320673, 
                                         "y": 11592528
                                     }, 
                                     {
-                                        "x": 12033605, 
+                                        "x": 12087605, 
                                         "y": 11738974
                                     }, 
                                     {
-                                        "x": 11838974, 
+                                        "x": 11892974, 
                                         "y": 11933605
                                     }, 
                                     {
-                                        "x": 11692528, 
+                                        "x": 11746528, 
                                         "y": 12166673
                                     }, 
                                     {
-                                        "x": 11601619, 
+                                        "x": 11655619, 
                                         "y": 12426477
                                     }, 
                                     {
-                                        "x": 11570801, 
+                                        "x": 11624801, 
                                         "y": 12700000
                                     }, 
                                     {
-                                        "x": 11601619, 
+                                        "x": 11655619, 
                                         "y": 12973522
                                     }, 
                                     {
-                                        "x": 11692528, 
+                                        "x": 11746528, 
                                         "y": 13233326
                                     }, 
                                     {
-                                        "x": 11838974, 
+                                        "x": 11892974, 
                                         "y": 13466394
                                     }, 
                                     {
-                                        "x": 12033605, 
+                                        "x": 12087605, 
                                         "y": 13661025
                                     }, 
                                     {
-                                        "x": 12266673, 
+                                        "x": 12320673, 
                                         "y": 13807471
                                     }, 
                                     {
-                                        "x": 12526477, 
+                                        "x": 12580477, 
                                         "y": 13898380
                                     }, 
                                     {
-                                        "x": 12800000, 
+                                        "x": 12854000, 
                                         "y": 13929199
                                     }, 
                                     {
-                                        "x": 13073522, 
+                                        "x": 13127522, 
                                         "y": 13898380
                                     }, 
                                     {
-                                        "x": 13333326, 
+                                        "x": 13387326, 
                                         "y": 13807471
                                     }, 
                                     {
-                                        "x": 13566394, 
+                                        "x": 13620394, 
                                         "y": 13661025
                                     }, 
                                     {
-                                        "x": 13761025, 
+                                        "x": 13815025, 
                                         "y": 13466394
                                     }, 
                                     {
-                                        "x": 13907471, 
+                                        "x": 13961471, 
                                         "y": 13233326
                                     }, 
                                     {
-                                        "x": 13998380, 
+                                        "x": 14052380, 
                                         "y": 12973522
                                     }, 
                                     {
-                                        "x": 14029199, 
+                                        "x": 14083199, 
                                         "y": 12700000
                                     }, 
                                     {
-                                        "x": 13998380, 
+                                        "x": 14052380, 
                                         "y": 12426477
                                     }, 
                                     {
-                                        "x": 13907471, 
+                                        "x": 13961471, 
                                         "y": 12166673
                                     }, 
                                     {
-                                        "x": 13761025, 
+                                        "x": 13815025, 
                                         "y": 11933605
                                     }, 
                                     {
-                                        "x": 13566394, 
+                                        "x": 13620394, 
                                         "y": 11738974
                                     }, 
                                     {
-                                        "x": 13333326, 
+                                        "x": 13387326, 
                                         "y": 11592528
                                     }, 
                                     {
-                                        "x": 13073522, 
+                                        "x": 13127522, 
                                         "y": 11501619
                                     }, 
                                     {
-                                        "x": 12800000, 
+                                        "x": 12854000, 
                                         "y": 11470801
                                     }
                                 ]
@@ -12782,179 +12785,179 @@
                             {
                                 "points": [
                                     {
-                                        "x": 74566996, 
+                                        "x": 11828996, 
                                         "y": 6470802
                                     }, 
                                     {
-                                        "x": 74535056, 
+                                        "x": 11797056, 
                                         "y": 6473315
                                     }, 
                                     {
-                                        "x": 74503897, 
+                                        "x": 11765897, 
                                         "y": 6480796
                                     }, 
                                     {
-                                        "x": 74474298, 
+                                        "x": 11736298, 
                                         "y": 6493056
                                     }, 
                                     {
-                                        "x": 74446974, 
+                                        "x": 11708974, 
                                         "y": 6509800
                                     }, 
                                     {
-                                        "x": 74422610, 
+                                        "x": 11684610, 
                                         "y": 6530610
                                     }, 
                                     {
-                                        "x": 74401800, 
+                                        "x": 11663800, 
                                         "y": 6554974
                                     }, 
                                     {
-                                        "x": 74385056, 
+                                        "x": 11647056, 
                                         "y": 6582298
                                     }, 
                                     {
-                                        "x": 74372796, 
+                                        "x": 11634796, 
                                         "y": 6611897
                                     }, 
                                     {
-                                        "x": 74365315, 
+                                        "x": 11627315, 
                                         "y": 6643056
                                     }, 
                                     {
-                                        "x": 74362802, 
+                                        "x": 11624802, 
                                         "y": 6674996
                                     }, 
                                     {
-                                        "x": 74362802, 
+                                        "x": 11624802, 
                                         "y": 8725005
                                     }, 
                                     {
-                                        "x": 74365315, 
+                                        "x": 11627315, 
                                         "y": 8756945
                                     }, 
                                     {
-                                        "x": 74372796, 
+                                        "x": 11634796, 
                                         "y": 8788104
                                     }, 
                                     {
-                                        "x": 74385056, 
+                                        "x": 11647056, 
                                         "y": 8817703
                                     }, 
                                     {
-                                        "x": 74401800, 
+                                        "x": 11663800, 
                                         "y": 8845027
                                     }, 
                                     {
-                                        "x": 74422610, 
+                                        "x": 11684610, 
                                         "y": 8869391
                                     }, 
                                     {
-                                        "x": 74446974, 
+                                        "x": 11708974, 
                                         "y": 8890201
                                     }, 
                                     {
-                                        "x": 74474298, 
+                                        "x": 11736298, 
                                         "y": 8906945
                                     }, 
                                     {
-                                        "x": 74503897, 
+                                        "x": 11765897, 
                                         "y": 8919205
                                     }, 
                                     {
-                                        "x": 74535057, 
+                                        "x": 11797057, 
                                         "y": 8926686
                                     }, 
                                     {
-                                        "x": 74567010, 
+                                        "x": 11829010, 
                                         "y": 8929201
                                     }, 
                                     {
-                                        "x": 76616991, 
+                                        "x": 13878991, 
                                         "y": 8929201
                                     }, 
                                     {
-                                        "x": 76648944, 
+                                        "x": 13910944, 
                                         "y": 8926686
                                     }, 
                                     {
-                                        "x": 76680104, 
+                                        "x": 13942104, 
                                         "y": 8919205
                                     }, 
                                     {
-                                        "x": 76709703, 
+                                        "x": 13971703, 
                                         "y": 8906945
                                     }, 
                                     {
-                                        "x": 76737027, 
+                                        "x": 13999027, 
                                         "y": 8890201
                                     }, 
                                     {
-                                        "x": 76761391, 
+                                        "x": 14023391, 
                                         "y": 8869391
                                     }, 
                                     {
-                                        "x": 76782201, 
+                                        "x": 14044201, 
                                         "y": 8845027
                                     }, 
                                     {
-                                        "x": 76798945, 
+                                        "x": 14060945, 
                                         "y": 8817703
                                     }, 
                                     {
-                                        "x": 76811205, 
+                                        "x": 14073205, 
                                         "y": 8788104
                                     }, 
                                     {
-                                        "x": 76818686, 
+                                        "x": 14080686, 
                                         "y": 8756944
                                     }, 
                                     {
-                                        "x": 76821201, 
+                                        "x": 14083201, 
                                         "y": 8724991
                                     }, 
                                     {
-                                        "x": 76821201, 
+                                        "x": 14083201, 
                                         "y": 6675010
                                     }, 
                                     {
-                                        "x": 76818686, 
+                                        "x": 14080686, 
                                         "y": 6643057
                                     }, 
                                     {
-                                        "x": 76811205, 
+                                        "x": 14073205, 
                                         "y": 6611897
                                     }, 
                                     {
-                                        "x": 76798945, 
+                                        "x": 14060945, 
                                         "y": 6582298
                                     }, 
                                     {
-                                        "x": 76782201, 
+                                        "x": 14044201, 
                                         "y": 6554974
                                     }, 
                                     {
-                                        "x": 76761391, 
+                                        "x": 14023391, 
                                         "y": 6530610
                                     }, 
                                     {
-                                        "x": 76737027, 
+                                        "x": 13999027, 
                                         "y": 6509800
                                     }, 
                                     {
-                                        "x": 76709703, 
+                                        "x": 13971703, 
                                         "y": 6493056
                                     }, 
                                     {
-                                        "x": 76680104, 
+                                        "x": 13942104, 
                                         "y": 6480796
                                     }, 
                                     {
-                                        "x": 76648945, 
+                                        "x": 13910945, 
                                         "y": 6473315
                                     }, 
                                     {
-                                        "x": 76617005, 
+                                        "x": 13879005, 
                                         "y": 6470802
                                     }
                                 ]
@@ -12962,115 +12965,115 @@
                             {
                                 "points": [
                                     {
-                                        "x": 12526477, 
+                                        "x": 75264477, 
                                         "y": 6501619
                                     }, 
                                     {
-                                        "x": 12266673, 
+                                        "x": 75004673, 
                                         "y": 6592528
                                     }, 
                                     {
-                                        "x": 12033605, 
+                                        "x": 74771605, 
                                         "y": 6738974
                                     }, 
                                     {
-                                        "x": 11838974, 
+                                        "x": 74576974, 
                                         "y": 6933605
                                     }, 
                                     {
-                                        "x": 11692528, 
+                                        "x": 74430528, 
                                         "y": 7166673
                                     }, 
                                     {
-                                        "x": 11601619, 
+                                        "x": 74339619, 
                                         "y": 7426477
                                     }, 
                                     {
-                                        "x": 11570801, 
+                                        "x": 74308801, 
                                         "y": 7700000
                                     }, 
                                     {
-                                        "x": 11601619, 
+                                        "x": 74339619, 
                                         "y": 7973522
                                     }, 
                                     {
-                                        "x": 11692528, 
+                                        "x": 74430528, 
                                         "y": 8233326
                                     }, 
                                     {
-                                        "x": 11838974, 
+                                        "x": 74576974, 
                                         "y": 8466394
                                     }, 
                                     {
-                                        "x": 12033605, 
+                                        "x": 74771605, 
                                         "y": 8661025
                                     }, 
                                     {
-                                        "x": 12266673, 
+                                        "x": 75004673, 
                                         "y": 8807471
                                     }, 
                                     {
-                                        "x": 12526477, 
+                                        "x": 75264477, 
                                         "y": 8898380
                                     }, 
                                     {
-                                        "x": 12800000, 
+                                        "x": 75538000, 
                                         "y": 8929199
                                     }, 
                                     {
-                                        "x": 13073522, 
+                                        "x": 75811522, 
                                         "y": 8898380
                                     }, 
                                     {
-                                        "x": 13333326, 
+                                        "x": 76071326, 
                                         "y": 8807471
                                     }, 
                                     {
-                                        "x": 13566394, 
+                                        "x": 76304394, 
                                         "y": 8661025
                                     }, 
                                     {
-                                        "x": 13761025, 
+                                        "x": 76499025, 
                                         "y": 8466394
                                     }, 
                                     {
-                                        "x": 13907471, 
+                                        "x": 76645471, 
                                         "y": 8233326
                                     }, 
                                     {
-                                        "x": 13998380, 
+                                        "x": 76736380, 
                                         "y": 7973522
                                     }, 
                                     {
-                                        "x": 14029199, 
+                                        "x": 76767199, 
                                         "y": 7700000
                                     }, 
                                     {
-                                        "x": 13998380, 
+                                        "x": 76736380, 
                                         "y": 7426477
                                     }, 
                                     {
-                                        "x": 13907471, 
+                                        "x": 76645471, 
                                         "y": 7166673
                                     }, 
                                     {
-                                        "x": 13761025, 
+                                        "x": 76499025, 
                                         "y": 6933605
                                     }, 
                                     {
-                                        "x": 13566394, 
+                                        "x": 76304394, 
                                         "y": 6738974
                                     }, 
                                     {
-                                        "x": 13333326, 
+                                        "x": 76071326, 
                                         "y": 6592528
                                     }, 
                                     {
-                                        "x": 13073522, 
+                                        "x": 75811522, 
                                         "y": 6501619
                                     }, 
                                     {
-                                        "x": 12800000, 
+                                        "x": 75538000, 
                                         "y": 6470801
                                     }
                                 ]
@@ -13512,11 +13515,11 @@
                         "outline": {
                             "points": [
                                 {
-                                    "x": 86694580, 
-                                    "y": 427569
+                                    "x": 86694578, 
+                                    "y": 427568
                                 }, 
                                 {
-                                    "x": 87020913, 
+                                    "x": 87020914, 
                                     "y": 505915
                                 }, 
                                 {
@@ -13541,15 +13544,15 @@
                                 }, 
                                 {
                                     "x": 88394085, 
-                                    "y": 1879087
+                                    "y": 1879086
                                 }, 
                                 {
-                                    "x": 88472431, 
-                                    "y": 2205420
+                                    "x": 88472432, 
+                                    "y": 2205422
                                 }, 
                                 {
                                     "x": 88493601, 
-                                    "y": 2474407
+                                    "y": 2474403
                                 }, 
                                 {
                                     "x": 88493601, 
@@ -13557,38 +13560,38 @@
                                 }, 
                                 {
                                     "x": 88472431, 
-                                    "y": 23194580
+                                    "y": 23194578
                                 }, 
                                 {
-                                    "x": 88394085, 
-                                    "y": 23520913
+                                    "x": 88394084, 
+                                    "y": 23520914
                                 }, 
                                 {
-                                    "x": 88265653, 
-                                    "y": 23830976
+                                    "x": 88265650, 
+                                    "y": 23830982
                                 }, 
                                 {
-                                    "x": 88090294, 
-                                    "y": 24117135
+                                    "x": 88090296, 
+                                    "y": 24117133
                                 }, 
                                 {
                                     "x": 87872334, 
                                     "y": 24372334
                                 }, 
                                 {
-                                    "x": 87617135, 
-                                    "y": 24590294
+                                    "x": 87617133, 
+                                    "y": 24590296
                                 }, 
                                 {
-                                    "x": 87330976, 
-                                    "y": 24765653
+                                    "x": 87330982, 
+                                    "y": 24765650
                                 }, 
                                 {
-                                    "x": 87020913, 
-                                    "y": 24894085
+                                    "x": 87020914, 
+                                    "y": 24894084
                                 }, 
                                 {
-                                    "x": 86694580, 
+                                    "x": 86694578, 
                                     "y": 24972431
                                 }, 
                                 {
@@ -13596,7 +13599,7 @@
                                     "y": 24993601
                                 }, 
                                 {
-                                    "x": 2474407, 
+                                    "x": 2474406, 
                                     "y": 24993601
                                 }, 
                                 {
@@ -13604,87 +13607,87 @@
                                     "y": 24972431
                                 }, 
                                 {
-                                    "x": 1879087, 
-                                    "y": 24894085
+                                    "x": 1879086, 
+                                    "y": 24894084
                                 }, 
                                 {
-                                    "x": 1569024, 
+                                    "x": 1569023, 
                                     "y": 24765653
                                 }, 
                                 {
-                                    "x": 1282865, 
-                                    "y": 24590294
+                                    "x": 1282862, 
+                                    "y": 24590292
                                 }, 
                                 {
-                                    "x": 1027666, 
+                                    "x": 1027665, 
                                     "y": 24372334
                                 }, 
                                 {
-                                    "x": 809706, 
-                                    "y": 24117135
+                                    "x": 809703, 
+                                    "y": 24117133
                                 }, 
                                 {
-                                    "x": 634347, 
-                                    "y": 23830976
+                                    "x": 634349, 
+                                    "y": 23830982
                                 }, 
                                 {
-                                    "x": 505915, 
-                                    "y": 23520913
+                                    "x": 505916, 
+                                    "y": 23520914
                                 }, 
                                 {
-                                    "x": 427569, 
-                                    "y": 23194580
-                                }, 
-                                {
-                                    "x": 406401, 
-                                    "y": 22925605
+                                    "x": 427568, 
+                                    "y": 23194577
                                 }, 
                                 {
                                     "x": 406401, 
-                                    "y": 2474395
+                                    "y": 22925608
                                 }, 
                                 {
-                                    "x": 427569, 
-                                    "y": 2205420
+                                    "x": 406401, 
+                                    "y": 2474391
+                                }, 
+                                {
+                                    "x": 427568, 
+                                    "y": 2205421
                                 }, 
                                 {
                                     "x": 505915, 
-                                    "y": 1879087
+                                    "y": 1879085
                                 }, 
                                 {
-                                    "x": 634347, 
-                                    "y": 1569024
+                                    "x": 634350, 
+                                    "y": 1569017
                                 }, 
                                 {
-                                    "x": 809706, 
-                                    "y": 1282865
+                                    "x": 809701, 
+                                    "y": 1282869
                                 }, 
                                 {
-                                    "x": 1027666, 
-                                    "y": 1027666
+                                    "x": 1027668, 
+                                    "y": 1027663
                                 }, 
                                 {
-                                    "x": 1282865, 
-                                    "y": 809706
+                                    "x": 1282867, 
+                                    "y": 809703
                                 }, 
                                 {
-                                    "x": 1569024, 
-                                    "y": 634347
+                                    "x": 1569018, 
+                                    "y": 634350
                                 }, 
                                 {
-                                    "x": 1879087, 
+                                    "x": 1879086, 
                                     "y": 505915
                                 }, 
                                 {
-                                    "x": 2205420, 
-                                    "y": 427569
+                                    "x": 2205422, 
+                                    "y": 427568
                                 }, 
                                 {
-                                    "x": 2474395, 
+                                    "x": 2474391, 
                                     "y": 406401
                                 }, 
                                 {
-                                    "x": 86425605, 
+                                    "x": 86425609, 
                                     "y": 406401
                                 }
                             ]
@@ -13749,11 +13752,11 @@
             "control_points": [], 
             "layer": "bottom copper", 
             "p1": {
-                "x": 54356000, 
+                "x": 12854000, 
                 "y": 12700000
             }, 
             "p2": {
-                "x": 75592000, 
+                "x": 31496000, 
                 "y": 12700000
             }, 
             "trace_type": "straight", 
@@ -13777,50 +13780,8 @@
             "control_points": [], 
             "layer": "bottom copper", 
             "p1": {
-                "x": 75592000, 
-                "y": 7700000
-            }, 
-            "p2": {
-                "x": 59516000, 
-                "y": 7700000
-            }, 
-            "trace_type": "straight", 
-            "width": 1270000.0
-        }, 
-        {
-            "control_points": [], 
-            "layer": "bottom copper", 
-            "p1": {
-                "x": 75592000, 
-                "y": 17700000
-            }, 
-            "p2": {
-                "x": 59516000, 
-                "y": 17700000
-            }, 
-            "trace_type": "straight", 
-            "width": 1270000.0
-        }, 
-        {
-            "control_points": [], 
-            "layer": "bottom copper", 
-            "p1": {
-                "x": 31576000, 
-                "y": 7700000
-            }, 
-            "p2": {
-                "x": 34036000, 
-                "y": 10160000
-            }, 
-            "trace_type": "straight", 
-            "width": 1270000.0
-        }, 
-        {
-            "control_points": [], 
-            "layer": "bottom copper", 
-            "p1": {
-                "x": 59516000, 
-                "y": 7700000
+                "x": 59436000, 
+                "y": 7620000
             }, 
             "p2": {
                 "x": 54356000, 
@@ -13833,36 +13794,78 @@
             "control_points": [], 
             "layer": "bottom copper", 
             "p1": {
-                "x": 12800000, 
-                "y": 7700000
-            }, 
-            "p2": {
-                "x": 31576000, 
-                "y": 7700000
-            }, 
-            "trace_type": "straight", 
-            "width": 1270000.0
-        }, 
-        {
-            "control_points": [], 
-            "layer": "bottom copper", 
-            "p1": {
-                "x": 12800000, 
-                "y": 12700000
-            }, 
-            "p2": {
-                "x": 31496000, 
-                "y": 12700000
-            }, 
-            "trace_type": "straight", 
-            "width": 1270000.0
-        }, 
-        {
-            "control_points": [], 
-            "layer": "bottom copper", 
-            "p1": {
-                "x": 59516000, 
+                "x": 12854000, 
                 "y": 17700000
+            }, 
+            "p2": {
+                "x": 28876000, 
+                "y": 17700000
+            }, 
+            "trace_type": "straight", 
+            "width": 1270000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "bottom copper", 
+            "p1": {
+                "x": 75692000, 
+                "y": 7620000
+            }, 
+            "p2": {
+                "x": 59436000, 
+                "y": 7620000
+            }, 
+            "trace_type": "straight", 
+            "width": 1270000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "bottom copper", 
+            "p1": {
+                "x": 31575999, 
+                "y": 7699999
+            }, 
+            "p2": {
+                "x": 34036000, 
+                "y": 10160000
+            }, 
+            "trace_type": "straight", 
+            "width": 1270000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "bottom copper", 
+            "p1": {
+                "x": 54356000, 
+                "y": 12700000
+            }, 
+            "p2": {
+                "x": 75692000, 
+                "y": 12700000
+            }, 
+            "trace_type": "straight", 
+            "width": 1270000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "bottom copper", 
+            "p1": {
+                "x": 12854000, 
+                "y": 7699999
+            }, 
+            "p2": {
+                "x": 31575999, 
+                "y": 7699999
+            }, 
+            "trace_type": "straight", 
+            "width": 1270000.0
+        }, 
+        {
+            "control_points": [], 
+            "layer": "bottom copper", 
+            "p1": {
+                "x": 59436000, 
+                "y": 17780000
             }, 
             "p2": {
                 "x": 54356000, 
@@ -13875,12 +13878,12 @@
             "control_points": [], 
             "layer": "bottom copper", 
             "p1": {
-                "x": 12800000, 
-                "y": 17700000
+                "x": 75692000, 
+                "y": 17780000
             }, 
             "p2": {
-                "x": 28876000, 
-                "y": 17700000
+                "x": 59436000, 
+                "y": 17780000
             }, 
             "trace_type": "straight", 
             "width": 1270000.0

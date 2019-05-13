@@ -12,7 +12,7 @@ The schematic, board layout and bill of materials can be viewed [here](https://u
 
 ## Licence
 
-Copyright © 2018 Phil Baldwin
+Copyright © 2018, 2019 Phil Baldwin
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 

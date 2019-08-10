@@ -16,6 +16,7 @@
                     "annotations": [], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -270, 
                     "y": 40
@@ -35,6 +36,7 @@
                 {
                     "flip": false, 
                     "layer": "top package outline", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -42,6 +44,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -49,6 +52,7 @@
                 {
                     "flip": false, 
                     "layer": "top courtyard", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -56,6 +60,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -2400000, 
                     "y": -1700000
@@ -64,6 +69,7 @@
             "footprint_index": 0, 
             "footprint_pos": {
                 "flip": false, 
+                "realm": "", 
                 "rotation": 0.0, 
                 "side": "top", 
                 "x": 14000000, 
@@ -80,6 +86,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -1385355, 
                     "y": 660355
@@ -94,6 +101,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 714645, 
                     "y": 660355
@@ -105,6 +113,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top component", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -130,6 +139,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 1.5, 
                             "value": "5M", 
                             "visible": "true", 
@@ -151,6 +161,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 1.5, 
                             "value": "R2", 
                             "visible": "true", 
@@ -160,6 +171,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.5, 
                     "x": 350, 
                     "y": 120
@@ -196,6 +208,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "Vusb", 
                             "visible": "true", 
@@ -205,6 +218,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 390, 
                     "y": 160
@@ -241,6 +255,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "GND", 
                             "visible": "true", 
@@ -250,6 +265,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 140, 
                     "y": -330
@@ -286,6 +302,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "Vusb", 
                             "visible": "true", 
@@ -295,6 +312,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -310, 
                     "y": 90
@@ -331,6 +349,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "GND", 
                             "visible": "true", 
@@ -340,6 +359,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 390, 
                     "y": -90
@@ -355,6 +375,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -362,6 +383,7 @@
                 {
                     "flip": false, 
                     "layer": "top package outline", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -369,6 +391,7 @@
                 {
                     "flip": false, 
                     "layer": "top package outline", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -376,6 +399,7 @@
                 {
                     "flip": false, 
                     "layer": "top package outline", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -383,6 +407,7 @@
                 {
                     "flip": false, 
                     "layer": "top package outline", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -390,6 +415,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -397,6 +423,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -404,6 +431,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -411,6 +439,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -418,6 +447,7 @@
                 {
                     "flip": false, 
                     "layer": "top courtyard", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -425,6 +455,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 10800000, 
                     "y": -1700000
@@ -433,6 +464,7 @@
             "footprint_index": 1, 
             "footprint_pos": {
                 "flip": false, 
+                "realm": "", 
                 "rotation": 0.0, 
                 "side": "top", 
                 "x": 5000000, 
@@ -455,6 +487,7 @@
                     }, 
                     "flip": false, 
                     "layer": "hole", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 7620000
@@ -475,6 +508,7 @@
                     }, 
                     "flip": false, 
                     "layer": "hole", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 2540000
@@ -495,6 +529,7 @@
                     }, 
                     "flip": false, 
                     "layer": "hole", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": -2540000
@@ -515,6 +550,7 @@
                     }, 
                     "flip": false, 
                     "layer": "hole", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": -7620000
@@ -526,6 +562,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top component", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -551,6 +588,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "J1", 
                             "visible": "true", 
@@ -572,6 +610,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "0015244449", 
                             "visible": "true", 
@@ -581,6 +620,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -190, 
                     "y": 0
@@ -597,6 +637,7 @@
                 {
                     "flip": false, 
                     "layer": "bottom courtyard", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -604,6 +645,7 @@
                 {
                     "flip": false, 
                     "layer": "top courtyard", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -612,6 +654,7 @@
             "footprint_index": 0, 
             "footprint_pos": {
                 "flip": false, 
+                "realm": "", 
                 "rotation": 0.0, 
                 "side": "top", 
                 "x": 15000000, 
@@ -625,6 +668,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top component", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -653,6 +697,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -673,13 +718,14 @@
                                 "font_size": 10, 
                                 "rotation": 0.0, 
                                 "styles": {}, 
-                                "text": "{{_name}}", 
+                                "text": "Mounting hole ##6-32 UNC", 
                                 "type": "label", 
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
-                            "value": "{{_name}}", 
+                            "value": "Mounting hole ##6-32 UNC", 
                             "visible": "true", 
                             "x": -40, 
                             "y": 50
@@ -699,6 +745,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "M1", 
                             "visible": "true", 
@@ -708,6 +755,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -60, 
                     "y": -300
@@ -744,6 +792,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "GND", 
                             "visible": "true", 
@@ -753,156 +802,13 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -280, 
                     "y": -50
                 }
             ], 
             "symbol_index": 2
-        }, 
-        {
-            "attributes": {
-                "_footprint_type": "0805 (2012 metric)", 
-                "_pin_0_0_direction_0": "up", 
-                "_pin_0_1_direction_0": "down", 
-                "_resistance": "100", 
-                "refdes": "R1"
-            }, 
-            "footprint_attributes": [
-                {
-                    "flip": false, 
-                    "layer": "top package outline", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top courtyard", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }, 
-                {
-                    "flip": false, 
-                    "layer": "top silkscreen", 
-                    "rotation": 0.5, 
-                    "x": 2400000, 
-                    "y": 2400000
-                }
-            ], 
-            "footprint_index": 0, 
-            "footprint_pos": {
-                "flip": false, 
-                "rotation": 1.5, 
-                "side": "top", 
-                "x": 18000000, 
-                "y": 12500000
-            }, 
-            "gen_obj_attributes": [
-                {
-                    "attributes": {
-                        "attached_layers": "top solder mask,top paste,top copper", 
-                        "height": "1320710", 
-                        "shape": "rectangle", 
-                        "type": "padstack", 
-                        "width": "670710"
-                    }, 
-                    "flip": false, 
-                    "layer": "top copper", 
-                    "rotation": 0.0, 
-                    "x": -1385355, 
-                    "y": 660355
-                }, 
-                {
-                    "attributes": {
-                        "attached_layers": "top solder mask,top paste,top copper", 
-                        "height": "1320710", 
-                        "shape": "rectangle", 
-                        "type": "padstack", 
-                        "width": "670710"
-                    }, 
-                    "flip": false, 
-                    "layer": "top copper", 
-                    "rotation": 0.0, 
-                    "x": 714645, 
-                    "y": 660355
-                }, 
-                {
-                    "attributes": {
-                        "type": "center cross", 
-                        "width": "10000000"
-                    }, 
-                    "flip": false, 
-                    "layer": "top component", 
-                    "rotation": 0.0, 
-                    "x": 0, 
-                    "y": 0
-                }
-            ], 
-            "instance_id": "4c91bb3536f08060", 
-            "library_id": "dca4a7271d383639", 
-            "symbol_attributes": [
-                {
-                    "annotations": [
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "R1", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 1.5, 
-                            "value": "R1", 
-                            "visible": "true", 
-                            "x": 15, 
-                            "y": -38
-                        }, 
-                        {
-                            "flip": false, 
-                            "label": {
-                                "align": "left", 
-                                "baseline": "alphabetic", 
-                                "flip": false, 
-                                "font_family": "sans-serif", 
-                                "font_size": 10, 
-                                "rotation": 0.0, 
-                                "styles": {}, 
-                                "text": "100", 
-                                "type": "label", 
-                                "x": 0, 
-                                "y": 0
-                            }, 
-                            "rotation": 1.5, 
-                            "value": "100", 
-                            "visible": "true", 
-                            "x": 25, 
-                            "y": -38
-                        }
-                    ], 
-                    "flip": "false", 
-                    "hidden": "false", 
-                    "rotation": 0.5, 
-                    "x": 350, 
-                    "y": 50
-                }
-            ], 
-            "symbol_index": 0
         }, 
         {
             "attributes": {
@@ -916,6 +822,7 @@
                 {
                     "flip": false, 
                     "layer": "top package outline", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -923,6 +830,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -930,6 +838,7 @@
                 {
                     "flip": false, 
                     "layer": "top courtyard", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -937,6 +846,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 1.0, 
                     "x": 2400000, 
                     "y": -1500000
@@ -945,6 +855,7 @@
             "footprint_index": 0, 
             "footprint_pos": {
                 "flip": false, 
+                "realm": "", 
                 "rotation": 1.0, 
                 "side": "top", 
                 "x": 14000000, 
@@ -961,6 +872,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -1385355, 
                     "y": 660355
@@ -975,6 +887,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 714645, 
                     "y": 660355
@@ -986,6 +899,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top component", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -1011,6 +925,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 1.5, 
                             "value": "R3", 
                             "visible": "true", 
@@ -1032,6 +947,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 1.5, 
                             "value": "5M", 
                             "visible": "true", 
@@ -1041,6 +957,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.5, 
                     "x": 350, 
                     "y": -20
@@ -1077,6 +994,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "GND", 
                             "visible": "true", 
@@ -1086,12 +1004,168 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -10, 
                     "y": -330
                 }
             ], 
             "symbol_index": 2
+        }, 
+        {
+            "attributes": {
+                "_footprint_type": "0805 (2012 metric)", 
+                "_pin_0_0_direction_0": "up", 
+                "_pin_0_1_direction_0": "down", 
+                "_resistance": "100", 
+                "refdes": "R1"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "top package outline", 
+                    "realm": "", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "realm": "", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top courtyard", 
+                    "realm": "", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "flip": false, 
+                    "layer": "top silkscreen", 
+                    "realm": "", 
+                    "rotation": 0.5, 
+                    "x": 2400000, 
+                    "y": 2400000
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "realm": "", 
+                "rotation": 1.5, 
+                "side": "top", 
+                "x": 18000000, 
+                "y": 12500000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "attached_layers": "top solder mask,top paste,top copper", 
+                        "height": "1320710", 
+                        "shape": "rectangle", 
+                        "type": "padstack", 
+                        "width": "670710"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "realm": "", 
+                    "rotation": 0.0, 
+                    "x": -1385355, 
+                    "y": 660355
+                }, 
+                {
+                    "attributes": {
+                        "attached_layers": "top solder mask,top paste,top copper", 
+                        "height": "1320710", 
+                        "shape": "rectangle", 
+                        "type": "padstack", 
+                        "width": "670710"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "realm": "", 
+                    "rotation": 0.0, 
+                    "x": 714645, 
+                    "y": 660355
+                }, 
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "10000000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "realm": "", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "instance_id": "9dea16fde81fcd95", 
+            "library_id": "79633a6dbf774410", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "100", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "realm": "", 
+                            "rotation": 0.5, 
+                            "value": "100", 
+                            "visible": "true", 
+                            "x": 35, 
+                            "y": -24
+                        }, 
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "R1", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "realm": "", 
+                            "rotation": 0.5, 
+                            "value": "R1", 
+                            "visible": "true", 
+                            "x": 24, 
+                            "y": -24
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "realm": "", 
+                    "rotation": 0.5, 
+                    "x": 350, 
+                    "y": 50
+                }
+            ], 
+            "symbol_index": 0
         }, 
         {
             "attributes": {
@@ -1107,6 +1181,7 @@
                 {
                     "flip": false, 
                     "layer": "top package outline", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -1114,6 +1189,7 @@
                 {
                     "flip": false, 
                     "layer": "top courtyard", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -1121,6 +1197,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -1128,6 +1205,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.5, 
                     "x": 3300000, 
                     "y": -2800000
@@ -1135,6 +1213,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -1143,6 +1222,7 @@
             "footprint_index": 0, 
             "footprint_pos": {
                 "flip": false, 
+                "realm": "", 
                 "rotation": 1.5, 
                 "side": "top", 
                 "x": 25000000, 
@@ -1156,6 +1236,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top component", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -1181,6 +1262,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -3540000, 
                     "y": 1300000
@@ -1206,6 +1288,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -1000000, 
                     "y": 1300000
@@ -1231,6 +1314,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 1000000, 
                     "y": 1300000
@@ -1256,6 +1340,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 3540000, 
                     "y": 1300000
@@ -1281,6 +1366,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 6610000, 
                     "y": -1410000
@@ -1306,6 +1392,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -6610000, 
                     "y": -1410000
@@ -1331,6 +1418,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "1734366-1", 
                             "visible": "true", 
@@ -1352,6 +1440,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "J3", 
                             "visible": "true", 
@@ -1361,6 +1450,7 @@
                     ], 
                     "flip": "true", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 560, 
                     "y": 50
@@ -1377,6 +1467,7 @@
                 {
                     "flip": false, 
                     "layer": "bottom courtyard", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -1384,6 +1475,7 @@
                 {
                     "flip": false, 
                     "layer": "top courtyard", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -1392,6 +1484,7 @@
             "footprint_index": 0, 
             "footprint_pos": {
                 "flip": false, 
+                "realm": "", 
                 "rotation": 0.0, 
                 "side": "top", 
                 "x": 15000000, 
@@ -1405,6 +1498,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top component", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -1433,6 +1527,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -1453,13 +1548,14 @@
                                 "font_size": 10, 
                                 "rotation": 0.0, 
                                 "styles": {}, 
-                                "text": "{{_name}}", 
+                                "text": "Mounting hole ##6-32 UNC", 
                                 "type": "label", 
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
-                            "value": "{{_name}}", 
+                            "value": "Mounting hole ##6-32 UNC", 
                             "visible": "true", 
                             "x": -40, 
                             "y": 50
@@ -1479,6 +1575,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "M2", 
                             "visible": "true", 
@@ -1488,6 +1585,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 90, 
                     "y": -300
@@ -2622,8 +2720,229 @@
                         }
                     ]
                 }
-            ], 
-            "unverified_attributes": {}
+            ]
+        }, 
+        "515db28f8b2fd495": {
+            "attributes": {
+                "_category": "Res", 
+                "_datasheet": "", 
+                "_digikey_description": "RES ", 
+                "_digikey_part_number": "", 
+                "_is_preset_symbol_0_0": "yes", 
+                "_lead_free": "Unknown", 
+                "_manufacturer": "Generic", 
+                "_mouser_part_number": "", 
+                "_octopart_part_number": "", 
+                "_package": "", 
+                "_part_number": "Resistor", 
+                "_prefix": "R", 
+                "_resistance": "5K", 
+                "_rohs": "Unknown", 
+                "_symbol_type": "Resistor", 
+                "_temperature_range_high": "", 
+                "_temperature_range_low": "", 
+                "_type": "resistor"
+            }, 
+            "connections": {
+                "0": {
+                    "connection_index": 0, 
+                    "name": "1", 
+                    "ref": "1"
+                }, 
+                "1": {
+                    "connection_index": 1, 
+                    "name": "2", 
+                    "ref": "2"
+                }
+            }, 
+            "footprints": [], 
+            "name": "Generic Resistor", 
+            "symbols": [
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            1
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "2", 
+                                    "p1": {
+                                        "x": 40, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 50, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "2", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{refdes}}", 
+                                    "x": 10, 
+                                    "y": -20
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_resistance}}", 
+                                    "x": 10, 
+                                    "y": -30
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 13, 
+                                        "y": -5
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 13, 
+                                        "y": -5
+                                    }, 
+                                    "p2": {
+                                        "x": 18, 
+                                        "y": -15
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 18, 
+                                        "y": -15
+                                    }, 
+                                    "p2": {
+                                        "x": 23, 
+                                        "y": -5
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 23, 
+                                        "y": -5
+                                    }, 
+                                    "p2": {
+                                        "x": 28, 
+                                        "y": -15
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 28, 
+                                        "y": -15
+                                    }, 
+                                    "p2": {
+                                        "x": 33, 
+                                        "y": -5
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 33, 
+                                        "y": -5
+                                    }, 
+                                    "p2": {
+                                        "x": 38, 
+                                        "y": -15
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 38, 
+                                        "y": -15
+                                    }, 
+                                    "p2": {
+                                        "x": 40, 
+                                        "y": -10
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }
+            ]
         }, 
         "57226182e92f4941": {
             "attributes": {
@@ -2709,8 +3028,480 @@
                         }
                     ]
                 }
+            ]
+        }, 
+        "79633a6dbf774410": {
+            "attributes": {
+                "_category": "Res", 
+                "_datasheet": "", 
+                "_digikey_description": "RES ", 
+                "_digikey_part_number": "", 
+                "_forked_from": "515db28f8b2fd495", 
+                "_is_preset_symbol_0_0": "yes", 
+                "_lead_free": "Unknown", 
+                "_manufacturer": "Generic", 
+                "_mouser_part_number": "", 
+                "_octopart_part_number": "", 
+                "_package": "", 
+                "_part_number": "Resistor", 
+                "_prefix": "R", 
+                "_resistance": "5K", 
+                "_rohs": "Unknown", 
+                "_symbol_type": "Resistor", 
+                "_temperature_range_high": "", 
+                "_temperature_range_low": "", 
+                "_type": "resistor", 
+                "is_generic": "true"
+            }, 
+            "connections": {
+                "0": {
+                    "connection_index": 0, 
+                    "name": "1", 
+                    "ref": "1"
+                }, 
+                "1": {
+                    "connection_index": 1, 
+                    "name": "2", 
+                    "ref": "2"
+                }
+            }, 
+            "footprints": [
+                {
+                    "bodies": [
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top package outline", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 1250000, 
+                                    "is_centered": true, 
+                                    "line_width": 150000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 2000000, 
+                                    "x": 0, 
+                                    "y": 0
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": true, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -414645, 
+                                        "y": -625000
+                                    }, 
+                                    "p2": {
+                                        "x": 414645, 
+                                        "y": -625000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 150000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -414645, 
+                                        "y": 625000
+                                    }, 
+                                    "p2": {
+                                        "x": 414645, 
+                                        "y": 625000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 150000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top courtyard", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 1500000, 
+                                    "is_centered": true, 
+                                    "line_width": 0, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 3020710, 
+                                    "x": 0, 
+                                    "y": 0
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top silkscreen", 
+                            "moveable": true, 
+                            "pin_num": null, 
+                            "removeable": true, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 1000000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{refdes}}", 
+                                    "type": "label", 
+                                    "x": 1810355, 
+                                    "y": -300000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top assembly", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -1510355, 
+                                        "y": 750000
+                                    }, 
+                                    "p2": {
+                                        "x": 1510355, 
+                                        "y": 750000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 1510355, 
+                                        "y": 750000
+                                    }, 
+                                    "p2": {
+                                        "x": 1510355, 
+                                        "y": -750000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 1510355, 
+                                        "y": -750000
+                                    }, 
+                                    "p2": {
+                                        "x": -1510355, 
+                                        "y": -750000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -1510355, 
+                                        "y": -750000
+                                    }, 
+                                    "p2": {
+                                        "x": -1510355, 
+                                        "y": 750000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 1000000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "text": "{{refdes}}", 
+                                    "type": "label", 
+                                    "x": 0, 
+                                    "y": 0
+                                }
+                            ]
+                        }
+                    ], 
+                    "gen_objs": [
+                        {
+                            "attributes": {
+                                "attached_layers": "top solder mask,top paste,top copper", 
+                                "height": "1320710", 
+                                "shape": "rectangle", 
+                                "type": "padstack", 
+                                "width": "670710"
+                            }, 
+                            "connection_indexes": [
+                                0
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -1385355, 
+                            "y": 660355
+                        }, 
+                        {
+                            "attributes": {
+                                "attached_layers": "top solder mask,top paste,top copper", 
+                                "height": "1320710", 
+                                "shape": "rectangle", 
+                                "type": "padstack", 
+                                "width": "670710"
+                            }, 
+                            "connection_indexes": [
+                                1
+                            ], 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 714645, 
+                            "y": 660355
+                        }, 
+                        {
+                            "attributes": {
+                                "type": "center cross", 
+                                "width": "10000000"
+                            }, 
+                            "connection_indexes": null, 
+                            "flip": false, 
+                            "layer": "top component", 
+                            "rotation": 0.0, 
+                            "x": 0, 
+                            "y": 0
+                        }
+                    ], 
+                    "threeds": []
+                }
             ], 
-            "unverified_attributes": {}
+            "name": "Generic Resistor", 
+            "symbols": [
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            0
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "1", 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 0, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "1", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }, 
+                                {
+                                    "attributes": {}, 
+                                    "connections": [
+                                        [
+                                            1
+                                        ]
+                                    ], 
+                                    "flip": false, 
+                                    "name": "2", 
+                                    "p1": {
+                                        "x": 40, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 50, 
+                                        "y": -10
+                                    }, 
+                                    "ref": "2", 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "width": 2
+                                }
+                            ], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{refdes}}", 
+                                    "x": 10, 
+                                    "y": -20
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_resistance}}", 
+                                    "x": 10, 
+                                    "y": -30
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 10, 
+                                        "y": -10
+                                    }, 
+                                    "p2": {
+                                        "x": 13, 
+                                        "y": -5
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 13, 
+                                        "y": -5
+                                    }, 
+                                    "p2": {
+                                        "x": 18, 
+                                        "y": -15
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 18, 
+                                        "y": -15
+                                    }, 
+                                    "p2": {
+                                        "x": 23, 
+                                        "y": -5
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 23, 
+                                        "y": -5
+                                    }, 
+                                    "p2": {
+                                        "x": 28, 
+                                        "y": -15
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 28, 
+                                        "y": -15
+                                    }, 
+                                    "p2": {
+                                        "x": 33, 
+                                        "y": -5
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 33, 
+                                        "y": -5
+                                    }, 
+                                    "p2": {
+                                        "x": 38, 
+                                        "y": -15
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": 38, 
+                                        "y": -15
+                                    }, 
+                                    "p2": {
+                                        "x": 40, 
+                                        "y": -10
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 2
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }
+            ]
         }, 
         "884dcc7dc32cf076": {
             "attributes": {
@@ -3903,8 +4694,7 @@
                         }
                     ]
                 }
-            ], 
-            "unverified_attributes": {}
+            ]
         }, 
         "94363580772bdb67": {
             "attributes": {
@@ -4097,8 +4887,7 @@
                         }
                     ]
                 }
-            ], 
-            "unverified_attributes": {}
+            ]
         }, 
         "b14407a9591b4c59": {
             "attributes": {
@@ -4721,6 +5510,7 @@
                                     "flip": false, 
                                     "font_family": "sans-serif", 
                                     "font_size": 10, 
+                                    "original_pattern": "{{_pin_0_name}}", 
                                     "rotation": 0.0, 
                                     "styles": {}, 
                                     "text": "1", 
@@ -4734,6 +5524,7 @@
                                     "flip": false, 
                                     "font_family": "sans-serif", 
                                     "font_size": 10, 
+                                    "original_pattern": "{{_pin_1_name}}", 
                                     "rotation": 0.0, 
                                     "styles": {}, 
                                     "text": "2", 
@@ -4747,6 +5538,7 @@
                                     "flip": false, 
                                     "font_family": "sans-serif", 
                                     "font_size": 10, 
+                                    "original_pattern": "{{_pin_2_name}}", 
                                     "rotation": 0.0, 
                                     "styles": {}, 
                                     "text": "3", 
@@ -4760,6 +5552,7 @@
                                     "flip": false, 
                                     "font_family": "sans-serif", 
                                     "font_size": 10, 
+                                    "original_pattern": "{{_pin_3_name}}", 
                                     "rotation": 0.0, 
                                     "styles": {}, 
                                     "text": "4", 
@@ -4773,6 +5566,7 @@
                                     "flip": false, 
                                     "font_family": "sans-serif", 
                                     "font_size": 10, 
+                                    "original_pattern": "{{_pin_4_name}}", 
                                     "rotation": 0.0, 
                                     "styles": {}, 
                                     "text": "MH_GND", 
@@ -4786,6 +5580,7 @@
                                     "flip": false, 
                                     "font_family": "sans-serif", 
                                     "font_size": 10, 
+                                    "original_pattern": "{{_pin_5_name}}", 
                                     "rotation": 0.0, 
                                     "styles": {}, 
                                     "text": "MH_GND", 
@@ -4798,8 +5593,7 @@
                         }
                     ]
                 }
-            ], 
-            "unverified_attributes": {}
+            ]
         }, 
         "dca4a7271d383639": {
             "attributes": {
@@ -5272,8 +6066,7 @@
                         }
                     ]
                 }
-            ], 
-            "unverified_attributes": {}
+            ]
         }
     }, 
     "design_attributes": {
@@ -5293,6 +6086,7 @@
                     "x": 0, 
                     "y": 0
                 }, 
+                "realm": "", 
                 "rotation": 0.0, 
                 "value": "TODO: Add SATA power connector", 
                 "visible": "true", 
@@ -5314,6 +6108,7 @@
                     "x": 0, 
                     "y": 0
                 }, 
+                "realm": "", 
                 "rotation": 0.0, 
                 "value": "Screw holes matching those on a ATX motherboard. So the board can be secured to a motherboard standoff or cable-tied to the case\nSee https://en.wikipedia.org/wiki/Computer_case_screws#Motherboard_standoff", 
                 "visible": "true", 
@@ -5335,6 +6130,7 @@
                     "x": 0, 
                     "y": 0
                 }, 
+                "realm": "", 
                 "rotation": 0.0, 
                 "value": "TODO: Resistor ???\n< 200 ohms according to spec\nhttps://electronics.stackexchange.com/questions/123172/what-is-the-ideal-way-to-handle-data-pins-d-and-d-on-a-usb-power-adapter-to-be", 
                 "visible": "true", 
@@ -5356,6 +6152,7 @@
                     "x": 0, 
                     "y": 0
                 }, 
+                "realm": "", 
                 "rotation": 0.0, 
                 "value": "Maybe use a zero ohm here", 
                 "visible": "true", 
@@ -5377,6 +6174,7 @@
                     "x": 0, 
                     "y": 0
                 }, 
+                "realm": "", 
                 "rotation": 0.0, 
                 "value": "TODO: Should I connect the screw holes to ground? - https://superuser.com/questions/1138512/what-exactly-is-grounded-through-motherboard-standoffs", 
                 "visible": "true", 
@@ -5387,7 +6185,7 @@
         "attributes": {
             "_connector_counter": "3", 
             "_integrated circuit_counter": "12", 
-            "_resistor_counter": "3"
+            "_resistor_counter": "4"
         }, 
         "metadata": {
             "attached_urls": [], 
@@ -5397,59 +6195,71 @@
             "name": "PC internal USB power", 
             "owner": "Trebuchetindustries", 
             "slug": "PC-internal-USB-power", 
-            "updated_timestamp": 1544968597
+            "updated_timestamp": 1544969206
         }
     }, 
+    "extra_pcb_data_blobs": [], 
+    "extra_schematic_data_blobs": [], 
     "layer_options": [
         {
             "ident": "hole", 
             "is_copper": false, 
-            "name": "hole"
+            "name": "hole", 
+            "realm": ""
         }, 
         {
             "ident": "top silkscreen", 
             "is_copper": false, 
-            "name": "top silkscreen"
+            "name": "top silkscreen", 
+            "realm": ""
         }, 
         {
             "ident": "top solder mask", 
             "is_copper": false, 
-            "name": "top solder mask"
+            "name": "top solder mask", 
+            "realm": ""
         }, 
         {
             "ident": "top paste", 
             "is_copper": false, 
-            "name": "top paste"
+            "name": "top paste", 
+            "realm": ""
         }, 
         {
             "ident": "top copper", 
             "is_copper": true, 
-            "name": "top copper"
+            "name": "top copper", 
+            "realm": ""
         }, 
         {
             "ident": "bottom copper", 
             "is_copper": true, 
-            "name": "bottom copper"
+            "name": "bottom copper", 
+            "realm": ""
         }, 
         {
             "ident": "bottom paste", 
             "is_copper": false, 
-            "name": "bottom paste"
+            "name": "bottom paste", 
+            "realm": ""
         }, 
         {
             "ident": "bottom solder mask", 
             "is_copper": false, 
-            "name": "bottom solder mask"
+            "name": "bottom solder mask", 
+            "realm": ""
         }, 
         {
             "ident": "bottom silkscreen", 
             "is_copper": false, 
-            "name": "bottom silkscreen"
+            "name": "bottom silkscreen", 
+            "realm": ""
         }, 
         {
             "ident": "mechanical details", 
             "is_copper": false, 
-            "name": "mechanical details"
+            "name": "mechanical details", 
+            "realm": ""
         }
     ], 
     "layout_bodies": [], 
@@ -5458,6 +6268,7 @@
     "module_instances": [], 
     "modules": {}, 
     "named_regions": [], 
+    "net_labels": [], 
     "nets": [
         {
             "annotations": [], 
@@ -5479,6 +6290,7 @@
                         "a5e01ae289a7b701"
                     ], 
                     "point_id": "32fd9515583e588c", 
+                    "realm": "", 
                     "x": 0, 
                     "y": -330
                 }, 
@@ -5489,6 +6301,7 @@
                         "c0b45a407689109a"
                     ], 
                     "point_id": "a5e01ae289a7b701", 
+                    "realm": "", 
                     "x": 0, 
                     "y": -300
                 }, 
@@ -5506,263 +6319,12 @@
                         "a5e01ae289a7b701"
                     ], 
                     "point_id": "c0b45a407689109a", 
+                    "realm": "", 
                     "x": -40, 
                     "y": -300
                 }
             ], 
-            "signals": [
-                ""
-            ]
-        }, 
-        {
-            "annotations": [], 
-            "attributes": {}, 
-            "net_id": "e8722f1012d9bbb9", 
-            "net_type": "nets", 
-            "points": [
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 0, 
-                            "body_index": 0, 
-                            "instance_id": "6475e143fbf82db4", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "bf0ba603f4f10100"
-                    ], 
-                    "point_id": "8b5b5e30c9edb791", 
-                    "x": 150, 
-                    "y": -330
-                }, 
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "8b5b5e30c9edb791", 
-                        "dc22d7232fc50d28"
-                    ], 
-                    "point_id": "bf0ba603f4f10100", 
-                    "x": 150, 
-                    "y": -300
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 0, 
-                            "body_index": 0, 
-                            "instance_id": "f5205f3a868a2325", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "bf0ba603f4f10100"
-                    ], 
-                    "point_id": "dc22d7232fc50d28", 
-                    "x": 110, 
-                    "y": -300
-                }
-            ], 
-            "signals": [
-                ""
-            ]
-        }, 
-        {
-            "annotations": [], 
-            "attributes": {
-                "name": "D-"
-            }, 
-            "net_id": "b9d65617be0bd79b", 
-            "net_type": "nets", 
-            "points": [
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "c9d390b4d1898796", 
-                        "ec79d710525a8ccd"
-                    ], 
-                    "point_id": "0859b9e38c0ade39", 
-                    "x": 370, 
-                    "y": 60
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 0, 
-                            "body_index": 0, 
-                            "instance_id": "4c91bb3536f08060", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "ec79d710525a8ccd"
-                    ], 
-                    "point_id": "36d2014e50d5796f", 
-                    "x": 340, 
-                    "y": 50
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 1, 
-                            "body_index": 0, 
-                            "instance_id": "2db072afead86070", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "ec79d710525a8ccd"
-                    ], 
-                    "point_id": "3843ccf0615e6422", 
-                    "x": 340, 
-                    "y": 70
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 1, 
-                            "body_index": 0, 
-                            "instance_id": "442748f89a67850a", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "c9d390b4d1898796"
-                    ], 
-                    "point_id": "9ab465ee80591fb4", 
-                    "x": 440, 
-                    "y": 30
-                }, 
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "0859b9e38c0ade39", 
-                        "9ab465ee80591fb4"
-                    ], 
-                    "point_id": "c9d390b4d1898796", 
-                    "x": 370, 
-                    "y": 30
-                }, 
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "0859b9e38c0ade39", 
-                        "36d2014e50d5796f", 
-                        "3843ccf0615e6422"
-                    ], 
-                    "point_id": "ec79d710525a8ccd", 
-                    "x": 340, 
-                    "y": 60
-                }
-            ], 
-            "signals": [
-                ""
-            ]
-        }, 
-        {
-            "annotations": [], 
-            "attributes": {}, 
-            "net_id": "b78d0439d7426909", 
-            "net_type": "nets", 
-            "points": [
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "9d7f6cb3e7ef40b7", 
-                        "d8c31e7884d52fc4"
-                    ], 
-                    "point_id": "3fcf241618e98a7e", 
-                    "x": 340, 
-                    "y": 130
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 0, 
-                            "body_index": 0, 
-                            "instance_id": "8de09d51ac26d6ca", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "d8c31e7884d52fc4"
-                    ], 
-                    "point_id": "70b1b067a49b1358", 
-                    "x": 400, 
-                    "y": 140
-                }, 
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "c935e824cbb72f30", 
-                        "e8b5b186e2098096"
-                    ], 
-                    "point_id": "9ccfbb2121b430fa", 
-                    "x": 400, 
-                    "y": 40
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 0, 
-                            "body_index": 0, 
-                            "instance_id": "2db072afead86070", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "3fcf241618e98a7e"
-                    ], 
-                    "point_id": "9d7f6cb3e7ef40b7", 
-                    "x": 340, 
-                    "y": 120
-                }, 
-                {
-                    "connected_action_regions": [
-                        {
-                            "action_region_index": 0, 
-                            "body_index": 0, 
-                            "instance_id": "442748f89a67850a", 
-                            "order": 0, 
-                            "signal": ""
-                        }
-                    ], 
-                    "connected_points": [
-                        "9ccfbb2121b430fa"
-                    ], 
-                    "point_id": "c935e824cbb72f30", 
-                    "x": 440, 
-                    "y": 40
-                }, 
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "3fcf241618e98a7e", 
-                        "70b1b067a49b1358", 
-                        "e8b5b186e2098096"
-                    ], 
-                    "point_id": "d8c31e7884d52fc4", 
-                    "x": 400, 
-                    "y": 130
-                }, 
-                {
-                    "connected_action_regions": [], 
-                    "connected_points": [
-                        "9ccfbb2121b430fa", 
-                        "d8c31e7884d52fc4"
-                    ], 
-                    "point_id": "e8b5b186e2098096", 
-                    "x": 400, 
-                    "y": 120
-                }
-            ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
@@ -5787,6 +6349,7 @@
                         "66d54d4181590035"
                     ], 
                     "point_id": "09d9a0527f0b8345", 
+                    "realm": "", 
                     "x": 440, 
                     "y": 10
                 }, 
@@ -5804,6 +6367,7 @@
                         "fe82bb72a593703d"
                     ], 
                     "point_id": "1e82c201462df9aa", 
+                    "realm": "", 
                     "x": 440, 
                     "y": -10
                 }, 
@@ -5814,6 +6378,7 @@
                         "fe82bb72a593703d"
                     ], 
                     "point_id": "66d54d4181590035", 
+                    "realm": "", 
                     "x": 400, 
                     "y": 10
                 }, 
@@ -5825,6 +6390,7 @@
                         "fe82bb72a593703d"
                     ], 
                     "point_id": "6e35d4fe34ef016b", 
+                    "realm": "", 
                     "x": 400, 
                     "y": -20
                 }, 
@@ -5842,6 +6408,7 @@
                         "6e35d4fe34ef016b"
                     ], 
                     "point_id": "74177f9574000c4c", 
+                    "realm": "", 
                     "x": 440, 
                     "y": -20
                 }, 
@@ -5859,6 +6426,7 @@
                         "f0fe7242b1556207"
                     ], 
                     "point_id": "ee30389a7b078ee7", 
+                    "realm": "", 
                     "x": 340, 
                     "y": -70
                 }, 
@@ -5869,6 +6437,7 @@
                         "fd2f9bc48b1a3c3e"
                     ], 
                     "point_id": "f0fe7242b1556207", 
+                    "realm": "", 
                     "x": 340, 
                     "y": -80
                 }, 
@@ -5886,6 +6455,7 @@
                         "fd2f9bc48b1a3c3e"
                     ], 
                     "point_id": "f86780f303c15af1", 
+                    "realm": "", 
                     "x": 400, 
                     "y": -90
                 }, 
@@ -5897,6 +6467,7 @@
                         "f86780f303c15af1"
                     ], 
                     "point_id": "fd2f9bc48b1a3c3e", 
+                    "realm": "", 
                     "x": 400, 
                     "y": -80
                 }, 
@@ -5908,10 +6479,284 @@
                         "6e35d4fe34ef016b"
                     ], 
                     "point_id": "fe82bb72a593703d", 
+                    "realm": "", 
                     "x": 400, 
                     "y": -10
                 }
             ], 
+            "realm": "", 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {}, 
+            "net_id": "e8722f1012d9bbb9", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "6475e143fbf82db4", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "bf0ba603f4f10100"
+                    ], 
+                    "point_id": "8b5b5e30c9edb791", 
+                    "realm": "", 
+                    "x": 150, 
+                    "y": -330
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "8b5b5e30c9edb791", 
+                        "dc22d7232fc50d28"
+                    ], 
+                    "point_id": "bf0ba603f4f10100", 
+                    "realm": "", 
+                    "x": 150, 
+                    "y": -300
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "f5205f3a868a2325", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "bf0ba603f4f10100"
+                    ], 
+                    "point_id": "dc22d7232fc50d28", 
+                    "realm": "", 
+                    "x": 110, 
+                    "y": -300
+                }
+            ], 
+            "realm": "", 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {
+                "name": "D-"
+            }, 
+            "net_id": "b9d65617be0bd79b", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "c9d390b4d1898796", 
+                        "ec79d710525a8ccd"
+                    ], 
+                    "point_id": "0859b9e38c0ade39", 
+                    "realm": "", 
+                    "x": 370, 
+                    "y": 60
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "9dea16fde81fcd95", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "ec79d710525a8ccd"
+                    ], 
+                    "point_id": "36d2014e50d5796f", 
+                    "realm": "", 
+                    "x": 340, 
+                    "y": 50
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 1, 
+                            "body_index": 0, 
+                            "instance_id": "2db072afead86070", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "ec79d710525a8ccd"
+                    ], 
+                    "point_id": "3843ccf0615e6422", 
+                    "realm": "", 
+                    "x": 340, 
+                    "y": 70
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 1, 
+                            "body_index": 0, 
+                            "instance_id": "442748f89a67850a", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "c9d390b4d1898796"
+                    ], 
+                    "point_id": "9ab465ee80591fb4", 
+                    "realm": "", 
+                    "x": 440, 
+                    "y": 30
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "0859b9e38c0ade39", 
+                        "9ab465ee80591fb4"
+                    ], 
+                    "point_id": "c9d390b4d1898796", 
+                    "realm": "", 
+                    "x": 370, 
+                    "y": 30
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "0859b9e38c0ade39", 
+                        "36d2014e50d5796f", 
+                        "3843ccf0615e6422"
+                    ], 
+                    "point_id": "ec79d710525a8ccd", 
+                    "realm": "", 
+                    "x": 340, 
+                    "y": 60
+                }
+            ], 
+            "realm": "", 
+            "signals": [
+                ""
+            ]
+        }, 
+        {
+            "annotations": [], 
+            "attributes": {}, 
+            "net_id": "b78d0439d7426909", 
+            "net_type": "nets", 
+            "points": [
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "9d7f6cb3e7ef40b7", 
+                        "d8c31e7884d52fc4"
+                    ], 
+                    "point_id": "3fcf241618e98a7e", 
+                    "realm": "", 
+                    "x": 340, 
+                    "y": 130
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "8de09d51ac26d6ca", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "d8c31e7884d52fc4"
+                    ], 
+                    "point_id": "70b1b067a49b1358", 
+                    "realm": "", 
+                    "x": 400, 
+                    "y": 140
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "c935e824cbb72f30", 
+                        "e8b5b186e2098096"
+                    ], 
+                    "point_id": "9ccfbb2121b430fa", 
+                    "realm": "", 
+                    "x": 400, 
+                    "y": 40
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "2db072afead86070", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "3fcf241618e98a7e"
+                    ], 
+                    "point_id": "9d7f6cb3e7ef40b7", 
+                    "realm": "", 
+                    "x": 340, 
+                    "y": 120
+                }, 
+                {
+                    "connected_action_regions": [
+                        {
+                            "action_region_index": 0, 
+                            "body_index": 0, 
+                            "instance_id": "442748f89a67850a", 
+                            "order": 0, 
+                            "signal": ""
+                        }
+                    ], 
+                    "connected_points": [
+                        "9ccfbb2121b430fa"
+                    ], 
+                    "point_id": "c935e824cbb72f30", 
+                    "realm": "", 
+                    "x": 440, 
+                    "y": 40
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "3fcf241618e98a7e", 
+                        "70b1b067a49b1358", 
+                        "e8b5b186e2098096"
+                    ], 
+                    "point_id": "d8c31e7884d52fc4", 
+                    "realm": "", 
+                    "x": 400, 
+                    "y": 130
+                }, 
+                {
+                    "connected_action_regions": [], 
+                    "connected_points": [
+                        "9ccfbb2121b430fa", 
+                        "d8c31e7884d52fc4"
+                    ], 
+                    "point_id": "e8b5b186e2098096", 
+                    "realm": "", 
+                    "x": 400, 
+                    "y": 120
+                }
+            ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
@@ -5936,6 +6781,7 @@
                         "4afa70f9e44c8931"
                     ], 
                     "point_id": "2af77f65d9fe3594", 
+                    "realm": "", 
                     "x": -270, 
                     "y": -50
                 }, 
@@ -5947,6 +6793,7 @@
                         "9247fb36492cc671"
                     ], 
                     "point_id": "4afa70f9e44c8931", 
+                    "realm": "", 
                     "x": -270, 
                     "y": 0
                 }, 
@@ -5957,6 +6804,7 @@
                         "f035360ee505f544"
                     ], 
                     "point_id": "6a2dbdc0dd7d53b2", 
+                    "realm": "", 
                     "x": -270, 
                     "y": 20
                 }, 
@@ -5974,6 +6822,7 @@
                         "4afa70f9e44c8931"
                     ], 
                     "point_id": "9247fb36492cc671", 
+                    "realm": "", 
                     "x": -220, 
                     "y": 0
                 }, 
@@ -5991,10 +6840,12 @@
                         "6a2dbdc0dd7d53b2"
                     ], 
                     "point_id": "f035360ee505f544", 
+                    "realm": "", 
                     "x": -220, 
                     "y": 20
                 }
             ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
@@ -6012,6 +6863,7 @@
                         "bf21d1598d08a529"
                     ], 
                     "point_id": "2c2343f968a84a1e", 
+                    "realm": "", 
                     "x": -300, 
                     "y": -20
                 }, 
@@ -6029,6 +6881,7 @@
                         "2c2343f968a84a1e"
                     ], 
                     "point_id": "9e711b7e2f4a8bc5", 
+                    "realm": "", 
                     "x": -300, 
                     "y": 70
                 }, 
@@ -6046,10 +6899,12 @@
                         "2c2343f968a84a1e"
                     ], 
                     "point_id": "bf21d1598d08a529", 
+                    "realm": "", 
                     "x": -220, 
                     "y": -20
                 }
             ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
@@ -6074,6 +6929,7 @@
                         "5d70968ee2b80e9e"
                     ], 
                     "point_id": "00d794c34cb3bf3d", 
+                    "realm": "", 
                     "x": -270, 
                     "y": 40
                 }, 
@@ -6091,10 +6947,12 @@
                         "00d794c34cb3bf3d"
                     ], 
                     "point_id": "5d70968ee2b80e9e", 
+                    "realm": "", 
                     "x": -220, 
                     "y": 40
                 }
             ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
@@ -6115,6 +6973,7 @@
                         "bb9fb4076e55350e"
                     ], 
                     "point_id": "02940659f74394dc", 
+                    "realm": "", 
                     "x": 340, 
                     "y": -10
                 }, 
@@ -6125,6 +6984,7 @@
                         "19d5500d0f7521c1"
                     ], 
                     "point_id": "088a68b746cb25b4", 
+                    "realm": "", 
                     "x": 370, 
                     "y": -10
                 }, 
@@ -6133,7 +6993,7 @@
                         {
                             "action_region_index": 1, 
                             "body_index": 0, 
-                            "instance_id": "4c91bb3536f08060", 
+                            "instance_id": "9dea16fde81fcd95", 
                             "order": 0, 
                             "signal": ""
                         }
@@ -6142,6 +7002,7 @@
                         "02940659f74394dc"
                     ], 
                     "point_id": "0ffd8083db731a07", 
+                    "realm": "", 
                     "x": 340, 
                     "y": 0
                 }, 
@@ -6152,6 +7013,7 @@
                         "b479a61b3fca4c98"
                     ], 
                     "point_id": "19d5500d0f7521c1", 
+                    "realm": "", 
                     "x": 370, 
                     "y": 20
                 }, 
@@ -6169,6 +7031,7 @@
                         "19d5500d0f7521c1"
                     ], 
                     "point_id": "b479a61b3fca4c98", 
+                    "realm": "", 
                     "x": 440, 
                     "y": 20
                 }, 
@@ -6186,10 +7049,12 @@
                         "02940659f74394dc"
                     ], 
                     "point_id": "bb9fb4076e55350e", 
+                    "realm": "", 
                     "x": 340, 
                     "y": -20
                 }
             ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
@@ -6218,6 +7083,7 @@
                     "y": 25000000
                 }
             ], 
+            "realm": "", 
             "shape_types": [
                 "rounded_segment", 
                 "rounded_segment", 
@@ -6238,17 +7104,18 @@
                 "font_size": 1000000, 
                 "rotation": 0.0, 
                 "styles": {}, 
-                "text": "Version 1.0.0", 
+                "text": "PC internal USB power", 
                 "type": "label", 
                 "x": 0, 
                 "y": 0
             }, 
             "layer": "top silkscreen", 
+            "realm": "", 
             "rotation": 0.0, 
-            "value": "Version 1.0.0", 
+            "value": "PC internal USB power", 
             "visible": "true", 
-            "x": 23200000, 
-            "y": 21900000
+            "x": 18800000, 
+            "y": 23200000
         }, 
         {
             "flip": false, 
@@ -6260,17 +7127,18 @@
                 "font_size": 1000000, 
                 "rotation": 0.0, 
                 "styles": {}, 
-                "text": "PC internal USB power", 
+                "text": "Version 1.0.1", 
                 "type": "label", 
                 "x": 0, 
                 "y": 0
             }, 
             "layer": "top silkscreen", 
+            "realm": "", 
             "rotation": 0.0, 
-            "value": "PC internal USB power", 
+            "value": "Version 1.0.1", 
             "visible": "true", 
-            "x": 18800000, 
-            "y": 23200000
+            "x": 23200000, 
+            "y": 21900000
         }
     ], 
     "pins": [], 
@@ -11877,12 +12745,24 @@
     "rulers": [
         {
             "end_point": {
-                "x": 30000000, 
-                "y": -2500000
+                "x": 32500000, 
+                "y": 25000000
             }, 
+            "realm": "", 
             "start_point": {
+                "x": 32500000, 
+                "y": 20000000
+            }
+        }, 
+        {
+            "end_point": {
                 "x": 0, 
-                "y": -2500000
+                "y": 27500000
+            }, 
+            "realm": "", 
+            "start_point": {
+                "x": 15000000, 
+                "y": 27500000
             }
         }, 
         {
@@ -11890,6 +12770,7 @@
                 "x": 33500000, 
                 "y": 20000000
             }, 
+            "realm": "", 
             "start_point": {
                 "x": 33500000, 
                 "y": 5000000
@@ -11900,6 +12781,7 @@
                 "x": -2500000, 
                 "y": 0
             }, 
+            "realm": "", 
             "start_point": {
                 "x": -2500000, 
                 "y": 25000000
@@ -11907,12 +12789,13 @@
         }, 
         {
             "end_point": {
-                "x": 32500000, 
-                "y": 25000000
+                "x": 15000000, 
+                "y": 28500000
             }, 
+            "realm": "", 
             "start_point": {
-                "x": 32500000, 
-                "y": 20000000
+                "x": 30000000, 
+                "y": 28500000
             }
         }, 
         {
@@ -11920,6 +12803,7 @@
                 "x": 32500000, 
                 "y": 5000000
             }, 
+            "realm": "", 
             "start_point": {
                 "x": 32500000, 
                 "y": 0
@@ -11927,27 +12811,19 @@
         }, 
         {
             "end_point": {
-                "x": 0, 
-                "y": 27500000
-            }, 
-            "start_point": {
-                "x": 15000000, 
-                "y": 27500000
-            }
-        }, 
-        {
-            "end_point": {
-                "x": 15000000, 
-                "y": 28500000
-            }, 
-            "start_point": {
                 "x": 30000000, 
-                "y": 28500000
+                "y": -2500000
+            }, 
+            "realm": "", 
+            "start_point": {
+                "x": 0, 
+                "y": -2500000
             }
         }
     ], 
     "shape_poses": [], 
     "shapes": [], 
+    "sheets": [], 
     "trace_segments": [
         {
             "control_points": [], 
@@ -11960,6 +12836,7 @@
                 "x": 23700000, 
                 "y": 13500000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 508000.0
         }, 
@@ -11974,6 +12851,7 @@
                 "x": 23700000, 
                 "y": 11500000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 508000.0
         }

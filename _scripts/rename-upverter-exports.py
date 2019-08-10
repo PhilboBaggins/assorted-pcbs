@@ -79,7 +79,7 @@ def main(dirWithFiles, verbose=0):
         else:
             print('Unable to find file to rename to', newName)
 
-    aaa('populated_step.stp',   DESIRED_FILE_NAMES['3d-model'])
+    aaa('step.stp',   DESIRED_FILE_NAMES['3d-model'])
     aaa('assemblydrawing.svg',  DESIRED_FILE_NAMES['assembly-drawing'])
     aaa('dimensiondrawing.svg', DESIRED_FILE_NAMES['dimension-drawing'])
     aaa('openjson.upv',         DESIRED_FILE_NAMES['upverter-project'])

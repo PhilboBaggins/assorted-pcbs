@@ -4,6 +4,7 @@ A breakout board for the Astrodyne ASD10H range of isolated and regulated 10 wat
 
 ![Board photo](./board-photo.jpg)
 ![Bare board photo](./bare-board-photo.jpg)
+![Board photo - alternate connector](./board-photo-alternate-connector.jpg)
 
 ## Design files
 

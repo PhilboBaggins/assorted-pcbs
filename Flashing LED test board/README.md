@@ -2,7 +2,7 @@
 
 <img align="right" src="../_common/PlaceholderImage.png">
 
-.....
+Testing out these new LEDs I ordered: https://www.aliexpress.com/item/32770689150.html
 
 ## Design files
 

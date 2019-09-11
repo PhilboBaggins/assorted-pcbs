@@ -10,6 +10,10 @@ This board serves a similar function to the null modem and gender change over ad
 
 ![Board photo](./board-photo.jpg)
 
+Before I made this board, I a built a much crappier looking board by hand:
+
+<img width="50%" src="./Original hand built adapter - Bottom.jpg"><img width="50%" src="./Original hand built adapter - Top.jpg">
+
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.

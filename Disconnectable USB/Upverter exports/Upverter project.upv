@@ -8,6 +8,7 @@
                 {
                     "flip": false, 
                     "layer": "top package outline", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -15,6 +16,7 @@
                 {
                     "flip": false, 
                     "layer": "top courtyard", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -22,6 +24,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -36,6 +39,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -44,6 +48,7 @@
             "footprint_index": 0, 
             "footprint_pos": {
                 "flip": false, 
+                "realm": "", 
                 "rotation": 0.5, 
                 "side": "top", 
                 "x": 15650000, 
@@ -57,6 +62,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top component", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -82,6 +88,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -3810000, 
                     "y": 3750000
@@ -107,6 +114,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -3810000, 
                     "y": 1250000
@@ -132,6 +140,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -3810000, 
                     "y": -1250000
@@ -157,6 +166,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -3810000, 
                     "y": -3750000
@@ -182,6 +192,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 3810000, 
                     "y": -3750000
@@ -207,6 +218,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 3810000, 
                     "y": -1250000
@@ -232,6 +244,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 3810000, 
                     "y": 1250000
@@ -257,6 +270,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 3810000, 
                     "y": 3750000
@@ -282,6 +296,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "{{refdes}}A", 
                             "visible": "true", 
@@ -291,6 +306,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 800, 
                     "y": -660
@@ -312,6 +328,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "{{refdes}}B", 
                             "visible": "true", 
@@ -321,6 +338,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 800, 
                     "y": -700
@@ -342,6 +360,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "{{refdes}}C", 
                             "visible": "true", 
@@ -351,6 +370,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 800, 
                     "y": -740
@@ -372,6 +392,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "{{refdes}}D", 
                             "visible": "true", 
@@ -381,6 +402,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 800, 
                     "y": -780
@@ -396,6 +418,7 @@
                 {
                     "flip": false, 
                     "layer": "top package outline", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -403,6 +426,7 @@
                 {
                     "flip": false, 
                     "layer": "top courtyard", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -410,6 +434,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -424,6 +449,7 @@
                 {
                     "flip": false, 
                     "layer": "top silkscreen", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -432,6 +458,7 @@
             "footprint_index": 0, 
             "footprint_pos": {
                 "flip": false, 
+                "realm": "", 
                 "rotation": 0.5, 
                 "side": "top", 
                 "x": 30475000, 
@@ -462,6 +489,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 6470000, 
                     "y": -3070000
@@ -490,6 +518,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -6670000, 
                     "y": -3070000
@@ -518,6 +547,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 3400000, 
                     "y": -5780000
@@ -546,6 +576,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 900000, 
                     "y": -5780000
@@ -574,6 +605,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -1100000, 
                     "y": -5780000
@@ -602,6 +634,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -3600000, 
                     "y": -5780000
@@ -627,6 +660,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "J2", 
                             "visible": "true", 
@@ -648,6 +682,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "67643-0910", 
                             "visible": "true", 
@@ -657,6 +692,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 960, 
                     "y": -740
@@ -672,6 +708,7 @@
                 {
                     "flip": false, 
                     "layer": "top courtyard", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -679,6 +716,7 @@
                 {
                     "flip": false, 
                     "layer": "bottom courtyard", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -687,6 +725,7 @@
             "footprint_index": 0, 
             "footprint_pos": {
                 "flip": false, 
+                "realm": "", 
                 "rotation": 1.5, 
                 "side": "top", 
                 "x": 5000000, 
@@ -700,6 +739,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top component", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 0, 
                     "y": 0
@@ -716,6 +756,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -4300000, 
                     "y": 3800000
@@ -732,6 +773,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": -1550000, 
                     "y": 2800000
@@ -748,6 +790,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 450000, 
                     "y": 2800000
@@ -764,6 +807,7 @@
                     }, 
                     "flip": false, 
                     "layer": "top copper", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 2700000, 
                     "y": 3800000
@@ -789,6 +833,7 @@
                                 "x": 0, 
                                 "y": 0
                             }, 
+                            "realm": "", 
                             "rotation": 0.0, 
                             "value": "J1", 
                             "visible": "true", 
@@ -798,6 +843,7 @@
                     ], 
                     "flip": "false", 
                     "hidden": "false", 
+                    "realm": "", 
                     "rotation": 0.0, 
                     "x": 700, 
                     "y": -730
@@ -864,9 +910,10 @@
                 "_category_a3c16ecb93907806": "Uncategorized", 
                 "_category_bda670ac885e6661": "Uncategorized", 
                 "_datasheet": "http://www.molex.com/pdm_docs/sd/676430910_sd.pdf", 
-                "_digikey_description": "", 
+                "_digikey_description": "CONN ", 
                 "_digikey_part_number": "", 
                 "_imported_from_octopart": "yes", 
+                "_is_preset_symbol_0_0": "no", 
                 "_lead_free": "yes", 
                 "_manufacturer": "Molex", 
                 "_mouser_part_number": "", 
@@ -905,6 +952,38 @@
                 "size_length": "15.26 mm", 
                 "size_width": "14.4 mm"
             }, 
+            "connections": {
+                "0": {
+                    "connection_index": 0, 
+                    "name": "VBUS", 
+                    "ref": "1"
+                }, 
+                "1": {
+                    "connection_index": 1, 
+                    "name": "D-", 
+                    "ref": "2"
+                }, 
+                "2": {
+                    "connection_index": 2, 
+                    "name": "D+", 
+                    "ref": "3"
+                }, 
+                "3": {
+                    "connection_index": 3, 
+                    "name": "GND", 
+                    "ref": "4"
+                }, 
+                "4": {
+                    "connection_index": 4, 
+                    "name": "S", 
+                    "ref": "5"
+                }, 
+                "5": {
+                    "connection_index": 5, 
+                    "name": "S", 
+                    "ref": "6"
+                }
+            }, 
             "footprints": [
                 {
                     "bodies": [
@@ -920,7 +999,7 @@
                                 {
                                     "flip": false, 
                                     "height": -15297076, 
-                                    "is_centered": false, 
+                                    "is_centered": true, 
                                     "line_width": 152400, 
                                     "rotation": 0.0, 
                                     "styles": {}, 
@@ -943,7 +1022,7 @@
                                 {
                                     "flip": false, 
                                     "height": 15699476, 
-                                    "is_centered": false, 
+                                    "is_centered": true, 
                                     "line_width": 0, 
                                     "rotation": 0.0, 
                                     "styles": {}, 
@@ -966,7 +1045,7 @@
                                 {
                                     "flip": false, 
                                     "height": 15699476, 
-                                    "is_centered": false, 
+                                    "is_centered": true, 
                                     "line_width": 150000, 
                                     "rotation": 0.0, 
                                     "styles": {}, 
@@ -1025,7 +1104,7 @@
                         {
                             "connection_indexes": [], 
                             "flip": false, 
-                            "layer": "assembly", 
+                            "layer": "top assembly", 
                             "moveable": false, 
                             "pin_num": null, 
                             "removeable": false, 
@@ -1035,21 +1114,6 @@
                                     "flip": false, 
                                     "p1": {
                                         "x": -8367114, 
-                                        "y": -8251200
-                                    }, 
-                                    "p2": {
-                                        "x": -8367114, 
-                                        "y": 7448276
-                                    }, 
-                                    "rotation": 0.0, 
-                                    "styles": {}, 
-                                    "type": "line", 
-                                    "width": 200000
-                                }, 
-                                {
-                                    "flip": false, 
-                                    "p1": {
-                                        "x": -8367114, 
                                         "y": 7448276
                                     }, 
                                     "p2": {
@@ -1092,7 +1156,22 @@
                                     "width": 200000
                                 }, 
                                 {
-                                    "align": "center", 
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -8367114, 
+                                        "y": -8251200
+                                    }, 
+                                    "p2": {
+                                        "x": -8367114, 
+                                        "y": 7448276
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "align": "left", 
                                     "baseline": "alphabetic", 
                                     "flip": false, 
                                     "font_family": "sans-serif", 
@@ -1101,18 +1180,8 @@
                                     "styles": {}, 
                                     "text": "{{refdes}}", 
                                     "type": "label", 
-                                    "x": 0, 
-                                    "y": 0
-                                }, 
-                                {
-                                    "flip": false, 
-                                    "line_width": 0, 
-                                    "radius": 250000, 
-                                    "rotation": 0.0, 
-                                    "styles": {}, 
-                                    "type": "circle", 
-                                    "x": 5027218, 
-                                    "y": -4308380
+                                    "x": -100000, 
+                                    "y": -401462
                                 }
                             ]
                         }
@@ -1304,7 +1373,8 @@
                             "x": -3600000, 
                             "y": -5780000
                         }
-                    ]
+                    ], 
+                    "threeds": []
                 }
             ], 
             "name": "Universal Serial Bus (USB) Shielded I/O Receptacle, Right Angle, Type A,  Black Polyester, Gold (Au) Flash, PCB Thickness 1.60mm, without Upper Flange, Lead-Free", 
@@ -1446,7 +1516,30 @@
                                     "width": 2
                                 }
                             ], 
-                            "annotations": [], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{refdes}}", 
+                                    "x": -30, 
+                                    "y": 60
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_part_number}}", 
+                                    "x": -30, 
+                                    "y": -10
+                                }
+                            ], 
                             "shapes": [
                                 {
                                     "flip": false, 
@@ -1466,9 +1559,10 @@
                                     "flip": false, 
                                     "font_family": "sans-serif", 
                                     "font_size": 10, 
+                                    "original_pattern": "{{_pin_2_name}}", 
                                     "rotation": 0.0, 
                                     "styles": {}, 
-                                    "text": "{{_pin_2_name}}", 
+                                    "text": "D+", 
                                     "type": "label", 
                                     "x": -28, 
                                     "y": 20
@@ -1479,9 +1573,10 @@
                                     "flip": false, 
                                     "font_family": "sans-serif", 
                                     "font_size": 10, 
+                                    "original_pattern": "{{_pin_1_name}}", 
                                     "rotation": 0.0, 
                                     "styles": {}, 
-                                    "text": "{{_pin_1_name}}", 
+                                    "text": "D-", 
                                     "type": "label", 
                                     "x": -28, 
                                     "y": 30
@@ -1492,9 +1587,10 @@
                                     "flip": false, 
                                     "font_family": "sans-serif", 
                                     "font_size": 10, 
+                                    "original_pattern": "{{_pin_0_name}}", 
                                     "rotation": 0.0, 
                                     "styles": {}, 
-                                    "text": "{{_pin_0_name}}", 
+                                    "text": "VBUS", 
                                     "type": "label", 
                                     "x": -28, 
                                     "y": 40
@@ -1505,9 +1601,10 @@
                                     "flip": false, 
                                     "font_family": "sans-serif", 
                                     "font_size": 10, 
+                                    "original_pattern": "{{_pin_3_name}}", 
                                     "rotation": 0.0, 
                                     "styles": {}, 
-                                    "text": "{{_pin_3_name}}", 
+                                    "text": "GND", 
                                     "type": "label", 
                                     "x": 38, 
                                     "y": 40
@@ -1518,9 +1615,10 @@
                                     "flip": false, 
                                     "font_family": "sans-serif", 
                                     "font_size": 10, 
+                                    "original_pattern": "{{_pin_4_name}}", 
                                     "rotation": 0.0, 
                                     "styles": {}, 
-                                    "text": "{{_pin_4_name}}", 
+                                    "text": "S", 
                                     "type": "label", 
                                     "x": 38, 
                                     "y": 30
@@ -1531,9 +1629,10 @@
                                     "flip": false, 
                                     "font_family": "sans-serif", 
                                     "font_size": 10, 
+                                    "original_pattern": "{{_pin_5_name}}", 
                                     "rotation": 0.0, 
                                     "styles": {}, 
-                                    "text": "{{_pin_5_name}}", 
+                                    "text": "S", 
                                     "type": "label", 
                                     "x": 38, 
                                     "y": 20
@@ -1543,16 +1642,16 @@
                         }
                     ]
                 }
-            ], 
-            "threed_models": []
+            ]
         }, 
         "57226182e92f4941": {
             "attributes": {
                 "_approved_alternate_part_number": "", 
                 "_category": "IC", 
                 "_datasheet": "", 
-                "_digikey_description": "", 
+                "_digikey_description": "IC ", 
                 "_digikey_part_number": "", 
+                "_is_preset_symbol_0_0": "no", 
                 "_lead_free": "Unknown", 
                 "_manufacturer": "Upverter", 
                 "_mouser_part_number": "", 
@@ -1568,6 +1667,7 @@
                 "_verified_pad_assignment": "false", 
                 "_verified_pin_names": "false"
             }, 
+            "connections": {}, 
             "footprints": [], 
             "name": "No description", 
             "symbols": [
@@ -1575,13 +1675,47 @@
                     "bodies": [
                         {
                             "action_regions": [], 
-                            "annotations": [], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "(placeholder symbol)", 
+                                    "x": 10, 
+                                    "y": 11
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_part_number}}", 
+                                    "x": 10, 
+                                    "y": 88
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_manufacturer}}", 
+                                    "x": 9, 
+                                    "y": 73
+                                }
+                            ], 
                             "shapes": [
                                 {
                                     "flip": false, 
                                     "height": 110, 
                                     "is_centered": false, 
-                                    "line_width": 0, 
+                                    "line_width": 2, 
                                     "rotation": 0.0, 
                                     "styles": {}, 
                                     "type": "rectangle", 
@@ -1594,8 +1728,7 @@
                         }
                     ]
                 }
-            ], 
-            "threed_models": []
+            ]
         }, 
         "9c52dfc5d91648b6": {
             "attributes": {
@@ -1612,9 +1745,14 @@
                 "Standard Package": "21", 
                 "Washable": "Yes", 
                 "_approved_alternate_part_number": "", 
+                "_category": "Switch", 
                 "_datasheet": "https://upverter.com/datasheet/6428f4fcbabc8ac3c1e7f6bef88eb7df8f3c365b.pdf", 
-                "_digikey_description": "", 
+                "_digikey_description": "SWITCH ", 
                 "_digikey_part_number": "", 
+                "_is_preset_symbol_0_0": "no", 
+                "_is_preset_symbol_0_1": "no", 
+                "_is_preset_symbol_0_2": "no", 
+                "_is_preset_symbol_0_3": "no", 
                 "_lead_free": "Unknown", 
                 "_manufacturer": "Grayhill Inc", 
                 "_mfg_package_ident": "", 
@@ -1625,11 +1763,49 @@
                 "_prefix": "SW", 
                 "_rohs": "Unknown", 
                 "_temperature_range_high": "", 
-                "_temperature_range_low": "", 
-                "_verified_attributes": "true", 
-                "_verified_geometry": "true", 
-                "_verified_pad_assignment": "true", 
-                "_verified_pin_names": "true"
+                "_temperature_range_low": ""
+            }, 
+            "connections": {
+                "0": {
+                    "connection_index": 0, 
+                    "name": "A1", 
+                    "ref": "1"
+                }, 
+                "1": {
+                    "connection_index": 1, 
+                    "name": "A2", 
+                    "ref": "2"
+                }, 
+                "2": {
+                    "connection_index": 2, 
+                    "name": "A3", 
+                    "ref": "3"
+                }, 
+                "3": {
+                    "connection_index": 3, 
+                    "name": "A4", 
+                    "ref": "4"
+                }, 
+                "4": {
+                    "connection_index": 4, 
+                    "name": "B4", 
+                    "ref": "5"
+                }, 
+                "5": {
+                    "connection_index": 5, 
+                    "name": "B3", 
+                    "ref": "6"
+                }, 
+                "6": {
+                    "connection_index": 6, 
+                    "name": "B2", 
+                    "ref": "7"
+                }, 
+                "7": {
+                    "connection_index": 7, 
+                    "name": "B1", 
+                    "ref": "8"
+                }
             }, 
             "footprints": [
                 {
@@ -1646,7 +1822,7 @@
                                 {
                                     "flip": false, 
                                     "height": 12200000, 
-                                    "is_centered": false, 
+                                    "is_centered": true, 
                                     "line_width": 152400, 
                                     "rotation": 0.0, 
                                     "styles": {}, 
@@ -1669,7 +1845,7 @@
                                 {
                                     "flip": false, 
                                     "height": 12602400, 
-                                    "is_centered": false, 
+                                    "is_centered": true, 
                                     "line_width": 0, 
                                     "rotation": 0.0, 
                                     "styles": {}, 
@@ -1692,7 +1868,7 @@
                                 {
                                     "flip": false, 
                                     "height": 12602400, 
-                                    "is_centered": false, 
+                                    "is_centered": true, 
                                     "line_width": 150000, 
                                     "rotation": 0.0, 
                                     "styles": {}, 
@@ -1751,7 +1927,7 @@
                         {
                             "connection_indexes": [], 
                             "flip": false, 
-                            "layer": "assembly", 
+                            "layer": "top assembly", 
                             "moveable": false, 
                             "pin_num": null, 
                             "removeable": false, 
@@ -1761,21 +1937,6 @@
                                     "flip": false, 
                                     "p1": {
                                         "x": -5026200, 
-                                        "y": -6301200
-                                    }, 
-                                    "p2": {
-                                        "x": -5026200, 
-                                        "y": 6301200
-                                    }, 
-                                    "rotation": 0.0, 
-                                    "styles": {}, 
-                                    "type": "line", 
-                                    "width": 200000
-                                }, 
-                                {
-                                    "flip": false, 
-                                    "p1": {
-                                        "x": -5026200, 
                                         "y": 6301200
                                     }, 
                                     "p2": {
@@ -1818,7 +1979,22 @@
                                     "width": 200000
                                 }, 
                                 {
-                                    "align": "center", 
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -5026200, 
+                                        "y": -6301200
+                                    }, 
+                                    "p2": {
+                                        "x": -5026200, 
+                                        "y": 6301200
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "align": "left", 
                                     "baseline": "alphabetic", 
                                     "flip": false, 
                                     "font_family": "sans-serif", 
@@ -1829,16 +2005,6 @@
                                     "type": "label", 
                                     "x": 0, 
                                     "y": 0
-                                }, 
-                                {
-                                    "flip": false, 
-                                    "line_width": 0, 
-                                    "radius": 250000, 
-                                    "rotation": 0.0, 
-                                    "styles": {}, 
-                                    "type": "circle", 
-                                    "x": -3015720, 
-                                    "y": 4290720
                                 }
                             ]
                         }
@@ -2080,7 +2246,8 @@
                             "x": 3810000, 
                             "y": 3750000
                         }
-                    ]
+                    ], 
+                    "threeds": []
                 }
             ], 
             "name": "Quad Thru-Hole DIP Switch", 
@@ -2134,7 +2301,30 @@
                                     "width": 2
                                 }
                             ], 
-                            "annotations": [], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{refdes}}A", 
+                                    "x": 0, 
+                                    "y": 10
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_part_number}}", 
+                                    "x": 0, 
+                                    "y": -20
+                                }
+                            ], 
                             "shapes": [
                                 {
                                     "flip": false, 
@@ -2221,7 +2411,30 @@
                                     "width": 2
                                 }
                             ], 
-                            "annotations": [], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{refdes}}B", 
+                                    "x": 0, 
+                                    "y": 10
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_part_number}}", 
+                                    "x": 0, 
+                                    "y": -20
+                                }
+                            ], 
                             "shapes": [
                                 {
                                     "flip": false, 
@@ -2308,7 +2521,30 @@
                                     "width": 2
                                 }
                             ], 
-                            "annotations": [], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{refdes}}C", 
+                                    "x": 0, 
+                                    "y": 10
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_part_number}}", 
+                                    "x": 0, 
+                                    "y": -20
+                                }
+                            ], 
                             "shapes": [
                                 {
                                     "flip": false, 
@@ -2395,7 +2631,30 @@
                                     "width": 2
                                 }
                             ], 
-                            "annotations": [], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{refdes}}D", 
+                                    "x": 0, 
+                                    "y": 10
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_part_number}}", 
+                                    "x": 0, 
+                                    "y": -20
+                                }
+                            ], 
                             "shapes": [
                                 {
                                     "flip": false, 
@@ -2437,13 +2696,13 @@
                         }
                     ]
                 }
-            ], 
-            "threed_models": []
+            ]
         }, 
         "a2a0a919dd56def0": {
             "attributes": {
                 "_category": "Conn", 
                 "_datasheet": "", 
+                "_is_preset_symbol_0_0": "no", 
                 "_lead_free": "Yes", 
                 "_manufacturer": "Upverter", 
                 "_num_pins": "4", 
@@ -2452,6 +2711,28 @@
                 "_part_number": "USB-A-PCB", 
                 "_prefix": "J", 
                 "_rohs": "Yes"
+            }, 
+            "connections": {
+                "0": {
+                    "connection_index": 0, 
+                    "name": "+5V", 
+                    "ref": "1"
+                }, 
+                "1": {
+                    "connection_index": 1, 
+                    "name": "D-", 
+                    "ref": "2"
+                }, 
+                "2": {
+                    "connection_index": 2, 
+                    "name": "D+", 
+                    "ref": "3"
+                }, 
+                "3": {
+                    "connection_index": 3, 
+                    "name": "GND", 
+                    "ref": "4"
+                }
             }, 
             "footprints": [
                 {
@@ -2468,7 +2749,7 @@
                                 {
                                     "flip": false, 
                                     "height": 8600000, 
-                                    "is_centered": false, 
+                                    "is_centered": true, 
                                     "line_width": 0, 
                                     "rotation": 0.0, 
                                     "styles": {}, 
@@ -2491,7 +2772,7 @@
                                 {
                                     "flip": false, 
                                     "height": 8600000, 
-                                    "is_centered": false, 
+                                    "is_centered": true, 
                                     "line_width": 0, 
                                     "rotation": 0.0, 
                                     "styles": {}, 
@@ -2505,7 +2786,7 @@
                         {
                             "connection_indexes": [], 
                             "flip": false, 
-                            "layer": "assembly", 
+                            "layer": "top assembly", 
                             "moveable": false, 
                             "pin_num": null, 
                             "removeable": false, 
@@ -2515,21 +2796,6 @@
                                     "flip": false, 
                                     "p1": {
                                         "x": -6000000, 
-                                        "y": -3800000
-                                    }, 
-                                    "p2": {
-                                        "x": -6000000, 
-                                        "y": 4800000
-                                    }, 
-                                    "rotation": 0.0, 
-                                    "styles": {}, 
-                                    "type": "line", 
-                                    "width": 200000
-                                }, 
-                                {
-                                    "flip": false, 
-                                    "p1": {
-                                        "x": -6000000, 
                                         "y": 4800000
                                     }, 
                                     "p2": {
@@ -2565,6 +2831,21 @@
                                     "p2": {
                                         "x": -6000000, 
                                         "y": -3800000
+                                    }, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "line", 
+                                    "width": 200000
+                                }, 
+                                {
+                                    "flip": false, 
+                                    "p1": {
+                                        "x": -6000000, 
+                                        "y": -3800000
+                                    }, 
+                                    "p2": {
+                                        "x": -6000000, 
+                                        "y": 4800000
                                     }, 
                                     "rotation": 0.0, 
                                     "styles": {}, 
@@ -2663,7 +2944,8 @@
                             "x": 2700000, 
                             "y": 3800000
                         }
-                    ]
+                    ], 
+                    "threeds": []
                 }
             ], 
             "name": "USB A plug layout", 
@@ -2761,13 +3043,25 @@
                                     "width": 2
                                 }
                             ], 
-                            "annotations": [], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{refdes}}", 
+                                    "x": -30, 
+                                    "y": 50
+                                }
+                            ], 
                             "shapes": [
                                 {
                                     "flip": false, 
                                     "height": 90, 
                                     "is_centered": false, 
-                                    "line_width": 0, 
+                                    "line_width": 2, 
                                     "rotation": 0.0, 
                                     "styles": {}, 
                                     "type": "rectangle", 
@@ -2832,8 +3126,7 @@
                         }
                     ]
                 }
-            ], 
-            "threed_models": []
+            ]
         }
     }, 
     "design_attributes": {
@@ -2850,59 +3143,71 @@
             "name": "Disconnectable USB", 
             "owner": "Trebuchetindustries", 
             "slug": "Disconnectable-USB", 
-            "updated_timestamp": 1468848278
+            "updated_timestamp": 1568294900
         }
     }, 
+    "extra_pcb_data_blobs": [], 
+    "extra_schematic_data_blobs": [], 
     "layer_options": [
         {
             "ident": "hole", 
             "is_copper": false, 
-            "name": "hole"
+            "name": "hole", 
+            "realm": ""
         }, 
         {
             "ident": "top silkscreen", 
             "is_copper": false, 
-            "name": "top silkscreen"
+            "name": "top silkscreen", 
+            "realm": ""
         }, 
         {
             "ident": "top solder mask", 
             "is_copper": false, 
-            "name": "top solder mask"
+            "name": "top solder mask", 
+            "realm": ""
         }, 
         {
             "ident": "top paste", 
             "is_copper": false, 
-            "name": "top paste"
+            "name": "top paste", 
+            "realm": ""
         }, 
         {
             "ident": "top copper", 
             "is_copper": true, 
-            "name": "top copper"
+            "name": "top copper", 
+            "realm": ""
         }, 
         {
             "ident": "bottom copper", 
             "is_copper": true, 
-            "name": "bottom copper"
+            "name": "bottom copper", 
+            "realm": ""
         }, 
         {
             "ident": "bottom paste", 
             "is_copper": false, 
-            "name": "bottom paste"
+            "name": "bottom paste", 
+            "realm": ""
         }, 
         {
             "ident": "bottom solder mask", 
             "is_copper": false, 
-            "name": "bottom solder mask"
+            "name": "bottom solder mask", 
+            "realm": ""
         }, 
         {
             "ident": "bottom silkscreen", 
             "is_copper": false, 
-            "name": "bottom silkscreen"
+            "name": "bottom silkscreen", 
+            "realm": ""
         }, 
         {
             "ident": "mechanical details", 
             "is_copper": false, 
-            "name": "mechanical details"
+            "name": "mechanical details", 
+            "realm": ""
         }
     ], 
     "layout_bodies": [], 
@@ -2911,6 +3216,7 @@
     "module_instances": [], 
     "modules": {}, 
     "named_regions": [], 
+    "net_labels": [], 
     "nets": [
         {
             "annotations": [], 
@@ -2934,6 +3240,7 @@
                         "57b0c965b1b3e61c"
                     ], 
                     "point_id": "0a5858bb5b038efc", 
+                    "realm": "", 
                     "x": 1010, 
                     "y": -700
                 }, 
@@ -2951,6 +3258,7 @@
                         "420a3937c698076b"
                     ], 
                     "point_id": "12604aeab70dc82c", 
+                    "realm": "", 
                     "x": 1010, 
                     "y": -720
                 }, 
@@ -2962,6 +3270,7 @@
                         "efe1f2ef6101dbfa"
                     ], 
                     "point_id": "420a3937c698076b", 
+                    "realm": "", 
                     "x": 1030, 
                     "y": -720
                 }, 
@@ -2972,6 +3281,7 @@
                         "efe1f2ef6101dbfa"
                     ], 
                     "point_id": "57b0c965b1b3e61c", 
+                    "realm": "", 
                     "x": 1030, 
                     "y": -700
                 }, 
@@ -2989,6 +3299,7 @@
                         "7cc3aa6991cdcd48"
                     ], 
                     "point_id": "752bfecb5281874e", 
+                    "realm": "", 
                     "x": 840, 
                     "y": -790
                 }, 
@@ -2999,6 +3310,7 @@
                         "752bfecb5281874e"
                     ], 
                     "point_id": "7cc3aa6991cdcd48", 
+                    "realm": "", 
                     "x": 1030, 
                     "y": -790
                 }, 
@@ -3016,6 +3328,7 @@
                         "efe1f2ef6101dbfa"
                     ], 
                     "point_id": "91fa46092963a411", 
+                    "realm": "", 
                     "x": 1010, 
                     "y": -710
                 }, 
@@ -3027,17 +3340,21 @@
                         "91fa46092963a411"
                     ], 
                     "point_id": "efe1f2ef6101dbfa", 
+                    "realm": "", 
                     "x": 1030, 
                     "y": -710
                 }
             ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
         }, 
         {
             "annotations": [], 
-            "attributes": {}, 
+            "attributes": {
+                "name": "J2-VBUS"
+            }, 
             "net_id": "f48053e745e5187b", 
             "net_type": "nets", 
             "points": [
@@ -3048,6 +3365,7 @@
                         "c589d5a1912060ea"
                     ], 
                     "point_id": "3857e6cf2ed714e7", 
+                    "realm": "", 
                     "x": 880, 
                     "y": -700
                 }, 
@@ -3065,6 +3383,7 @@
                         "3857e6cf2ed714e7"
                     ], 
                     "point_id": "84aa03cb4d10227b", 
+                    "realm": "", 
                     "x": 920, 
                     "y": -700
                 }, 
@@ -3082,6 +3401,7 @@
                         "c589d5a1912060ea"
                     ], 
                     "point_id": "8df46342b7024e0d", 
+                    "realm": "", 
                     "x": 840, 
                     "y": -670
                 }, 
@@ -3092,17 +3412,21 @@
                         "8df46342b7024e0d"
                     ], 
                     "point_id": "c589d5a1912060ea", 
+                    "realm": "", 
                     "x": 880, 
                     "y": -670
                 }
             ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
         }, 
         {
             "annotations": [], 
-            "attributes": {}, 
+            "attributes": {
+                "name": "J1-VBUS"
+            }, 
             "net_id": "5ae16448e56dfa48", 
             "net_type": "nets", 
             "points": [
@@ -3120,6 +3444,7 @@
                         "8ad89143ea69deac"
                     ], 
                     "point_id": "08a9e041ccb935c5", 
+                    "realm": "", 
                     "x": 800, 
                     "y": -670
                 }, 
@@ -3130,6 +3455,7 @@
                         "9fddf84a8f7add6a"
                     ], 
                     "point_id": "474ded004cc7cc4b", 
+                    "realm": "", 
                     "x": 760, 
                     "y": -700
                 }, 
@@ -3140,6 +3466,7 @@
                         "474ded004cc7cc4b"
                     ], 
                     "point_id": "8ad89143ea69deac", 
+                    "realm": "", 
                     "x": 760, 
                     "y": -670
                 }, 
@@ -3157,17 +3484,21 @@
                         "474ded004cc7cc4b"
                     ], 
                     "point_id": "9fddf84a8f7add6a", 
+                    "realm": "", 
                     "x": 730, 
                     "y": -700
                 }
             ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
         }, 
         {
             "annotations": [], 
-            "attributes": {}, 
+            "attributes": {
+                "name": "J1-D+"
+            }, 
             "net_id": "d881d4b82867b6bc", 
             "net_type": "nets", 
             "points": [
@@ -3185,6 +3516,7 @@
                         "c835d34e71496afd"
                     ], 
                     "point_id": "6ca7aff1d58ca37a", 
+                    "realm": "", 
                     "x": 800, 
                     "y": -750
                 }, 
@@ -3195,6 +3527,7 @@
                         "d7b05522f2e3b0b6"
                     ], 
                     "point_id": "aba3fd257e41cf8d", 
+                    "realm": "", 
                     "x": 760, 
                     "y": -740
                 }, 
@@ -3205,6 +3538,7 @@
                         "aba3fd257e41cf8d"
                     ], 
                     "point_id": "c835d34e71496afd", 
+                    "realm": "", 
                     "x": 760, 
                     "y": -750
                 }, 
@@ -3222,10 +3556,12 @@
                         "aba3fd257e41cf8d"
                     ], 
                     "point_id": "d7b05522f2e3b0b6", 
+                    "realm": "", 
                     "x": 730, 
                     "y": -740
                 }
             ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
@@ -3243,6 +3579,7 @@
                         "a3fbd58ee1ad7193"
                     ], 
                     "point_id": "6ee54c824d332eec", 
+                    "realm": "", 
                     "x": 760, 
                     "y": -760
                 }, 
@@ -3253,6 +3590,7 @@
                         "e97067b98cc40ab3"
                     ], 
                     "point_id": "a1f054b62c715a23", 
+                    "realm": "", 
                     "x": 760, 
                     "y": -790
                 }, 
@@ -3270,6 +3608,7 @@
                         "6ee54c824d332eec"
                     ], 
                     "point_id": "a3fbd58ee1ad7193", 
+                    "realm": "", 
                     "x": 730, 
                     "y": -760
                 }, 
@@ -3287,17 +3626,21 @@
                         "a1f054b62c715a23"
                     ], 
                     "point_id": "e97067b98cc40ab3", 
+                    "realm": "", 
                     "x": 800, 
                     "y": -790
                 }
             ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
         }, 
         {
             "annotations": [], 
-            "attributes": {}, 
+            "attributes": {
+                "name": "J2-D-"
+            }, 
             "net_id": "509c7300a2e945f3", 
             "net_type": "nets", 
             "points": [
@@ -3315,6 +3658,7 @@
                         "604c24967d4c8397"
                     ], 
                     "point_id": "30d05796dfa5c664", 
+                    "realm": "", 
                     "x": 840, 
                     "y": -710
                 }, 
@@ -3332,17 +3676,21 @@
                         "30d05796dfa5c664"
                     ], 
                     "point_id": "604c24967d4c8397", 
+                    "realm": "", 
                     "x": 920, 
                     "y": -710
                 }
             ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
         }, 
         {
             "annotations": [], 
-            "attributes": {}, 
+            "attributes": {
+                "name": "J1-D-"
+            }, 
             "net_id": "3ab067c2dc48a98e", 
             "net_type": "nets", 
             "points": [
@@ -3360,6 +3708,7 @@
                         "8bdc9b900009acbc"
                     ], 
                     "point_id": "595acdfcf5237e5c", 
+                    "realm": "", 
                     "x": 730, 
                     "y": -720
                 }, 
@@ -3377,6 +3726,7 @@
                         "88b0a77d308393f5"
                     ], 
                     "point_id": "608696d319e1e89b", 
+                    "realm": "", 
                     "x": 800, 
                     "y": -710
                 }, 
@@ -3387,6 +3737,7 @@
                         "8bdc9b900009acbc"
                     ], 
                     "point_id": "88b0a77d308393f5", 
+                    "realm": "", 
                     "x": 760, 
                     "y": -710
                 }, 
@@ -3397,17 +3748,21 @@
                         "88b0a77d308393f5"
                     ], 
                     "point_id": "8bdc9b900009acbc", 
+                    "realm": "", 
                     "x": 760, 
                     "y": -720
                 }
             ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
         }, 
         {
             "annotations": [], 
-            "attributes": {}, 
+            "attributes": {
+                "name": "J2-D+"
+            }, 
             "net_id": "cd0c32893a7cbc06", 
             "net_type": "nets", 
             "points": [
@@ -3418,6 +3773,7 @@
                         "8a8be1c237746765"
                     ], 
                     "point_id": "35d1be2bad9dac3c", 
+                    "realm": "", 
                     "x": 880, 
                     "y": -720
                 }, 
@@ -3435,6 +3791,7 @@
                         "35d1be2bad9dac3c"
                     ], 
                     "point_id": "811d641b7261edcd", 
+                    "realm": "", 
                     "x": 920, 
                     "y": -720
                 }, 
@@ -3445,6 +3802,7 @@
                         "f34b097bd2f49a92"
                     ], 
                     "point_id": "8a8be1c237746765", 
+                    "realm": "", 
                     "x": 880, 
                     "y": -750
                 }, 
@@ -3462,10 +3820,12 @@
                         "8a8be1c237746765"
                     ], 
                     "point_id": "f34b097bd2f49a92", 
+                    "realm": "", 
                     "x": 840, 
                     "y": -750
                 }
             ], 
+            "realm": "", 
             "signals": [
                 ""
             ]
@@ -3510,6 +3870,7 @@
                     "y": 16000000
                 }
             ], 
+            "realm": "", 
             "shape_types": [
                 "rounded_segment", 
                 "rounded_segment", 
@@ -3523,12 +3884,106 @@
             "width": 381000.0
         }
     ], 
-    "pcb_text": [], 
+    "pcb_text": [
+        {
+            "flip": true, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1270000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "D-", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "bottom silkscreen", 
+            "realm": "", 
+            "rotation": 1.5, 
+            "value": "D-", 
+            "visible": "true", 
+            "x": 16500000, 
+            "y": 9000000
+        }, 
+        {
+            "flip": true, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1270000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "D+", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "bottom silkscreen", 
+            "realm": "", 
+            "rotation": 1.5, 
+            "value": "D+", 
+            "visible": "true", 
+            "x": 14000000, 
+            "y": 9000000
+        }, 
+        {
+            "flip": true, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1270000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "GND", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "bottom silkscreen", 
+            "realm": "", 
+            "rotation": 1.5, 
+            "value": "GND", 
+            "visible": "true", 
+            "x": 11500000, 
+            "y": 8500000
+        }, 
+        {
+            "flip": true, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1270000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "VBUS", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "bottom silkscreen", 
+            "realm": "", 
+            "rotation": 1.5, 
+            "value": "VBUS", 
+            "visible": "true", 
+            "x": 19000000, 
+            "y": 8000000
+        }
+    ], 
     "pins": [], 
     "pours": [], 
     "rulers": [], 
     "shape_poses": [], 
     "shapes": [], 
+    "sheets": [], 
     "trace_segments": [
         {
             "control_points": [], 
@@ -3541,6 +3996,7 @@
                 "x": 19810000, 
                 "y": 9100000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3555,6 +4011,7 @@
                 "x": 27405000, 
                 "y": 3530000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3569,6 +4026,7 @@
                 "x": 24695000, 
                 "y": 9100000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3583,6 +4041,7 @@
                 "x": 19310000, 
                 "y": 11100000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3597,6 +4056,7 @@
                 "x": 7900000, 
                 "y": 9000000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3611,6 +4071,7 @@
                 "x": 24285000, 
                 "y": 6190000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3625,6 +4086,7 @@
                 "x": 26110000, 
                 "y": 4825000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3639,6 +4101,7 @@
                 "x": 27405000, 
                 "y": 10890000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3653,6 +4116,7 @@
                 "x": 13340000, 
                 "y": 7750000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3667,6 +4131,7 @@
                 "x": 24695000, 
                 "y": 11100000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3681,6 +4146,7 @@
                 "x": 27405000, 
                 "y": 14425000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3695,6 +4161,7 @@
                 "x": 13265000, 
                 "y": 4825000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3709,6 +4176,7 @@
                 "x": 24695000, 
                 "y": 13600000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3723,6 +4191,7 @@
                 "x": 7900000, 
                 "y": 11000000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3737,6 +4206,7 @@
                 "x": 11274999, 
                 "y": 7750000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3751,6 +4221,7 @@
                 "x": 27405000, 
                 "y": 16670000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3765,6 +4236,7 @@
                 "x": 10025000, 
                 "y": 6500000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3779,6 +4251,7 @@
                 "x": 8350000, 
                 "y": 6500000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3793,6 +4266,7 @@
                 "x": 26580000, 
                 "y": 13600000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3807,6 +4281,7 @@
                 "x": 11590000, 
                 "y": 11000000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3821,6 +4296,7 @@
                 "x": 5309999, 
                 "y": 13810000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }, 
@@ -3835,6 +4311,7 @@
                 "x": 12090000, 
                 "y": 9000000
             }, 
+            "realm": "", 
             "trace_type": "straight", 
             "width": 800000.0
         }

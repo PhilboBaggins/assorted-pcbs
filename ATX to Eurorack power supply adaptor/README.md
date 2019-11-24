@@ -36,7 +36,7 @@ The 3 LEDs indicate the presence of the 3 powers rails (+12V, -12V, +5V). They d
 * -12 volt rail: 5k ohms
 *  +5 volt rail: 1.5k ohms
 
-These resistances were calculated using the [design-calcs.ipynb](./design-calcs.ipynb) Jupyter Notebook.
+These resistances were calculated using the [design-calcs.ipynb](./design-calcs.ipynb) Jupyter Notebook ([online viewer](https://mybinder.org/v2/gh/PhilboBaggins/assorted-pcbs/master?filepath=ATX%20to%20Eurorack%20power%20supply%20adaptor%2Fdesign-calcs.ipynb)).
 
 ## Design files
 
